@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<DuiHuan>
+		<Type ID="200" SaleType="0" Name="Talisman" Description="Powerful talisman exchange" Image="200" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="201" SaleType="0" Name="Items exchange" Description="Exchange precious items" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="301" SaleType="0" Name="Jade set" Description="6 excellent attribute" Image="301" OccupCondition="0" PubStartTime="" PubEndTime=""/>
+		<Type ID="401" SaleType="0" Name="Skeleton Set" Description="6 excellent attribute" Image="401" OccupCondition="1" PubStartTime="" PubEndTime=""/>
+		<Type ID="501" SaleType="0" Name="Wild Silk Set" Description="6 excellent attribute" Image="501" OccupCondition="2" PubStartTime="" PubEndTime=""/>
+		<Type ID="3000" SaleType="1" Name="Archangel Exchange" Description="6 excellent attribute" Image="3000" OccupCondition="0" PubStartTime="" PubEndTime=""/>
+		<Type ID="3001" SaleType="1" Name="Archangel Exchange" Description="6 excellent attribute" Image="3001" OccupCondition="1" PubStartTime="" PubEndTime=""/>
+		<Type ID="3002" SaleType="1" Name="Archangel Exchange" Description="6 excellent attribute" Image="3002" OccupCondition="2" PubStartTime="" PubEndTime=""/>
+		<Type ID="3003" SaleType="1" Name="Great Angel exchange" Description="6 excellent attribute" Image="3000" OccupCondition="3" PubStartTime="" PubEndTime=""/>
+		<Type ID="3005" SaleType="1" Name="Great Angel exchange" Description="6 excellent attribute" Image="3001" OccupCondition="5" PubStartTime="" PubEndTime=""/>
+		<Type ID="3010" SaleType="1" Name="Grade 5  armor exchange" Description="6 excellent attribute" Image="3010" OccupCondition="0" PubStartTime="" PubEndTime=""/>
+		<Type ID="3011" SaleType="1" Name="Grade 5  armor exchange" Description="6 excellent attribute" Image="3011" OccupCondition="1" PubStartTime="" PubEndTime=""/>
+		<Type ID="3012" SaleType="1" Name="Grade 5  armor exchange" Description="6 excellent attribute" Image="3012" OccupCondition="2" PubStartTime="" PubEndTime=""/>
+		<Type ID="3013" SaleType="1" Name="5th grade armor exchange" Description="Atlantis full attribute Armor Set" Image="3013" OccupCondition="3" PubStartTime="" PubEndTime=""/>
+		<Type ID="3015" SaleType="1" Name="Grade 5  armor exchange" Description="6 excellent attribute" Image="3015" OccupCondition="5" PubStartTime="" PubEndTime=""/>
+		<Type ID="3020" SaleType="1" Name="Items exchange" Description="Exchange precious items" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="4000" SaleType="2" Name="Elf exchange" Description="Use Summon accumulated points to exchange rare elf" Image="601" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="4001" SaleType="2" Name="Items exchange" Description="Exchange precious item with summon points" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="5000" SaleType="3" Name="Items exchange" Description="Use feat to exchange for precious items" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="6000" SaleType="4" Name="Items exchange" Description="Exchange precious item with honor" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="7001" SaleType="5" Name="Blood Shop" Description="Blood Diamon" Image="8028" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="7002" SaleType="5" Name="Secret Shop" Description="Exchange items" Image="8029" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="8001" SaleType="6" Name="GodWar Shop" Description="Exchange items" Image="8033" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+
+		<Type ID="9001" SaleType="7" Name="Football League Predictions" Description="Rating is huge" Image="8034" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="10001" SaleType="8" Name="Redeeming Hunting Points" Description="Hunting and riding the ultimate" Image="8035" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="11001" SaleType="9" Name="Force Shop" Description="The work force exchanges massive items" Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="12001" SaleType="9" Name="WhitestoneCity Store" Description="The work force exchanges massive items" Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="13001" SaleType="9" Name="DarkFireCity Store" Description="The work force exchanges massive items" Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="14001" SaleType="9" Name="FrostCity Store" Description="The work force exchanges massive items" Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="15001" SaleType="9" Name="HighlandCity Store" Description="The work force exchanges massive items" Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="16001" SaleType="9" Name="GreeneryCity Store" Description="The work force exchanges massive items" Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+		<Type ID="17001" SaleType="9" Name="Strength shops" Description="The work force exchanges massive items" Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime=""/>
+	</DuiHuan>
+</config>

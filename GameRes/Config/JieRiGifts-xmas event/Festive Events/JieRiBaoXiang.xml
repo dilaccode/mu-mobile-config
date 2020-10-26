@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="14" FromDate="2018-11-18 00:00:00" ToDate="2018-11-25 23:59:59" AwardStartDate="2018-11-18 00:00:00" AwardEndDate="2018-11-25 23:59:59" />
+  <GiftList Description2="During the event period, hunt monsters and collect event items to exchange with various gifts." Description12="During the event period, you can exchange rare items every day.">
+    <Award ID="1" Type="2" NewGoodsID="50020,3,1,0,0,0,0" DuiHuanGoodsIDs="13003019,4" MoJing="0" JiFen="0" DayMaxTimes="5" />
+    <Award ID="2" Type="2" NewGoodsID="2001,20,1,0,0,0,0" DuiHuanGoodsIDs="13003019,3" MoJing="0" JiFen="0" DayMaxTimes="5" />
+    <Award ID="3" Type="2" NewGoodsID="2003,20,1,0,0,0,0" DuiHuanGoodsIDs="13003019,3" MoJing="0" JiFen="0" DayMaxTimes="5" />
+    <Award ID="4" Type="2" NewGoodsID="5110,2,1,0,0,0,0" DuiHuanGoodsIDs="13003019,4" MoJing="0" JiFen="0" DayMaxTimes="3" />
+    <Award ID="5" Type="2" NewGoodsID="5200,2,1,0,0,0,0" DuiHuanGoodsIDs="13003019,4" MoJing="0" JiFen="0" DayMaxTimes="3" />
+    <Award ID="6" Type="2" NewGoodsID="2100,30,1,0,0,0,0" DuiHuanGoodsIDs="13003019,4" MoJing="0" JiFen="0" DayMaxTimes="3" />
+    <Award ID="7" Type="2" NewGoodsID="2016,40,1,0,0,0,0" DuiHuanGoodsIDs="13003019,5" MoJing="0" JiFen="0" DayMaxTimes="4" />
+    <Award ID="8" Type="2" NewGoodsID="2002,15,1,0,0,0,0" DuiHuanGoodsIDs="13004011,2" MoJing="0" JiFen="0" DayMaxTimes="5" />
+    <Award ID="9" Type="2" NewGoodsID="2101,15,1,0,0,0,0" DuiHuanGoodsIDs="13004011,2" MoJing="0" JiFen="0" DayMaxTimes="3" />
+    <Award ID="10" Type="2" NewGoodsID="2017,15,1,0,0,0,0" DuiHuanGoodsIDs="13004011,2" MoJing="0" JiFen="0" DayMaxTimes="3" />
+    <Award ID="11" Type="2" NewGoodsID="2030,15,1,0,0,0,0" DuiHuanGoodsIDs="13004011,2" MoJing="0" JiFen="0" DayMaxTimes="4" />
+    <Award ID="12" Type="2" NewGoodsID="5120,3,1,0,0,0,0" DuiHuanGoodsIDs="13004011,2" MoJing="0" JiFen="0" DayMaxTimes="3" />
+    <Award ID="13" Type="2" NewGoodsID="5030,1,1,0,0,0,0" DuiHuanGoodsIDs="13004011,5" MoJing="0" JiFen="0" DayMaxTimes="2" />
+    <Award ID="14" Type="2" NewGoodsID="5040,1,1,0,0,0,0" DuiHuanGoodsIDs="13004011,5" MoJing="0" JiFen="0" DayMaxTimes="2" />
+    <Award ID="15" Type="2" NewGoodsID="5311,5,1,0,0,0,0" DuiHuanGoodsIDs="13004011,5" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="16" Type="2" NewGoodsID="50160,2,1,0,0,0,0" DuiHuanGoodsIDs="13003019,3|13004011,1" MoJing="0" JiFen="0" DayMaxTimes="2" />
+    <Award ID="17" Type="2" NewGoodsID="7050,30,1,0,0,0,0" DuiHuanGoodsIDs="13003019,3|13004011,1" MoJing="0" JiFen="0" DayMaxTimes="5" />
+    <Award ID="18" Type="2" NewGoodsID="63080,2,1,0,0,0,0" DuiHuanGoodsIDs="13003019,4|13004011,4" MoJing="0" JiFen="0" DayMaxTimes="3" />
+    <Award ID="19" Type="2" NewGoodsID="63064,2,1,0,0,0,0" DuiHuanGoodsIDs="13004012,5" MoJing="0" JiFen="0" DayMaxTimes="3" />
+    <Award ID="20" Type="2" NewGoodsID="5171,5,1,0,0,0,0" DuiHuanGoodsIDs="13004012,5" MoJing="0" JiFen="0" DayMaxTimes="2" />
+    <Award ID="21" Type="2" NewGoodsID="5220,5,1,0,0,0,0" DuiHuanGoodsIDs="13004012,5" MoJing="0" JiFen="0" DayMaxTimes="2" />
+    <Award ID="22" Type="2" NewGoodsID="5031,1,1,0,0,0,0" DuiHuanGoodsIDs="13004012,3" MoJing="0" JiFen="0" DayMaxTimes="2" />
+    <Award ID="23" Type="2" NewGoodsID="5041,1,1,0,0,0,0" DuiHuanGoodsIDs="13004012,3" MoJing="0" JiFen="0" DayMaxTimes="2" />
+    <Award ID="24" Type="2" NewGoodsID="63045,1,1,0,0,0,0" DuiHuanGoodsIDs="13004012,5" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="25" Type="2" NewGoodsID="2019,1,1,0,0,0,0" DuiHuanGoodsIDs="13003019,2|13004011,2|13004012,2" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="26" Type="2" NewGoodsID="5001,3,1,0,0,0,0" DuiHuanGoodsIDs="13003019,3|13004011,2|13004012,2" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="27" Type="2" NewGoodsID="5250,3,1,0,0,0,0" DuiHuanGoodsIDs="13003019,3|13004011,2|13004012,2" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="28" Type="2" NewGoodsID="63086,1,1,0,0,0,0" DuiHuanGoodsIDs="13003019,3|13004011,2|13004012,5" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="29" Type="2" NewGoodsID="63021,1,1,0,0,0,0" DuiHuanGoodsIDs="13003019,1|13004011,3|13004012,5" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="30" Type="2" NewGoodsID="5271,1,1,0,0,0,0" DuiHuanGoodsIDs="13003019,1|13004011,3|13004012,5" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="31" Type="2" NewGoodsID="201709002,1,1,0,0,0,0" DuiHuanGoodsIDs="13004014,100" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="32" Type="2" NewGoodsID="63147,1,1,0,0,0,0" DuiHuanGoodsIDs="13004014,200" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="33" Type="2" NewGoodsID="2090021,1,1,0,0,0,0" DuiHuanGoodsIDs="13004014,200" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="34" Type="2" NewGoodsID="63100,1,1,0,0,0,0" DuiHuanGoodsIDs="13004014,300" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="35" Type="2" NewGoodsID="1033450,1,1,0,0,0,0" DuiHuanGoodsIDs="13003015,10" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="36" Type="2" NewGoodsID="1033570,1,1,0,0,0,0" DuiHuanGoodsIDs="13003015,5" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="37" Type="2" NewGoodsID="1033480,1,1,0,0,0,0" DuiHuanGoodsIDs="13003015,5" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="38" Type="2" NewGoodsID="1035010,1,1,0,0,0,0" DuiHuanGoodsIDs="13003017,4" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="39" Type="2" NewGoodsID="1035009,1,1,0,0,0,0" DuiHuanGoodsIDs="13003017,4" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="40" Type="2" NewGoodsID="1035008,1,1,0,0,0,0" DuiHuanGoodsIDs="13003017,4" MoJing="0" JiFen="0" DayMaxTimes="1" />
+    <Award ID="41" Type="2" NewGoodsID="13003015,1,1,0,0,0,0" DuiHuanGoodsIDs="13004019,3|13003012,5" MoJing="0" JiFen="0" DayMaxTimes="30" />
+    <Award ID="42" Type="2" NewGoodsID="13003017,1,1,0,0,0,0" DuiHuanGoodsIDs="13004019,3|13003012,5" MoJing="0" JiFen="0" DayMaxTimes="30" />
+	<Award ID="43" Type="2" NewGoodsID="13004014,1,1,0,0,0,0" DuiHuanGoodsIDs="13003010,1|13003012,1" MoJing="0" JiFen="0" DayMaxTimes="30" />
+	<Award ID="44" Type="2" NewGoodsID="13004012,1,1,0,0,0,0" DuiHuanGoodsIDs="13003011,1" MoJing="0" JiFen="0" DayMaxTimes="30" />
+	<Award ID="45" Type="2" NewGoodsID="13003019,1,1,0,0,0,0" DuiHuanGoodsIDs="13003010,1" MoJing="0" JiFen="0" DayMaxTimes="30" />
+	<Award ID="46" Type="2" NewGoodsID="13004011,1,1,0,0,0,0" DuiHuanGoodsIDs="13003011,1|13003010,1" MoJing="0" JiFen="0" DayMaxTimes="30" />
+	
+	<!-- 魔晶积分兑换 -->
+    <Award ID="1000" Type="12" NewGoodsID="63064,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="100000" JiFen="0" DayMaxTimes="1" />
+    <Award ID="1001" Type="12" NewGoodsID="63065,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="50000" JiFen="0" DayMaxTimes="1" />
+    <Award ID="1002" Type="12" NewGoodsID="63066,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="150000" JiFen="0" DayMaxTimes="1" />
+    <Award ID="1003" Type="12" NewGoodsID="63086,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="300000" JiFen="0" DayMaxTimes="1" />
+    <Award ID="1004" Type="12" NewGoodsID="50020,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="50000" JiFen="0" DayMaxTimes="1" />
+    <Award ID="1005" Type="12" NewGoodsID="63064,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="0" JiFen="75" DayMaxTimes="5" />
+    <Award ID="1006" Type="12" NewGoodsID="63065,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="0" JiFen="30" DayMaxTimes="5" />
+    <Award ID="1007" Type="12" NewGoodsID="63066,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="0" JiFen="100" DayMaxTimes="5" />
+    <Award ID="1008" Type="12" NewGoodsID="63086,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="0" JiFen="150" DayMaxTimes="5" />
+    <Award ID="1009" Type="12" NewGoodsID="50020,1,1,0,0,0,0" DuiHuanGoodsIDs="" MoJing="0" JiFen="30" DayMaxTimes="5" />
+  </GiftList>
+</Config>

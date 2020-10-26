@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="52" FromDate="2018-12-06 00:00:00" ToDate="2018-12-12 23:59:59" AwardStartDate="2018-12-13 00:00:00" AwardEndDate="2018-12-13 23:59:59" />
+  <GiftList Description="ในเวลากิจกรรม ผู้เล่นที่รับของขวัญมากที่สุด 10อันดับแรก รับของขวัญล้ำค่าไปเลย ！ Top 10 Most Popular">
+    <Award Ranking="1" GoodsOne="5313,40,1,0,0,0,0|14001010,2,1,0,0,0,0|2005,12,1,0,0,0,0|5352,50,1,0,0,0,0|63238,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="300" />
+    <Award Ranking="2" GoodsOne="5313,24,1,0,0,0,0|14001010,1,1,0,0,0,0|2005,8,1,0,0,0,0|5352,40,1,0,0,0,0|63238,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="240" />
+    <Award Ranking="3" GoodsOne="5313,18,1,0,0,0,0|14001009,1,1,0,0,0,0|2005,6,1,0,0,0,0|5352,30,1,0,0,0,0|63238,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="180" />
+    <Award Ranking="4" GoodsOne="5313,12,1,0,0,0,0|14001009,1,1,0,0,0,0|2005,5,1,0,0,0,0|5352,25,1,0,0,0,0|14001048,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="150" />
+    <Award Ranking="5" GoodsOne="5313,12,1,0,0,0,0|14001009,1,1,0,0,0,0|2005,5,1,0,0,0,0|5352,25,1,0,0,0,0|14001048,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="150" />
+    <Award Ranking="6" GoodsOne="5313,8,1,0,0,0,0|14001009,1,1,0,0,0,0|2005,3,1,0,0,0,0|5352,20,1,0,0,0,0|14001048,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="30" />
+    <Award Ranking="7" GoodsOne="5313,8,1,0,0,0,0|14001009,1,1,0,0,0,0|2005,3,1,0,0,0,0|5352,20,1,0,0,0,0|14001048,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="30" />
+    <Award Ranking="8" GoodsOne="5313,8,1,0,0,0,0|14001009,1,1,0,0,0,0|2005,3,1,0,0,0,0|5352,20,1,0,0,0,0|14001048,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="30" />
+    <Award Ranking="9" GoodsOne="5313,8,1,0,0,0,0|14001009,1,1,0,0,0,0|2005,3,1,0,0,0,0|5352,20,1,0,0,0,0|14001048,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="30" />
+    <Award Ranking="10" GoodsOne="5313,8,1,0,0,0,0|14001009,1,1,0,0,0,0|2005,3,1,0,0,0,0|5352,20,1,0,0,0,0|14001048,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="30" />
+  </GiftList>
+</Config>

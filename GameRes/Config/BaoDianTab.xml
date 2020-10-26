@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BaoDianTab>
+  <BaoDian ID="0" Name="Character Level Up" Show="1" />
+  <BaoDian ID="1" Name="Combat Power Increase" Show="1" />
+  <BaoDian ID="2" Name="Acquire Zen" Show="1" />
+  <BaoDian ID="3" Name="Acquire Item" Show="1" />
+  <BaoDian ID="4" Name="Acquire Jewel" Show="1" />
+  <BaoDian ID="5" Name="Diamond" Show="0" />
+  <BaoDian ID="6" Name="View Set" Show="0" />
+  <BaoDian ID="100" Name="System Announcement" Show="1" />
+</BaoDianTab>

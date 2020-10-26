@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GiftList Title="Charge daily to receive daily charge rewards!" Description="" Image="">
+    <Award ID="1" ActivityTypeID="2" MinZhuanShi="150" GoodsOne="50160,1,1,0,0,0,0|5079,1,1,0,0,0,0" GoodsTwo="" />
+    <Award ID="2" ActivityTypeID="2" MinZhuanShi="150" GoodsOne="50160,1,1,0,0,0,0|2016,150,1,0,0,0,0" GoodsTwo="" />
+    <Award ID="3" ActivityTypeID="2" MinZhuanShi="250" GoodsOne="50161,1,1,0,0,0,0|50017,5,1,0,0,0,0" GoodsTwo="" />
+    <Award ID="4" ActivityTypeID="2" MinZhuanShi="250" GoodsOne="50161,1,1,0,0,0,0|2001,50,1,0,0,0,0" GoodsTwo="" />
+    <Award ID="5" ActivityTypeID="2" MinZhuanShi="250" GoodsOne="50161,2,1,0,0,0,0|2003,100,1,0,0,0,0" GoodsTwo="" />
+    <Award ID="6" ActivityTypeID="2" MinZhuanShi="1500" GoodsOne="50164,1,1,0,0,0,0|2017,50,1,0,0,0,0" GoodsTwo="" />
+    <Award ID="7" ActivityTypeID="2" MinZhuanShi="2500" GoodsOne="50165,1,1,0,0,0,0|1030905,1,1,0,0,0,27525120" GoodsTwo="" />
+  </GiftList>
+</Config>

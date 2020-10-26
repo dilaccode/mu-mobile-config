@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JingLing ID="1" Name="爱神武器" GoodsID="2100000" Occupayion="0" Left="2100001" Right="2100001" />
+  <JingLing ID="2" Name="爱神武器" GoodsID="2100000" Occupayion="1" Left="2100002" Right="" />
+  <JingLing ID="3" Name="爱神武器" GoodsID="2100000" Occupayion="2" Left="2100003" Right="" />
+  <JingLing ID="4" Name="爱神武器" GoodsID="2100000" Occupayion="3" Left="2100001" Right="2100001" />
+  <JingLing ID="5" Name="爱神武器" GoodsID="2100000" Occupayion="4" Left="2100002" Right="2100002" />
+  <JingLing ID="6" Name="爱神武器" GoodsID="2100000" Occupayion="5" Left="2100002" Right="" />
+  <JingLing ID="7" Name="霜华武器" GoodsID="2100010" Occupayion="0" Left="2100011" Right="2100011" />
+  <JingLing ID="8" Name="霜华武器" GoodsID="2100010" Occupayion="1" Left="2100012" Right="" />
+  <JingLing ID="9" Name="霜华武器" GoodsID="2100010" Occupayion="2" Left="2100013" Right="" />
+  <JingLing ID="10" Name="霜华武器" GoodsID="2100010" Occupayion="3" Left="2100015" Right="2100015" />
+  <JingLing ID="11" Name="霜华武器" GoodsID="2100010" Occupayion="4" Left="2100014" Right="2100014" />
+  <JingLing ID="12" Name="霜华武器" GoodsID="2100010" Occupayion="5" Left="2100016" Right="" />
+  <JingLing ID="13" Name="星辰武器" GoodsID="2100020" Occupayion="0" Left="2100021" Right="2100021" />
+  <JingLing ID="14" Name="星辰武器" GoodsID="2100020" Occupayion="1" Left="2100022" Right="" />
+  <JingLing ID="15" Name="星辰武器" GoodsID="2100020" Occupayion="2" Left="2100023" Right="" />
+  <JingLing ID="16" Name="星辰武器" GoodsID="2100020" Occupayion="3" Left="2100025" Right="2100025" />
+  <JingLing ID="17" Name="星辰武器" GoodsID="2100020" Occupayion="4" Left="2100024" Right="2100024" />
+  <JingLing ID="18" Name="星辰武器" GoodsID="2100020" Occupayion="5" Left="2100026" Right="" />
+  <JingLing ID="19" Name="炽炎武器" GoodsID="2100030" Occupayion="0" Left="2100031" Right="2100031" />
+  <JingLing ID="20" Name="炽炎武器" GoodsID="2100030" Occupayion="1" Left="2100032" Right="" />
+  <JingLing ID="21" Name="炽炎武器" GoodsID="2100030" Occupayion="2" Left="2100033" Right="" />
+  <JingLing ID="22" Name="炽炎武器" GoodsID="2100030" Occupayion="3" Left="2100035" Right="2100035" />
+  <JingLing ID="23" Name="炽炎武器" GoodsID="2100030" Occupayion="4" Left="2100034" Right="2100034" />
+  <JingLing ID="24" Name="炽炎武器" GoodsID="2100030" Occupayion="5" Left="2100036" Right="" />
+  <JingLing ID="25" Name="圣诞武器" GoodsID="2100040" Occupayion="0" Left="2100041" Right="2100041" />
+  <JingLing ID="26" Name="圣诞武器" GoodsID="2100040" Occupayion="1" Left="2100042" Right="" />
+  <JingLing ID="27" Name="圣诞武器" GoodsID="2100040" Occupayion="2" Left="2100043" Right="" />
+  <JingLing ID="28" Name="圣诞武器" GoodsID="2100040" Occupayion="3" Left="2100045" Right="2100045" />
+  <JingLing ID="29" Name="圣诞武器" GoodsID="2100040" Occupayion="4" Left="2100044" Right="2100044" />
+  <JingLing ID="30" Name="圣诞武器" GoodsID="2100040" Occupayion="5" Left="2100046" Right="" />
+  
+  <JingLing ID="1001" Name="爱神武器" GoodsID="1051000" Occupayion="0" Left="101051001" Right="101051001" />
+  <JingLing ID="1002" Name="爱神武器" GoodsID="1051000" Occupayion="1" Left="101051002" Right="101051002" />
+  <JingLing ID="1003" Name="爱神武器" GoodsID="1051000" Occupayion="2" Left="101051003" Right="" />
+  <JingLing ID="1004" Name="爱神武器" GoodsID="1051000" Occupayion="3" Left="101051002" Right="101051002" />
+  <JingLing ID="1005" Name="爱神武器" GoodsID="1051000" Occupayion="4" Left="101051001" Right="101051001" />
+  <JingLing ID="1006" Name="爱神武器" GoodsID="1051000" Occupayion="5" Left="101051002" Right="" />
+  
+  <JingLing ID="1007" Name="圣诞武器" GoodsID="101051004" Occupayion="0" Left="101051005" Right="101051005" />
+  <JingLing ID="1008" Name="圣诞武器" GoodsID="101051004" Occupayion="1" Left="101051006" Right="" />
+  <JingLing ID="1009" Name="圣诞武器" GoodsID="101051004" Occupayion="2" Left="101051007" Right="" />
+  <JingLing ID="1010" Name="圣诞武器" GoodsID="101051004" Occupayion="3" Left="101051008" Right="101051008" />
+  <JingLing ID="1011" Name="圣诞武器" GoodsID="101051004" Occupayion="4" Left="101051009" Right="101051009" />
+  <JingLing ID="1012" Name="圣诞武器" GoodsID="101051004" Occupayion="5" Left="101051010" Right="" />
+</Config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Type ID="1" DbKey="facebook1" Name="เชิญเพื่อน" DayMaxNum="5" OnlyNum="0" AwardGoods="50016,1,1,0,0,0,0" MailTitle="รางวัลเชิญเพื่อน" MailContent="ยินดีด้วยคุณเชิญเพื่อนสำเร็จแล้ว กรุณากดรับรางวัลได้ที่จดหมาย。" />
+  <Type ID="2" DbKey="facebook2" Name="ส่งมอบทุกวัน" DayMaxNum="5" OnlyNum="0" AwardGoods="50016,1,1,0,0,0,0" MailTitle="รางวัลส่งมอบเพื่อน" MailContent="ยินดีด้วยคุณได้รับรางวัลส่งมอบให้เพื่อน กรุณากดรับรางวัลได้ที่จดหมาย。" />
+  <Type ID="3" DbKey="facebook3" Name="แชร์ทุกวัน" DayMaxNum="1" OnlyNum="0" AwardGoods="12003000,1,1,0,0,0,0"  MailTitle="รางวัลแชร์ทุกวัน" MailContent="ยินดีด้วยคุณได้รับรางวัลแชร์ทุกวัน กรุณากดรับรางวัลได้ที่จดหมาย。" />
+  <Type ID="4" DbKey="facebook4" Name="เชิญเพื่อนสะสม5คน" DayMaxNum="0" OnlyNum="1" AwardGoods="12003001,1,1,0,0,0,0"  MailTitle="รางวัลเชิญเพื่อนสะสม" MailContent="ยินดีด้วยคุณเชิญเพื่อน5คนสำเร็จแล้ว กรุณากดรับรางวัลในจดหมาย。" />
+  <Type ID="5" DbKey="facebook5" Name="เชิญเพื่อนสะสม10คน" DayMaxNum="0" OnlyNum="1" AwardGoods="12003002,1,1,0,0,0,0"  MailTitle="รางวัลเชิญเพื่อนสะสม" MailContent="ยินดีด้วยคุณเชิญเพื่อน10คนสำเร็จแล้ว กรุณากดรับรางวัลในจดหมาย。" />
+  <Type ID="6" DbKey="facebook6" Name="เชิญเพื่อนสะสม20คน" DayMaxNum="0" OnlyNum="1" AwardGoods="12003003,1,1,0,0,0,0"  MailTitle="รางวัลเชิญเพื่อนสะสม" MailContent="ยินดีด้วยคุณเชิญเพื่อน20คนสำเร็จแล้ว กรุณากดรับรางวัลในจดหมาย。" />
+  <Type ID="7" DbKey="facebook7" Name="เชิญเพื่อนสะสม30คน" DayMaxNum="0" OnlyNum="1" AwardGoods="12003004,1,1,0,0,0,0"  MailTitle="รางวัลเชิญเพื่อนสะสม" MailContent="ยินดีด้วยคุณเชิญเพื่อน30คนสำเร็จแล้ว กรุณากดรับรางวัลในจดหมาย。" />
+</Config>

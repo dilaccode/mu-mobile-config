@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GetGoods ID="1" Name="Goldผูกติด" Goods="64015" />
+  <GetGoods ID="8" Name="Gold" Goods="64016" />
+  <GetGoods ID="13" Name="Magic crystal" Goods="64003" />
+  <GetGoods ID="40" Name="เพชร" Goods="64017" />
+  <GetGoods ID="50" Name="เพชรผูกติด" Goods="64018" />
+  <GetGoods ID="95" Name="ผลงานรบ" Goods="64010" />
+  <GetGoods ID="99" Name="ผงวิญญาณหมาป่า" Goods="64011" />
+  <GetGoods ID="101" Name="เสริมแต้ม" Goods="64006" />
+  <GetGoods ID="102" Name="แต้มเกียรติยศ" Goods="64008" />
+  <GetGoods ID="103" Name="วิญญาณดาว" Goods="64002" />
+  <GetGoods ID="104" Name="ชื่อเสียง" Goods="64001" />
+  <GetGoods ID="105" Name="ความสำเร็จ" Goods="64000" />
+  <GetGoods ID="106" Name="ผลึกวิญญาณ" Goods="64005" />
+  <GetGoods ID="107" Name="ผงธาตุ" Goods="64004" />
+  <GetGoods ID="108" Name="แต้มปกป้อง" Goods="64009" />
+  <GetGoods ID="112" Name="แต้มราชา" Goods="64013" />
+  <GetGoods ID="117" Name="แต้มชิงจ้าว" Goods="64012" />
+  <GetGoods ID="119" Name="แต้มเสน่ห์" Goods="64014" />
+  <GetGoods ID="120" Name="แก่นพลังเทพ" Goods="64019" />
+</Config>

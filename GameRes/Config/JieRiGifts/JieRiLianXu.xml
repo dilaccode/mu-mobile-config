@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+<!-- RC rebate-->
+  <Activities ActivityType="61" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="During the event, the cumulative recharge corresponding to the number o000f days, you can receive precious props!">
+    <LianXu ID="1" Group="1" NeedZuanShi="90" Day="1" GoodsOne="2090025,1,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="2" Group="1" NeedZuanShi="90" Day="3" GoodsOne="2038,30,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="3" Group="1" NeedZuanShi="90" Day="5" GoodsOne="5331,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="4" Group="1" NeedZuanShi="90" Day="6" GoodsOne="5360,100,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="5" Group="1" NeedZuanShi="90" Day="7" GoodsOne="1035002,10,0,0,0,0,0" GoodsTwo="" />   
+	<LianXu ID="6" Group="2" NeedZuanShi="180" Day="1" GoodsOne="2090015,5,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="7" Group="2" NeedZuanShi="180" Day="3" GoodsOne="2038,50,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="8" Group="2" NeedZuanShi="180" Day="5" GoodsOne="990007,1,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="9" Group="2" NeedZuanShi="180" Day="6" GoodsOne="5360,150,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="10" Group="2" NeedZuanShi="180" Day="7" GoodsOne="1035003,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="11" Group="3" NeedZuanShi="500" Day="1" GoodsOne="2090014,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="12" Group="3" NeedZuanShi="500" Day="3" GoodsOne="2038,70,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="13" Group="3" NeedZuanShi="500" Day="5" GoodsOne="2300,50,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="14" Group="3" NeedZuanShi="500" Day="6" GoodsOne="20000030,5,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="15" Group="3" NeedZuanShi="500" Day="7" GoodsOne="1035008,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="16" Group="4" NeedZuanShi="1000" Day="1" GoodsOne="2090012,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="17" Group="4" NeedZuanShi="1000" Day="3" GoodsOne="2038,100,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="18" Group="4" NeedZuanShi="1000" Day="5" GoodsOne="2300,100,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="19" Group="4" NeedZuanShi="1000" Day="6" GoodsOne="1035014,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="20" Group="4" NeedZuanShi="1000" Day="7" GoodsOne="1035080,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="21" Group="5" NeedZuanShi="3000" Day="1" GoodsOne="2090001,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="22" Group="5" NeedZuanShi="3000" Day="3" GoodsOne="1035012,15,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="23" Group="5" NeedZuanShi="3000" Day="5" GoodsOne="63157,20,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="24" Group="5" NeedZuanShi="3000" Day="6" GoodsOne="970000,1,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="25" Group="5" NeedZuanShi="3000" Day="7" GoodsOne="1035040,15,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="26" Group="6" NeedZuanShi="5000" Day="1" GoodsOne="63141,4,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="27" Group="6" NeedZuanShi="5000" Day="3" GoodsOne="970003,1,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="28" Group="6" NeedZuanShi="5000" Day="5" GoodsOne="14001061,1,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="29" Group="6" NeedZuanShi="5000" Day="6" GoodsOne="1035034,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="30" Group="6" NeedZuanShi="5000" Day="7" GoodsOne="101035000,20,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="31" Group="7" NeedZuanShi="10000" Day="1" GoodsOne="101040000,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="32" Group="7" NeedZuanShi="10000" Day="3" GoodsOne="970009,1,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="33" Group="7" NeedZuanShi="10000" Day="5" GoodsOne="2100030,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="34" Group="7" NeedZuanShi="10000" Day="6" GoodsOne="1015094,1,0,0,0,1,95158272|1005094,1,0,0,0,1,95158272|1025594,1,0,0,0,1,95158292" GoodsTwo="" />
+    <LianXu ID="35" Group="7" NeedZuanShi="10000" Day="7" GoodsOne="1032215,1,0,20,80,1,95158272" GoodsTwo="" />
+    <LianXu ID="36" Group="8" NeedZuanShi="15000" Day="1" GoodsOne="970006,1,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="37" Group="8" NeedZuanShi="15000" Day="3" GoodsOne="101037000,10,0,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="38" Group="8" NeedZuanShi="15000" Day="5" GoodsOne="1031028,1,0,0,0,1,1341931520" GoodsTwo="" />
+    <LianXu ID="39" Group="8" NeedZuanShi="15000" Day="6" GoodsOne="1015095,1,0,0,0,1,95158272|1005095,1,0,0,0,1,95158272|1025595,1,0,0,0,1,95158292" GoodsTwo="" />
+    <LianXu ID="40" Group="8" NeedZuanShi="15000" Day="7" GoodsOne="1032225,1,0,20,80,1,95158272" GoodsTwo="" />
+   
+  </GiftList>
+</Config>

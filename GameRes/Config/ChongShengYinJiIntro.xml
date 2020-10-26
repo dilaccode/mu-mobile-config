@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Explain rej" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Select each of the {dac7ae}features. When the overall level {17e43e}reaches level 5 {dac7ae}, the level can be {17e43e}upgraded to 1 level" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. When the reincarnation passes {17e43e}, use the {dac7ae}diamond reset, after reset {17e43e}will get the total number of redeemed points {dac7ae}and choose to choose a new redeeming badge" Bold="0" />
+</Config>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JingLing ID="1" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="1000" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="2" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="2" Tips="" UIAnNiu="1" />
+  <JingLing ID="3" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="800" Tips="Tranh mua Thần Bí có lượng lớn túi quà hiếm, khuyến mãi" UIAnNiu="1" />
+  <JingLing ID="4" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="600" Tips="Tiệm Thần Bí sẽ có lượng lớn Thú Cưỡi và Pet hiếm" UIAnNiu="1" />
+  <JingLing ID="5" HuoDongName="Buff đặc quyền" HuoDongTuBiao="Bufftequan" tips="5" CanShu="1" Tips="" UIAnNiu="1" />
+  <JingLing ID="6" HuoDongName="Lì Xì đặc quyền" HuoDongTuBiao="Hongbaotequan" tips="6" CanShu="400" Tips="Mưa Lì Xì, niềm vui rộn ràng" UIAnNiu="0" />
+  <JingLing ID="7" HuoDongName="Rút thưởng đặc quyền" HuoDongTuBiao="Choujiangtequan" tips="7" CanShu="3" Tips="" UIAnNiu="0" />
+
+</Config>

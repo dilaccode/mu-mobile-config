@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JunXian Level="1" Name="พลทหาร" NeedShengWang="9000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="2" Name="สิบตรี" NeedShengWang="46000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="3" Name="สิบโท" NeedShengWang="144000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="4" Name="นายทหารชั้นประทวน" NeedShengWang="351000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="5" Name="ทหารม้า" NeedShengWang="726000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="6" Name="ร้อยโท" NeedShengWang="1345000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="7" Name="พันตรี" NeedShengWang="2295000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="8" Name="พลโท" NeedShengWang="3675000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="9" Name="ผู้บัญชาการ" NeedShengWang="5601000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="10" Name="ผู้บัญชาการสูงสุด" NeedShengWang="8201000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="11" Name="ผู้บัญชาการมณฑลทหาร" NeedShengWang="11615000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="12" Name="จอมพล" NeedShengWang="15997000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="13" Name="พลเอก" NeedShengWang="15997000" NeedGoods="2036,50" XiaoHaoShengWang="0" />
+  <JunXian Level="14" Name="ขุนนาง" NeedShengWang="15997000" NeedGoods="2036,60" XiaoHaoShengWang="0" />
+  <JunXian Level="15" Name="ผู้ปกครอง" NeedShengWang="15997000" NeedGoods="2036,80" XiaoHaoShengWang="0" />
+  <JunXian Level="16" Name="ราชันใหม่" NeedShengWang="15997000" NeedGoods="2036,100" XiaoHaoShengWang="0" />
+</Config>

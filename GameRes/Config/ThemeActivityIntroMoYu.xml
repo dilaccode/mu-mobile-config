@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Explain the game of Dragon Cave" Bold="1" />
+  <HelpIntro ID="2" Intro="1. In the event scene there is BOSS11 character, refresh BOSS {17e43e}every day 19:00 {-}" Bold="0" />
+  <HelpIntro ID="3" Intro="2. Each individual BOSS hit the Alliance damage record and ranking, all affiliate rankings. {17e43e}Top 5 {-} and private players {17e43e}achieved up to 20000. {17e43e}Many achievements, reputation awards.{-}" Bold="0" />
+  <HelpIntro ID="4" Intro="3. {17e43e}To rank the 1st alliance{-}, A player who damages the BOSS {17e43e}Higher {-}Awarded to BOSS" Bold="0" />
+  <HelpIntro ID="5" Intro="4, Player {ff0000}no partner {-}, damage to BOSS will not be included in the ranking chart" Bold="0" />
+</Config>

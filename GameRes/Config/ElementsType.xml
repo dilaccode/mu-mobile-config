@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ElementsType ElementsType="1" Name="ระบบไฟ" />
+  <ElementsType ElementsType="2" Name="ระบบน้ำ" />
+  <ElementsType ElementsType="3" Name="ระบบสายฟ้า" />
+  <ElementsType ElementsType="4" Name="ระบบดิน" />
+  <ElementsType ElementsType="5" Name="ระบบน้ำแข็ง" />
+  <ElementsType ElementsType="6" Name="ระบบลม" />
+</Config>

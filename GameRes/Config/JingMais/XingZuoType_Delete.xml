@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingZuo>
+    <Type ID="0" Name="Aries" KaiQiLevel="0,40" ShuXiangJiaCheng="Defense,3-5|MDefense,3-5" />
+    <Type ID="1" Name="Taurus" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-6" />
+    <Type ID="2" Name="Gemini" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-7" />
+    <Type ID="3" Name="Cancer" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-8" />
+    <Type ID="4" Name="Leo" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-9" />
+    <Type ID="5" Name="Virgo" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-10" />
+    <Type ID="6" Name="Libra" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-11" />
+    <Type ID="7" Name="Scorpio" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-12" />
+    <Type ID="8" Name="Sagittarius" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-13" />
+    <Type ID="9" Name="Dragon" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-14" />
+    <Type ID="10" Name="Aquarius" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-15" />
+    <Type ID="11" Name="Pisces" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-16" />
+  </XingZuo>
+</config>

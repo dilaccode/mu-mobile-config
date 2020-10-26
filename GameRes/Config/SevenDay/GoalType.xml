@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+  <GoalType TypeID="1" Name="Lv" Day="1" />
+  <GoalType TypeID="2" Name="Gem" Day="1" />
+  <GoalType TypeID="3" Name="Arena" Day="2" />
+  <GoalType TypeID="4" Name="Basic Equipment" Day="2" />
+  <GoalType TypeID="5" Name="Dungeon" Day="3" />
+  <GoalType TypeID="6" Name="Craft Trade" Day="3" />
+  <GoalType TypeID="7" Name="Jewel of Bless" Day="4" />
+  <GoalType TypeID="8" Name="Enhance" Day="4" />
+  <GoalType TypeID="9" Name="Jewel of Life" Day="5" />
+  <GoalType TypeID="10" Name="Option Enhance" Day="5" />
+  <GoalType TypeID="11" Name="Condor Flame" Day="6" />
+  <GoalType TypeID="12" Name="Wings" Day="6" />
+  <GoalType TypeID="13" Name="Journal Essence" Day="7" />
+  <GoalType TypeID="14" Name="Trasmute Equipment" Day="7" />
+</Config>

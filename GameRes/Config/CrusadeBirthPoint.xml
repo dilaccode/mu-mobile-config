@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <BirthPoint ID="1" Name="ป้องกัน" PosX="5750" PosY="12950" BirthRadius="1" />
+  <BirthPoint ID="2" Name="โจมตี1" PosX="5850" PosY="950" BirthRadius="1" />
+  <BirthPoint ID="3" Name="โจมตี2" PosX="3950" PosY="1050" BirthRadius="1" />
+  <BirthPoint ID="4" Name="โจมตี3" PosX="7750" PosY="950" BirthRadius="1" />
+</Config>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="9" FromDate="2018-11-18 00:00:00" ToDate="2018-11-25 23:59:59" AwardStartDate="2018-11-18 00:00:00" AwardEndDate="2018-11-25 23:59:59" />
+  <GiftList Description="Login during the event period to receive a gift.">
+    <Award GoodsOne="63065,2,1,0,0,0,0|63067,2,1,0,0,0,0|63032,2,1,0,0,0,0|63066,2,1,0,0,0,0|2005,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

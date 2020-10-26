@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <AwardLevel TypeID="1">
+    <Award ID="16" StarValue="1" EndValue="18518" />
+    <Award ID="4" StarValue="18519" EndValue="37036" />
+    <Award ID="8" StarValue="37037" EndValue="55554" />
+    <Award ID="12" StarValue="55555" EndValue="77776" />
+    <Award ID="15" StarValue="77777" EndValue="100000" />
+  </AwardLevel>
+  <AwardLevel TypeID="2">
+    <!-- Rear -->
+    <Award ID="14" StarValue="1" EndValue="5000" />
+    <Award ID="2" StarValue="5001" EndValue="10000" />
+    <!-- high rate -->
+    <Award ID="8" StarValue="10001" EndValue="20000" />
+    <Award ID="10" StarValue="20001" EndValue="30000" />
+    <Award ID="13" StarValue="30001" EndValue="40000" />
+    <Award ID="16" StarValue="40001" EndValue="50000" />
+    <Award ID="4" StarValue="50001" EndValue="60000" />
+    <Award ID="11" StarValue="60001" EndValue="70000" />
+    <Award ID="12" StarValue="70001" EndValue="80000" />
+    <Award ID="15" StarValue="80001" EndValue="100000" />
+  </AwardLevel>
+  <AwardLevel TypeID="3">
+    <!-- Rear -->
+    <Award ID="1" StarValue="1" EndValue="200" />
+    <Award ID="6" StarValue="201" EndValue="500" />
+    <Award ID="9" StarValue="501" EndValue="1000" />
+    <Award ID="14" StarValue="1001" EndValue="2000" />
+    <Award ID="2" StarValue="2001" EndValue="5000" />
+    <!-- high rate -->
+    <Award ID="3" StarValue="5001" EndValue="10000" />
+    <Award ID="4" StarValue="10001" EndValue="20000" />
+    <Award ID="5" StarValue="20001" EndValue="30000" />
+    <Award ID="7" StarValue="30001" EndValue="40000" />
+    <Award ID="8" StarValue="40001" EndValue="50000" />
+    <Award ID="10" StarValue="50001" EndValue="55000" />
+    <Award ID="11" StarValue="55001" EndValue="60000" />
+    <Award ID="12" StarValue="60001" EndValue="75000" />
+    <Award ID="13" StarValue="75001" EndValue="85000" />
+    <Award ID="15" StarValue="85001" EndValue="95000" />
+    <Award ID="16" StarValue="95001" EndValue="100000" />
+  </AwardLevel>
+  <AwardLevel TypeID="4">
+    <Award ID="9" StarValue="1" EndValue="4000" />
+    <Award ID="11" StarValue="4001" EndValue="8500" />
+    <Award ID="13" StarValue="8501" EndValue="14000" />
+    <Award ID="2" StarValue="14001" EndValue="30000" />
+    <Award ID="6" StarValue="30001" EndValue="46000" />
+    <Award ID="10" StarValue="46001" EndValue="63000" />
+    <Award ID="14" StarValue="63001" EndValue="80000" />
+    <Award ID="16" StarValue="80001" EndValue="100000" />
+  </AwardLevel>
+</Config> 

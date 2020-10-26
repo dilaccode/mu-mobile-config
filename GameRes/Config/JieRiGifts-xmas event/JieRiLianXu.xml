@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="61" FromDate="2018-12-06 00:00:00" ToDate="2018-12-13 23:59:59" AwardStartDate="2018-12-06 00:00:00" AwardEndDate="2018-12-13 23:59:59" />
+  <GiftList Description="Receive extra rewards based on your daily purchase for the number of days.">
+    <LianXu ID="1" Group="1" NeedZuanShi="500" Day="2" GoodsOne="63064,5,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="2" Group="1" NeedZuanShi="500" Day="3" GoodsOne="5313,10,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="3" Group="1" NeedZuanShi="500" Day="4" GoodsOne="5313,15,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="4" Group="1" NeedZuanShi="500" Day="5" GoodsOne="2090053,1,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="5" Group="2" NeedZuanShi="1000" Day="2" GoodsOne="63064,10,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="6" Group="2" NeedZuanShi="1000" Day="3" GoodsOne="2103,100,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="7" Group="2" NeedZuanShi="1000" Day="4" GoodsOne="2103,150,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="8" Group="2" NeedZuanShi="1000" Day="5" GoodsOne="5352,10,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="9" Group="3" NeedZuanShi="2000" Day="2" GoodsOne="63064,20,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="10" Group="3" NeedZuanShi="2000" Day="3" GoodsOne="2104,100,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="11" Group="3" NeedZuanShi="2000" Day="4" GoodsOne="2104,150,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="12" Group="3" NeedZuanShi="2000" Day="5" GoodsOne="5352,20,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="13" Group="4" NeedZuanShi="3000" Day="2" GoodsOne="63086,10,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="14" Group="4" NeedZuanShi="3000" Day="3" GoodsOne="63156,2,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="15" Group="4" NeedZuanShi="3000" Day="4" GoodsOne="63143,3,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="16" Group="4" NeedZuanShi="3000" Day="5" GoodsOne="63265,5,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="17" Group="5" NeedZuanShi="5000" Day="2" GoodsOne="63086,25,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="18" Group="5" NeedZuanShi="5000" Day="3" GoodsOne="63156,3,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="19" Group="5" NeedZuanShi="5000" Day="4" GoodsOne="63142,3,1,0,0,0,0" GoodsTwo="" />
+    <LianXu ID="20" Group="5" NeedZuanShi="5000" Day="5" GoodsOne="63265,8,1,0,0,0,0" GoodsTwo="" />
+  </GiftList>
+</Config>

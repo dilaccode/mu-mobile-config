@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. The device requires {17e43e}hole {dac7ae}to be able to bury {17e43e}gems" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. The same kind of newly born gemstones when burying {17e43e}. The {dac7ae}and {17e43e}defense devices {dac7ae}qualify for {17e43e}will be different" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Once buried, jewelery can be removed at any time" Bold="0" />
+</Config>

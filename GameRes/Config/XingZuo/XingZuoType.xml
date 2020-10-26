@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingZuo>
+    <Type ID="1" Name="Aries" KaiQiLevel="0,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="2" Name="Taurus" KaiQiLevel="0,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="3" Name="Gemini" KaiQiLevel="1,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="4" Name="Cancer" KaiQiLevel="1,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="5" Name="Leo" KaiQiLevel="2,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="6" Name="Virgo" KaiQiLevel="2,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="7" Name="Libra" KaiQiLevel="3,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="8" Name="Scorpio" KaiQiLevel="3,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="9" Name="Sagittarius" KaiQiLevel="4,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="10" Name="Capricorn" KaiQiLevel="4,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="11" Name="Aquarius" KaiQiLevel="5,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="12" Name="Pisces" KaiQiLevel="5,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+  </XingZuo>
+</config>

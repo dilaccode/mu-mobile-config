@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Mount System Instruction" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Obtain Mount from {17e43e}Mount Hunt{dac7ae} and {17e43e}Devil Valley" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. Acquire the mount for the {17e43e}1st{dac7ae} time to activate the permanent {17e43e}illustration attributes{dac7ae}" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Click the 17e43e}obtained in bag{dac7ae} to {17e43e}equip{dac7ae}." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. Select one {17e43e}equipped mount{dac7ae} to set {17e43e}in battle{dac7ae}. The {17e43e}Basic and Excellent Attribute{dac7ae} of the mount in battle will be added to Role." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. {17e43e}Recycle{dac7ae} the idle Mount to obtain {17e43e}Soul Gems{dac7ae}. Soul Gems are used to improve the level of mount slot." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6. Spend {17e43e}Mount Advance Potion{dac7ae} to Advance Moutn. Mount Advance will improve {17e43e}Basic Attribute{dac7ae} and {17e43e}Mount Skill level{dac7ae}" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7. The equipped Mount can activate {17e43e}Mount Surprise{dac7ae} and {17e43e}Mount Combination{dac7ae}" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8. Each Mount owns one {17e43e}Skill{dac7ae}. {17e43e}Mount Skill Slot{dac7ae} is at the left bottom. The skill of equipped mount can be set in the slot and release in battle." Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}9. The Role will {17e43e}ride mount{dac7ae} with speed up when there is mount in {17e43e}battle." Bold="0" />
+</Config>

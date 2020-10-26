@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GiftCode TypeID="TW001" TypeName="奇蹟平台用戶高級禮包" Platform="3" Channel="" TimeBegin="2014-01-01 00:00:00" TimeEnd="2017-12-31 23:59:59" Zone="" UserType="1" UseCount="1" GoodsOne="50021,1,1,0,0,0,0|50163,1,1,0,0,0,0|5050,1,1,0,0,0,0" GoodsTwo="" />
+  <GiftCode TypeID="TW002" TypeName="KIMI回餽禮包" Platform="3" Channel="" TimeBegin="2014-01-01 00:00:00" TimeEnd="2017-12-31 23:59:59" Zone="" UserType="1" UseCount="1" GoodsOne="50164,1,1,0,0,0,0|63031,1,1,0,0,0,0|63064,3,1,0,0,0,0" GoodsTwo="" />
+  <GiftCode TypeID="TWA001" TypeName="奇蹟平台用戶高級禮包" Platform="3" Channel="" TimeBegin="2014-01-01 00:00:00" TimeEnd="2017-12-31 23:59:59" Zone="" UserType="1" UseCount="1" GoodsOne="50021,1,1,0,0,0,0|50163,1,1,0,0,0,0|5050,1,1,0,0,0,0" GoodsTwo="" />
+  <GiftCode TypeID="TWA002" TypeName="KIMI回餽禮包" Platform="3" Channel="" TimeBegin="2014-01-01 00:00:00" TimeEnd="2017-12-31 23:59:59" Zone="" UserType="1" UseCount="1" GoodsOne="50164,1,1,0,0,0,0|63031,1,1,0,0,0,0|63064,3,1,0,0,0,0" GoodsTwo="" />
+  <GiftCode TypeID="TWA003" TypeName="市場推廣填寫手機號禮包" Platform="3" Channel="" TimeBegin="2014-01-01 00:00:00" TimeEnd="2017-01-31 23:59:59" Zone="" UserType="1" UseCount="1" GoodsOne="63032,1,1,0,0,0,0|63035,1,1,0,0,0,0|4032,3,1,0,0,0,0|63021,1,1,0,0,0,0|101510981,1,1,0,0,0,0" GoodsTwo="" />
+  <GiftCode TypeID="TWA004" TypeName="市場推廣分享禮包" Platform="3" Channel="" TimeBegin="2014-01-01 00:00:00" TimeEnd="2017-01-31 23:59:59" Zone="" UserType="1" UseCount="1" GoodsOne="7004,5,1,0,0,0,0|7005,5,1,0,0,0,0|5122,10,1,0,0,0,0|4041,1,1,0,0,0,0|5110,10,1,0,0,0,0" GoodsTwo="" />
+</Config>

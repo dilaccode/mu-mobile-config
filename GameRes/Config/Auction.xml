@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Auction ID="1" Name="Angel Palaceโกลเด้นลีก" List="2" Time="10" OriginPrice="500" UnitPrice="50" MaxPrice="10000" SuccessTitle="ประมูลสำเร็จ" SuccessIntro="รางวัลการเข้าร่วมAngel Palaceโกลเด้นลีกของท่าน{0}ท่านอยู่ระหว่างประมูลโกลเด้นลีกได้รับการจัดสรร{1}เพชร" FailTitle="ประมูลล้มเหลว" FailIntro="ท่านได้เข้าร่วมAngel Palaceโกลเด้นลีก{0}ประมูลล้มเหลว ท่านเป็นผู้เล่นที่ทำความเสียหายสูงสุด ท่านได้รับรางวัลนี้แต่เพียงผู้เดียว" />
+</Config>

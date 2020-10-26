@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Operations>
+    <Operation ID="1" Title="Buy Bound Zen" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="2" Title="Enhance" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="3" Title="Refine Item" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5" Title="Insert Jewel" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="6" Title="Craft Item" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="7" Title="Evolve Equipment" MinLevel="100" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="8" Title="Buy Zen" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="9" Title="Dungeon Instant Teleport" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="10" Title="Daily Convoy" MinZhuanSheng="0" MinLevel="40" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="1" TimeLimits="16:00-17:20|21:00-22:20" />
+    <Operation ID="11" Title="Give Silver Coin" MinZhuanSheng="0" MinLevel="40" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="2" TimeLimits="" />
+    <Operation ID="12" Title="Receive Silver Coin" MinZhuanSheng="0" MinLevel="40" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="3" TimeLimits="16:00-18:00|21:00-23:00" />
+    <Operation ID="13" Title="Gem Exchange" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="14" Title="Guild Shop" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="15" Title="Acquire EXP" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="16" Title="Fortune Betting" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="20" Title="Badge Exchange" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="30" Title="Blood Drink Point" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="40" Title="Repair Equipment" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="50" Title="Sell item" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="60" Title="Warehouse" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="70" Title="Disassemble Equipment" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="80" Title="Disassemble Badge" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="90" Title="Exchange for Soul Essence" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="100" Title="Disassemble Soul Essence" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1000" Title="Class Change" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1010" Title="Rebirth" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="2000" Title="Blood Castle" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="2010" Title="Devil Square" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="3000" Title="Gem Exchange" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="4000" Title="Coupon Code" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5000" Title="Normal Feast" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5001" Title="Great Feast" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5002" Title="Grand Feast" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5100" Title="Normal Companion Feast" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5200" Title="Feast of Blessing" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+  </Operations>
+</Config>

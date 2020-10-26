@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HorsePokedex ID="1" Name="He’s single" ModRate="1" HorseGoods="990000" PokedexAttribute="AddAttack,10000|AddDefense,4000|MaxLifeV,30000" SuperiorAttributeID="100" HorseSpeed="0.5" SkillID="12001" />
+  <HorsePokedex ID="2" Name="Monster cloud" ModRate="1" HorseGoods="990001" PokedexAttribute="AddAttack,11000|AddDefense,4400|MaxLifeV,33000" SuperiorAttributeID="101" HorseSpeed="0.6" SkillID="12101" />
+  <HorsePokedex ID="3" Name="Raja Tamil" ModRate="1" HorseGoods="990002" PokedexAttribute="AddAttack,13200|AddDefense,3520|MaxLifeV,26400" SuperiorAttributeID="102" HorseSpeed="0.6" SkillID="12201" />
+  <HorsePokedex ID="4" Name="Fox fox" ModRate="1" HorseGoods="990003" PokedexAttribute="AddAttack,9600|AddDefense,5760|MaxLifeV,43200" SuperiorAttributeID="103" HorseSpeed="0.8" SkillID="12301" />
+  <HorsePokedex ID="5" Name="Iron Armor" ModRate="1" HorseGoods="990004" PokedexAttribute="AddAttack,12000|AddDefense,4800|MaxLifeV,36000" SuperiorAttributeID="103" HorseSpeed="0.8" SkillID="12401" />
+  <HorsePokedex ID="6" Name="Scorpion" ModRate="1" HorseGoods="990005" PokedexAttribute="AddAttack,14400|AddDefense,3840|MaxLifeV,28800" SuperiorAttributeID="103" HorseSpeed="0.8" SkillID="12501" />
+  
+  <HorsePokedex ID="7" Name="Mammoth Giant" ModRate="1" HorseGoods="990006" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="103" HorseSpeed="0.8" SkillID="12501" />
+  <HorsePokedex ID="8" Name="The Golden Lion" ModRate="1" HorseGoods="990007" PokedexAttribute="AddAttack,13200|AddDefense,5280|MaxLifeV,39600" SuperiorAttributeID="103" HorseSpeed="0.8" SkillID="12501" />
+  
+  
+  <HorsePokedex ID="9" Name="Phoenix Brigade" ModRate="1" HorseGoods="990008" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="105" HorseSpeed="0.85" SkillID="12601" />
+  <HorsePokedex ID="10" Name="Golden Dragon" ModRate="1" HorseGoods="990009" PokedexAttribute="AddAttack,13200|AddDefense,5280|MaxLifeV,39600" SuperiorAttributeID="1000104" HorseSpeed="0.85" SkillID="12601" />
+  
+  <HorsePokedex ID="11" Name="Fish Sparrow" ModRate="1" HorseGoods="990012" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="105" HorseSpeed="0.85" SkillID="12601" />
+  <HorsePokedex ID="12" Name="Griffin" ModRate="1" HorseGoods="990013" PokedexAttribute="AddAttack,13200|AddDefense,5280|MaxLifeV,39600" SuperiorAttributeID="1000104" HorseSpeed="0.85" SkillID="12601" />
+  <HorsePokedex ID="13" Name="Dragon Swift" ModRate="1" HorseGoods="990014" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="105" HorseSpeed="0.85" SkillID="12601" />
+  <HorsePokedex ID="14" Name="Boar" ModRate="1" HorseGoods="990015" PokedexAttribute="AddAttack,13200|AddDefense,5280|MaxLifeV,39600" SuperiorAttributeID="1000104" HorseSpeed="0.85" SkillID="12601" />
+  <HorsePokedex ID="15" Name="Scorpion lion" ModRate="1" HorseGoods="990019" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="1000104" HorseSpeed="0.85" SkillID="12601" />
+
+  
+  <HorsePokedex ID="16" Name="Hell Hound" ModRate="1" HorseGoods="20180000" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="1000104" HorseSpeed="0.85" SkillID="12005" />
+  <HorsePokedex ID="17" Name="Goat" ModRate="1" HorseGoods="20180001" PokedexAttribute="AddAttack,13800|AddDefense,3680|MaxLifeV,27600" SuperiorAttributeID="1000104" HorseSpeed="0.85" SkillID="12203" />
+  <HorsePokedex ID="18" Name="Blessed" ModRate="1" HorseGoods="20180002" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="1000104" HorseSpeed="0.85" SkillID="12601" />
+
+  <HorsePokedex ID="19" Name="Fire dragon" ModRate="1" HorseGoods="990020" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="1000104" HorseSpeed="0.85" SkillID="12005" />
+  <HorsePokedex ID="20" Name="Jellyfish" ModRate="1" HorseGoods="990021" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="1000104" HorseSpeed="0.85" SkillID="12005" />
+  
+</Config>
+

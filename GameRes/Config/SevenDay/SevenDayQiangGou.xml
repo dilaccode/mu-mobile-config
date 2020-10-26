@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Xiangou>
+  <Goods ID="1" Day="1" Name="100,000 Gems" GoodsID="5079,1,1,0,0,0,0" OrigPrice="200" Price="100" Purchase="5" />
+  <Goods ID="2" Day="2" Name="Epic Chest Ticket" GoodsID="7004,1,1,0,0,0,0" OrigPrice="200" Price="100" Purchase="5" />
+  <Goods ID="3" Day="3" Name="1,888,000 Bound Zen" GoodsID="50033,1,1,0,0,0,0" OrigPrice="100" Price="20" Purchase="10" />
+  <Goods ID="4" Day="4" Name="Jewel of Bless" GoodsID="2001,1,1,0,0,0,0" OrigPrice="50" Price="10" Purchase="20" />
+  <Goods ID="5" Day="5" Name="Jewel of Life" GoodsID="2003,10,1,0,0,0,0" OrigPrice="100" Price="5" Purchase="40" />
+  <Goods ID="6" Day="5" Name="Achievement Badge" GoodsID="5030,1,1,0,0,0,0" OrigPrice="60" Price="30" Purchase="10" />
+  <Goods ID="7" Day="6" Name="Condor Flame" GoodsID="2017,1,1,0,0,0,0" OrigPrice="20" Price="10" Purchase="20" />
+  <Goods ID="8" Day="6" Name="Star Essence (10,000)" GoodsID="5088,1,1,0,0,0,0" OrigPrice="20" Price="5" Purchase="30" />
+  <Goods ID="9" Day="7" Name="Epic Pet Ticket" GoodsID="7005,1,1,0,0,0,0" OrigPrice="200" Price="100" Purchase="5" />
+</Xiangou>

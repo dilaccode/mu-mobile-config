@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <XiLian ID="1" Color="สีขาว" ShuXingNum="4" Text="คุณสมบัติไม่ดีเลิศ" Multiplying="0" />
+  <XiLian ID="2" Color="สีเขียว" ShuXingNum="4" Text="คุณสมบัติดีเลิศ1-2ข้อ" Multiplying="3" />
+  <XiLian ID="3" Color="สีฟ้า" ShuXingNum="4" Text="คุณสมบัติดีเลิศ3-4ข้อ" Multiplying="4" />
+  <XiLian ID="4" Color="สีม่วง" ShuXingNum="4" Text="คุณสมบัติดีเลิศ5-6ข้อ" Multiplying="5" />
+  <XiLian ID="5" Color="สีส้ม" ShuXingNum="4" Text="คุณสมบัติดีเลิศ7ข้อขึ้นไป" Multiplying="6" />
+</Config>

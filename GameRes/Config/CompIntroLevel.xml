@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Faction Position" Bold="1" />
+  <HelpIntro ID="2" Intro="1. Weekly Faction Rankings {17e43e}the top three{-} will earn: Faction Leader , Faction Marshal , Faction Warlord" Bold="0" />
+  <HelpIntro ID="3" Intro="2. Faction Ranks {17e43e}at 00:00 each Monday{-} will be {ff0000}cleared{-}. (Faction contribution cannot be cleared)" Bold="0" />
+  <HelpIntro ID="4" Intro="{fac60d}Hostile Faction" Bold="1" />
+  <HelpIntro ID="5" Intro="1. The Faction Leader has the right to select the {ff0000}Hostile Faction{-}, {ff0000}increasing damage dealt{-} to the hostile faction on the faction map." Bold="0" />
+  <HelpIntro ID="6" Intro="2. After selecting the hostile faction, it {ff0000}takes effect the next day{-}, and the hostile Faction keeps if not changed." Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d}Faction Change" Bold="1" />
+  <HelpIntro ID="8" Intro="1. When changing a Faction, the Faction Contribution and , Faction Rank will {ff0000}remain some{-}." Bold="0" />
+  <HelpIntro ID="9" Intro="2. When changing a Faction, you don’t enter the Faction Rankings instantly and you have to wait the Rankings to refresh." Bold="0" />
+</Config>

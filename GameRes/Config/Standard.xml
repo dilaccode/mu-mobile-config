@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="101" Name="Star level 10 reached" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="1" Value="10"/>
+	<BianQiang ID="102" Name="Step up to the wings 3" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="2" Value="3"/>
+	<BianQiang ID="102" Name="Step up to the wings 4" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="2" Value="4"/>
+	<BianQiang ID="102" Name="Step up to the wings 5" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="2" Value="5"/>
+	<BianQiang ID="102" Name="Step up to the wings 6" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="2" Value="6"/>
+	<BianQiang ID="102" Name="Step up to the wings 6" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="2" Value="6"/>
+	<BianQiang ID="102" Name="Step up to the wings 6" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="2" Value="6"/>
+	<BianQiang ID="102" Name="Step up to the wings 7" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="2" Value="7"/>
+	<BianQiang ID="102" Name="Step up to the wings 7" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="2" Value="7"/>
+	<BianQiang ID="102" Name="Step up to the wings 8" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="2" Value="8"/>
+	<BianQiang ID="102" Name="Step up to the wings 8" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="2" Value="8"/>
+	<BianQiang ID="102" Name="Step up to the wings 9" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="2" Value="9"/>
+	<BianQiang ID="102" Name="Step up to the wings 10" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="2" Value="10"/>
+	<BianQiang ID="102" Name="Step up to the wings 11" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="2" Value="11"/>
+	<BianQiang ID="102" Name="Step up to the wings 12" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="2" Value="12"/>
+	<BianQiang ID="102" Name="Step up to the wings 12" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="2" Value="12"/>
+	<BianQiang ID="102" Name="Step up to the wings 12" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="2" Value="12"/>
+	<BianQiang ID="102" Name="Step up to the wings 12" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="2" Value="12"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.10" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="3" Value="10"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.20" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="3" Value="20"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.30" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="3" Value="30"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.40" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="3" Value="40"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.50" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="3" Value="50"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.60" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="3" Value="60"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.70" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="3" Value="70"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.80" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="3" Value="80"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.90" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="3" Value="90"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.100" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="3" Value="100"/>
+	<BianQiang ID="201" Name="Lv Added to Lv.100" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="3" Value="100"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 2" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="4" Value="2"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 3" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="4" Value="3"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 4" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="4" Value="4"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 5" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="4" Value="5"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 6" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="4" Value="6"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 7" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="4" Value="7"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 8" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="4" Value="8"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 9" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="4" Value="9"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 9" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="4" Value="9"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 10" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="4" Value="10"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 11" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 12" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="4" Value="12"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 13" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 13" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 13" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 13" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="301" Name="Achieve average item Tier 13" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.3" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="5" Value="3"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.5" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="5" Value="5"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.7" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="5" Value="7"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.8" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="5" Value="8"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.9" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="5" Value="9"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.10" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="5" Value="10"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.11" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="5" Value="11"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.12" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="5" Value="12"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.13" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="5" Value="13"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.14" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="5" Value="14"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.15" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="5" Value="15"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.16" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="5" Value="16"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.17" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="5" Value="17"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.18" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="5" Value="18"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.19" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="5" Value="19"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.20" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="5" Value="20"/>
+	<BianQiang ID="302" Name="Upgrade your equipment to an average of Lv.20" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="5" Value="20"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 5" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="6" Value="5"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 10" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="6" Value="10"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 15" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="6" Value="15"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 20" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="6" Value="20"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 25" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="6" Value="25"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 30" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="6" Value="30"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 40" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="6" Value="40"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 50" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="6" Value="50"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 60" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="6" Value="60"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 70" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="6" Value="70"/>
+	<BianQiang ID="303" Name="More equipment, the whole body to average 80" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="6" Value="80"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 1" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="7" Value="1"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 2" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="7" Value="2"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 3" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="7" Value="3"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 4" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="7" Value="4"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 5" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="7" Value="5"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 6" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="7" Value="6"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 7" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="7" Value="7"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 8" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="7" Value="8"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 9" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="7" Value="9"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 10" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="7" Value="10"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 11" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="7" Value="11"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 12" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="7" Value="12"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 12" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="7" Value="12"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 12" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="7" Value="12"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 12" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="7" Value="12"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 12" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="7" Value="12"/>
+	<BianQiang ID="401" Name="Wear the Talisman Step 12" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="7" Value="12"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 1" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="8" Value="1"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 3" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="8" Value="3"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 5" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="8" Value="5"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 7" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="8" Value="7"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 9" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="8" Value="9"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 10" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="8" Value="10"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 10" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="8" Value="10"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 11" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="8" Value="11"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 12" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="8" Value="12"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 13" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="8" Value="12"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 14" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="8" Value="12"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 15" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="8" Value="12"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 15" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="8" Value="12"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 15" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="8" Value="12"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 15" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="8" Value="12"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 15" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="8" Value="12"/>
+	<BianQiang ID="501" Name="Reach VIP Grade 15" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="8" Value="12"/>
+	<BianQiang ID="601" Name="Obtain [Watcher] Achievement" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="9" Value="1"/>
+	<BianQiang ID="601" Name="Obtain [Inquisitor] Achievement" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="9" Value="2"/>
+	<BianQiang ID="601" Name="Obtain [Guardian] Achievement" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="9" Value="3"/>
+	<BianQiang ID="601" Name="Obtain [Challenger] Achievement" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="9" Value="4"/>
+	<BianQiang ID="601" Name="Obtain [Hunter] Achievement" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="9" Value="5"/>
+	<BianQiang ID="601" Name="Obtain [Champion] Achievement" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="9" Value="6"/>
+	<BianQiang ID="601" Name="Obtain [Invincible] Achievement" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="9" Value="7"/>
+	<BianQiang ID="601" Name="Obtain [Arbiter] Achievement" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="9" Value="8"/>
+	<BianQiang ID="601" Name="Obtain [Destroyer] Achievement" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="9" Value="9"/>
+	<BianQiang ID="601" Name="Obtain [Conqueror] Achievement" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="9" Value="10"/>
+	<BianQiang ID="601" Name="Obtain [Terminator] Achievement" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="9" Value="11"/>
+	<BianQiang ID="601" Name="Obtain [Immortal] Achievement" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="9" Value="12"/>
+	<BianQiang ID="601" Name="Obtain [Military] Achievement" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="9" Value="13"/>
+	<BianQiang ID="601" Name="Obtain [Destroyer] Achievement" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="9" Value="14"/>
+	<BianQiang ID="601" Name="Obtain [Immortal] Achievement" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="9" Value="15"/>
+	<BianQiang ID="601" Name="Obtain [World Creator] Achievement" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="9" Value="16"/>
+	<BianQiang ID="601" Name="Obtain [World Creator] Achievement" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="9" Value="16"/>
+	<BianQiang ID="701" Name="Achieve Division [PV1]" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="10" Value="1"/>
+	<BianQiang ID="701" Name="Achieve Division [PV2]" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="10" Value="2"/>
+	<BianQiang ID="701" Name="Achieve Divison [PFC]" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="10" Value="3"/>
+	<BianQiang ID="701" Name="Achieve Division [SPC]" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="10" Value="4"/>
+	<BianQiang ID="701" Name="Achieve Division [CPL]" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="10" Value="5"/>
+	<BianQiang ID="701" Name="Achieve Division [SGT]" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="10" Value="6"/>
+	<BianQiang ID="701" Name="Achieve Division [SSG]" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="10" Value="7"/>
+	<BianQiang ID="701" Name="Achieve Division [SFC]" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="10" Value="8"/>
+	<BianQiang ID="701" Name="Achieve Division [MSG]" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="10" Value="9"/>
+	<BianQiang ID="701" Name="Achieve Division [1SG]" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="10" Value="10"/>
+	<BianQiang ID="701" Name="Achieve Division [SGM]" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="10" Value="11"/>
+	<BianQiang ID="701" Name="Achieve Division [CSM]" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="10" Value="12"/>
+	<BianQiang ID="701" Name="Achieve Division [ARL]" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="10" Value="13"/>
+	<BianQiang ID="701" Name="Achieve Division [DKE]" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="10" Value="14"/>
+	<BianQiang ID="701" Name="Achieve Division [blm]" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="10" Value="15"/>
+	<BianQiang ID="701" Name="Achieve Division [PC1]" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="10" Value="16"/>
+	<BianQiang ID="701" Name="Achieve Division [PC2]" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="10" Value="16"/>
+	<BianQiang ID="801" Name="Unlock 12 Zodiacs" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="11" Value="12"/>
+	<BianQiang ID="801" Name="Unlock 48 Zodiacs" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="11" Value="48"/>
+	<BianQiang ID="801" Name="Unlock 96 Zodiacs" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="11" Value="96"/>
+	<BianQiang ID="801" Name="Unlock 144 Zodiacs" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="11" Value="144"/>
+	<BianQiang ID="801" Name="Unlock 192 Zodiacs" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="11" Value="192"/>
+	<BianQiang ID="801" Name="Unlock 240 Zodiacs" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="11" Value="240"/>
+	<BianQiang ID="801" Name="Unlock 276 Zodiacs" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="11" Value="276"/>
+	<BianQiang ID="801" Name="Unlock 276 Zodiacs" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="11" Value="276"/>
+	<BianQiang ID="801" Name="Unlock 276 Zodiacs" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="11" Value="276"/>
+	<BianQiang ID="801" Name="Unlock 276 Zodiacs" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="11" Value="276"/>
+	<BianQiang ID="801" Name="Unlock 276 Zodiacs" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="11" Value="276"/>
+	<BianQiang ID="901" Name="Achieve [2nd Rebirth]" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="12" Value="2"/>
+	<BianQiang ID="901" Name="Achieve [3rd Rebirth]" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="12" Value="3"/>
+	<BianQiang ID="901" Name="Achieve [4th Rebirth]" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="12" Value="4"/>
+	<BianQiang ID="901" Name="Achieve [5th Rebirth]" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="12" Value="5"/>
+	<BianQiang ID="901" Name="Achieve [6th Rebirth]" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="12" Value="6"/>
+	<BianQiang ID="901" Name="Achieve [7th Rebirth]" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="12" Value="7"/>
+	<BianQiang ID="901" Name="Achieve [8th Rebirth]" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="12" Value="8"/>
+	<BianQiang ID="901" Name="Achieve [9th Rebirth]" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="12" Value="9"/>
+	<BianQiang ID="901" Name="Achieve [10th Rebirth]" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="12" Value="10"/>
+	<BianQiang ID="901" Name="Achieve [11th Rebirth]" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="12" Value="11"/>
+	<BianQiang ID="901" Name="Achieve [12th Rebirth]" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="12" Value="12"/>
+	<BianQiang ID="901" Name="Achieve [13th Rebirth]" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="12" Value="13"/>
+	<BianQiang ID="901" Name="Achieve [14th Rebirth]" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="12" Value="14"/>
+	<BianQiang ID="901" Name="Achieve [15th Rebirth]" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="12" Value="15"/>
+	<BianQiang ID="901" Name="Achieve [16th Rebirth]" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="12" Value="16"/>
+	<BianQiang ID="901" Name="Achieve [16th Rebirth]" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="12" Value="16"/>
+	<BianQiang ID="1001" Name="Equip a Tier 1 item with max Seed Option" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="13" Value="7118"/>
+	<BianQiang ID="1001" Name="Equip a Tier 2 item with max Seed Option" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="13" Value="14236"/>
+	<BianQiang ID="1001" Name="Equip a Tier 3 item with max Seed Option" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="13" Value="21354"/>
+	<BianQiang ID="1001" Name="Equip a Tier 4 item with max Seed Option" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="13" Value="28472"/>
+	<BianQiang ID="1001" Name="Equip a Tier 5 item with max Seed Option" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="13" Value="42708"/>
+	<BianQiang ID="1001" Name="Equip a Tier 6 item with max Seed Option" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="13" Value="56944"/>
+	<BianQiang ID="1001" Name="Equip a Tier 7 item with max Seed Option" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="13" Value="71180"/>
+	<BianQiang ID="1001" Name="Equip a Tier 8 item with max Seed Option" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="13" Value="85416"/>
+	<BianQiang ID="1001" Name="Equip a Tier 9 item with max Seed Option" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="13" Value="99652"/>
+	<BianQiang ID="1001" Name="Equip a Tier 9 item with max Seed Option" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="13" Value="104652"/>
+	<BianQiang ID="1001" Name="Equip a Tier 9 item with max Seed Option" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="13" Value="109652"/>
+	<BianQiang ID="1001" Name="Equip a Tier 11 item with max Seed Option" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="13" Value="109652"/>
+	<BianQiang ID="1001" Name="Equip a Tier 11 item with max Seed Option" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="13" Value="109652"/>
+	<BianQiang ID="1001" Name="Equip a Tier 11 item with max Seed Option" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="13" Value="109652"/>
+	<BianQiang ID="1001" Name="Equip a Tier 11 item with max Seed Option" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="13" Value="109652"/>
+	<BianQiang ID="1001" Name="Equip a Tier 11 item with max Seed Option" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="13" Value="109652"/>
+	<BianQiang ID="1001" Name="Equip a Tier 11 item with max Seed Option" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="13" Value="109652"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 10" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="14" Value="10"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 20" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="14" Value="20"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 30" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="14" Value="30"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 40" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="14" Value="40"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 50" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="14" Value="50"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 50" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="14" Value="50"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 60" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="14" Value="60"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 60" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="14" Value="60"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 60" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="14" Value="60"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 60" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="14" Value="60"/>
+	<BianQiang ID="1101" Name="Reach Guardian Pet level 60" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="14" Value="60"/>
+	<BianQiang ID="1201" Name="Achieve a total of 160 Aether Insignia is Tier" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="15" Value="160"/>
+	<BianQiang ID="1201" Name="Achieve a total of 160 Aether Insignia is Tier" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="15" Value="160"/>
+	<BianQiang ID="1201" Name="Achieve a total of 240 Aether Insignia is Tier" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="15" Value="240"/>
+	<BianQiang ID="1201" Name="Achieve a total of 320 Aether Insignia is Tier" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="15" Value="320"/>
+	<BianQiang ID="1201" Name="Achieve a total of 400 Aether Insignia is Tier" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="15" Value="400"/>
+	<BianQiang ID="1201" Name="Achieve a total of 480 Aether Insignia is Tier" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="15" Value="480"/>
+	<BianQiang ID="1201" Name="Achieve a total of 560 Aether Insignia is Tier" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="15" Value="560"/>
+	<BianQiang ID="1201" Name="Achieve a total of 640 Aether Insignia is Tier" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="15" Value="640"/>
+	<BianQiang ID="1201" Name="Achieve a total of 720 Aether Insignia is Tier" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="15" Value="720"/>
+	<BianQiang ID="1201" Name="Achieve a total of 800 Aether Insignia is Tier" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="15" Value="800"/>
+	<BianQiang ID="1201" Name="Achieve a total of 800 Aether Insignia is Tier" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="15" Value="800"/>
+	<BianQiang ID="1301" Name="Achieve a total of 3 Feathers is Tier" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="16" Value="3"/>
+	<BianQiang ID="1301" Name="Achieve a total of 6 Feathers is Tier" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="16" Value="6"/>
+	<BianQiang ID="1301" Name="Achieve a total of 10 Feathers is Tier" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="16" Value="10"/>
+	<BianQiang ID="1301" Name="Achieve a total of 15 Feathers is Tier" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="16" Value="15"/>
+	<BianQiang ID="1301" Name="Achieve a total of 22 Feathers is Tier" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="16" Value="22"/>
+	<BianQiang ID="1301" Name="Achieve a total of 30 Feathers is Tier" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="16" Value="30"/>
+	<BianQiang ID="1301" Name="Achieve a total of 38 Feathers is Tier" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="16" Value="38"/>
+	<BianQiang ID="1301" Name="Achieve a total of 45 Feathers is Tier" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="16" Value="45"/>
+	<BianQiang ID="1301" Name="Achieve a total of 54 Feathers is Tier" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="16" Value="54"/>
+	<BianQiang ID="1301" Name="Achieve a total of 54 Feathers is Tier" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="16" Value="54"/>
+	<BianQiang ID="1301" Name="Achieve a total of 54 Feathers is Tier" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="16" Value="54"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1302" Name="Achieve 100% for Roch Soul" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="17" Value="400"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1303" Name="Achieve 100% for Griffin Soul" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="18" Value="50"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  1x" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="19" Value="1"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  1x" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="19" Value="1"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  2x" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="19" Value="2"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  2x" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="19" Value="2"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  3x" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="19" Value="3"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  3x" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="19" Value="3"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  4x" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="19" Value="4"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  4x" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="19" Value="4"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  5x" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="19" Value="5"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  6x" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="19" Value="6"/>
+	<BianQiang ID="1401" Name="Achieve Max Status for Rune of Achievement  6x" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="19" Value="6"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 11" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="4" Value="11"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 12" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="4" Value="12"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 13" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 13" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 13" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 13" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="1501" Name="Achieve average item Tier 13" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="4" Value="13"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 1x" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="20" Value="1"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 1x" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="20" Value="1"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 2x" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="20" Value="2"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 2x" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="20" Value="2"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 3x" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="20" Value="3"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 3x" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="20" Value="3"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 4x" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="20" Value="4"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 4x" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="20" Value="4"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 5x" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="20" Value="5"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 6x" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="20" Value="6"/>
+	<BianQiang ID="1601" Name="Achieve Max Status for Trophy 6x" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="20" Value="6"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 2" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="21" Value="2"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 2" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="21" Value="2"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 2" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="21" Value="2"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 2" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="21" Value="2"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 2" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="21" Value="2"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 4" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="21" Value="4"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 6" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="21" Value="6"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 8" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="21" Value="8"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 10" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="21" Value="10"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 12" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="21" Value="12"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 14" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="21" Value="14"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 16" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="21" Value="16"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 18" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="21" Value="18"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 20" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="21" Value="20"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 20" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="21" Value="20"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 20" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="21" Value="20"/>
+	<BianQiang ID="1701" Name="Achieve Muren is Book Tier 20" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="21" Value="20"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 2" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="22" Value="2"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 2" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="22" Value="2"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 2" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="22" Value="2"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 2" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="22" Value="2"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 3" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="22" Value="3"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 4" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="22" Value="4"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 5" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="22" Value="5"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 6" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="22" Value="6"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 7" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="22" Value="7"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 8" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="22" Value="8"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 9" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="22" Value="9"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 10" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="22" Value="10"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 10" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="22" Value="10"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 10" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="22" Value="10"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 10" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="22" Value="10"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 10" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="22" Value="10"/>
+	<BianQiang ID="1801" Name="Achieve Guardian Tier 10" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="22" Value="10"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 90" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="23" Value="90"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 90" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="23" Value="90"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 90" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="23" Value="90"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 90" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="23" Value="90"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 90" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="23" Value="90"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 90" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="23" Value="90"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 120" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="23" Value="90"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 137" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="23" Value="120"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 156" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="23" Value="137"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 174" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="23" Value="156"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 192" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="23" Value="174"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 210" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="23" Value="192"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 227" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="23" Value="210"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 251" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="23" Value="227"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 270" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="23" Value="251"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 270" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="23" Value="270"/>
+	<BianQiang ID="1901" Name="Total Soul Stone Level 270" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="23" Value="270"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 72" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="24" Value="72"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 72" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="24" Value="72"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 72" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="24" Value="72"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 72" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="24" Value="72"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 72" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="24" Value="72"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 72" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="24" Value="72"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 96" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="24" Value="96"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 110" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="24" Value="110"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 125" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="24" Value="125"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 139" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="24" Value="139"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 154" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="24" Value="154"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 168" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="24" Value="168"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 182" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="24" Value="182"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 201" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="24" Value="201"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 216" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="24" Value="216"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 216" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="24" Value="216"/>
+	<BianQiang ID="2001" Name="Total Relic Fragment Level 216" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="24" Value="216"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.14" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="26" Value="14"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.16" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="26" Value="16"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.18" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="26" Value="18"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.20" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="26" Value="20"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.23" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="26" Value="13"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.26" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="26" Value="26"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.28" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="26" Value="28"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.48" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="26" Value="48"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.60" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="26" Value="60"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.72" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="26" Value="72"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.80" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="26" Value="80"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.88" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="26" Value="88"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.96" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="26" Value="96"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.104" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="26" Value="104"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.112" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="26" Value="112"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.120" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="26" Value="120"/>
+	<BianQiang ID="2101" Name="Combined Pet Lv.120" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="26" Value="120"/>
+	<BianQiang ID="2201" Name="Guild Temple Lv.1" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="25" Value="1"/>
+	<BianQiang ID="2201" Name="Guild Temple Lv.2" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="25" Value="2"/>
+	<BianQiang ID="2201" Name="Guild Temple Lv.3" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="25" Value="3"/>
+	<BianQiang ID="2201" Name="Guild Temple Lv.4" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="25" Value="4"/>
+	<BianQiang ID="2201" Name="Guild Temple Lv.5" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="25" Value="5"/>
+	<BianQiang ID="2301" Name="Equipped Tarot Cards total Lv. 50" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="27" Value="50"/>
+	<BianQiang ID="2301" Name="Equipped Tarot Cards total Lv. 100" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="27" Value="100"/>
+	<BianQiang ID="2301" Name="Equipped Tarot Cards total Lv. 150" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="27" Value="150"/>
+	<BianQiang ID="2301" Name="Equipped Tarot Cards total Lv. 200" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="27" Value="200"/>
+	<BianQiang ID="2301" Name="Equipped Tarot Cards total Lv. 300" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="27" Value="300"/>
+	<BianQiang ID="2401" Name="1 Hallows Max Lv. Reached" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="28" Value="1"/>
+	<BianQiang ID="2401" Name="2 Hallows Max Lv. Reached" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="28" Value="2"/>
+	<BianQiang ID="2401" Name="3 Hallows Max Lv. Reached" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="28" Value="3"/>
+	<BianQiang ID="2401" Name="4 Hallows Max Lv. Reached" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="28" Value="4"/>
+	<BianQiang ID="2401" Name="5 Hallows Max Lv. Reached" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="28" Value="5"/>
+	<BianQiang ID="2401" Name="6 Hallows Max Lv. Reached" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="28" Value="6"/>
+	<BianQiang ID="2401" Name="7 Hallows Max Lv. Reached" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="28" Value="7"/>
+	<BianQiang ID="2401" Name="8 Hallows Max Lv. Reached" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="28" Value="8"/>
+	<BianQiang ID="2401" Name="9 Hallows Max Lv. Reached" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="28" Value="9"/>
+	<BianQiang ID="2401" Name="10 Hallows Max Lv. Reached" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="28" Value="10"/>
+	<BianQiang ID="2401" Name="11 Hallows Max Lv. Reached" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="28" Value="11"/>
+	<BianQiang ID="2401" Name="12 Hallows Max Lv. Reached" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="28" Value="12"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 3 Miracle Points" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="29" Value="3"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 13 Miracle Points" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="29" Value="13"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 23 Miracle Points" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="29" Value="23"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 33 Miracle Points" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="29" Value="33"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 38 Miracle Points" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="29" Value="38"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 43 Miracle Points" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="29" Value="43"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 48 Miracle Points" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="29" Value="48"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 53 Miracle Points" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="29" Value="53"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 58 Miracle Points" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="29" Value="58"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 63 Miracle Points" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="29" Value="63"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 68 Miracle Points" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="29" Value="68"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 73 Miracle Points" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="29" Value="73"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 78 Miracle Points" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="29" Value="78"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 83 Miracle Points" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="29" Value="83"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 88 Miracle Points" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="29" Value="88"/>
+	<BianQiang ID="2501" Name="In the Daemons, Miracles will receive 90 Miracle Points" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="29" Value="90"/>
+	<BianQiang ID="2601" Name="Step up to Step 4" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="30" Value="4"/>
+	<BianQiang ID="2601" Name="Step up to Step 6" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="30" Value="6"/>
+	<BianQiang ID="2601" Name="Step up to Step 8" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="30" Value="8"/>
+	<BianQiang ID="2601" Name="Step up to Step 9" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="30" Value="9"/>
+	<BianQiang ID="2601" Name="Step up to Step 10" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="30" Value="10"/>
+	<BianQiang ID="2701" Name="Animal Ride Lv Lv 10" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="31" Value="10"/>
+	<BianQiang ID="2701" Name="Animal Ride Lv Lv 20" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="31" Value="20"/>
+	<BianQiang ID="2701" Name="Animal Ride Lv Lv 30" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="31" Value="30"/>
+	<BianQiang ID="2701" Name="Animal Ride Lv Lv 40" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="31" Value="40"/>
+	<BianQiang ID="2701" Name="Animal Ride Lv Lv 50" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="31" Value="50"/>
+	<BianQiang ID="2701" Name="Animal Ride Lv Lv 60" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="31" Value="60"/>
+	<BianQiang ID="2701" Name="Animal Ride Lv Lv 70" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="31" Value="70"/>
+	<BianQiang ID="2701" Name="Animal Ride Lv Lv 80" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="31" Value="80"/>
+</config>

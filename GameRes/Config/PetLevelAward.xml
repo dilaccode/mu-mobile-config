@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PelLevelAward ID="1" Level="40" ShuXing="AddAttackInjure,100|MaxLifeV,200" />
+  <PelLevelAward ID="2" Level="50" ShuXing="AddAttackInjure,130|MaxLifeV,260" />
+  <PelLevelAward ID="3" Level="60" ShuXing="AddAttackInjure,170|MaxLifeV,340" />
+  <PelLevelAward ID="4" Level="70" ShuXing="AddAttackInjure,220|MaxLifeV,440" />
+  <PelLevelAward ID="5" Level="80" ShuXing="AddAttackInjure,280|MaxLifeV,560|DecreaseInjureValue,20|MaxLifePercent,0.01" />
+  <PelLevelAward ID="6" Level="90" ShuXing="AddAttackInjure,350|MaxLifeV,700|DecreaseInjureValue,40|MaxLifePercent,0.02" />
+  <PelLevelAward ID="7" Level="100" ShuXing="AddAttackInjure,430|MaxLifeV,860|DecreaseInjureValue,60|MaxLifePercent,0.03" />
+  <PelLevelAward ID="8" Level="110" ShuXing="AddAttackInjure,520|MaxLifeV,1040|DecreaseInjureValue,80|MaxLifePercent,0.04" />
+  <PelLevelAward ID="9" Level="120" ShuXing="AddAttackInjure,620|MaxLifeV,1240|DecreaseInjureValue,100|MaxLifePercent,0.05" />
+  <PelLevelAward ID="10" Level="130" ShuXing="AddAttackInjure,730|MaxLifeV,1460|DecreaseInjureValue,130|MaxLifePercent,0.06" />
+  <PelLevelAward ID="11" Level="140" ShuXing="AddAttackInjure,850|MaxLifeV,1700|DecreaseInjureValue,170|MaxLifePercent,0.07" />
+  <PelLevelAward ID="12" Level="150" ShuXing="AddAttackInjure,980|MaxLifeV,1960|DecreaseInjureValue,220|MaxLifePercent,0.08" />
+  <PelLevelAward ID="13" Level="160" ShuXing="AddAttackInjure,1120|MaxLifeV,2240|DecreaseInjureValue,280|MaxLifePercent,0.09" />
+  <PelLevelAward ID="14" Level="170" ShuXing="AddAttackInjure,1270|MaxLifeV,2540|DecreaseInjureValue,350|MaxLifePercent,0.10" />
+  <PelLevelAward ID="15" Level="180" ShuXing="AddAttackInjure,1430|MaxLifeV,2860|DecreaseInjureValue,430|MaxLifePercent,0.11" />
+  <PelLevelAward ID="16" Level="190" ShuXing="AddAttackInjure,1605|MaxLifeV,3210|DecreaseInjureValue,520|MaxLifePercent,0.12" />
+  <PelLevelAward ID="17" Level="200" ShuXing="AddAttackInjure,1795|MaxLifeV,3590|DecreaseInjureValue,620|MaxLifePercent,0.13" />
+  <PelLevelAward ID="18" Level="210" ShuXing="AddAttackInjure,2000|MaxLifeV,4000|DecreaseInjureValue,730|MaxLifePercent,0.14" />
+  <PelLevelAward ID="19" Level="220" ShuXing="AddAttackInjure,2220|MaxLifeV,4440|DecreaseInjureValue,850|MaxLifePercent,0.15" />
+  <PelLevelAward ID="20" Level="230" ShuXing="AddAttackInjure,2455|MaxLifeV,4910|DecreaseInjureValue,980|MaxLifePercent,0.16" />
+  <PelLevelAward ID="21" Level="240" ShuXing="AddAttackInjure,2705|MaxLifeV,5410|DecreaseInjureValue,1120|MaxLifePercent,0.17" />
+  <PelLevelAward ID="22" Level="250" ShuXing="AddAttackInjure,2970|MaxLifeV,59400|DecreaseInjureValue,1270|MaxLifePercent,0.18" />
+  <PelLevelAward ID="23" Level="260" ShuXing="AddAttackInjure,3250|MaxLifeV,6500|DecreaseInjureValue,1430|MaxLifePercent,0.2" />
+</Config>

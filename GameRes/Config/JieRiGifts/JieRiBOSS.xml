@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="17" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="During the holiday special appear rare BOSS, those brave do not miss!">
+    <Award MonsterID="6100000" ZhanLi="20000" GoodsIDs="13004020,1,1,0,0,0,0|5031,1,1,0,0,0,0|5041,1,1,0,0,0,0|5250,1,1,0,0,0,0|5170,1,1,0,0,0,0|50160,1,1,0,0,0,0|5200,1,1,0,0,0,0|2017,1,1,0,0,0,0|2030,1,1,0,0,0,0" BossTime="1|7|13:00" />
+  </GiftList>
+</Config>

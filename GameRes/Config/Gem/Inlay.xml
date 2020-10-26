@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Inlay ID="1" Name="Helm" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="2" Name="Armor" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="3" Name="Pants" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="4" Name="Gloves" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="5" Name="Boots" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="6" Name="Left Weapon" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="7" Name="Right Weapon" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="8" Name="Necklace" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="9" Name="Left Ring" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="10" Name="Right Ring" GemType1="1" GemType2="2" GemType3="3" />
+</Config>

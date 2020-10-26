@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<Ornament GoodsID="1034000" Type="1" Name="Ruby Earring" Recover="130" Description="Activate by using [Ruby Earring] from your inventory" GoalType="0" GoalNum="-1" GoalAward="-1" List="10" Show="1"/>
+	<Ornament GoodsID="1034001" Type="1" Name="Star Medallion" Recover="70" Description="Activate by using [Star Medallion] from your inventory" GoalType="0" GoalNum="-1" GoalAward="-1" List="220" Show="-1"/>
+	<Ornament GoodsID="1034002" Type="1" Name="Necklace of Demon" Recover="130" Description="Can be acquired with Gems" GoalType="0" GoalNum="-1" GoalAward="-1" List="60" Show="1"/>
+	<Ornament GoodsID="1034003" Type="1" Name="Ring of Honor" Recover="100" Description="Can be acquired with Honor Points" GoalType="0" GoalNum="-1" GoalAward="-1" List="70" Show="1"/>
+	<Ornament GoodsID="1034004" Type="1" Name="Necklace of Spirit" Recover="130" Description="Can be acquired with Pet Exchange Points" GoalType="0" GoalNum="-1" GoalAward="-1" List="80" Show="1"/>
+	<Ornament GoodsID="1034005" Type="1" Name="Token of God" Recover="70" Description="Can be acquired with Ragnarok Points" GoalType="0" GoalNum="-1" GoalAward="-1" List="90" Show="1"/>
+	<Ornament GoodsID="1034006" Type="2" Name="Statue of Warrior" Recover="-1" Description="Acquire 30 Specialty Points" GoalType="1" GoalNum="30" GoalAward="100" List="100" Show="1"/>
+	<Ornament GoodsID="1034007" Type="2" Name="Emperor is Treasure" Recover="-1" Description="Win Battlefield of the Emperor 10 times" GoalType="2" GoalNum="10" GoalAward="70" List="110" Show="1"/>
+	<Ornament GoodsID="1034008" Type="2" Name="Warrior is Treasure" Recover="-1" Description="Win Battlefield of Heroes 10 times" GoalType="3" GoalNum="10" GoalAward="70" List="130" Show="1"/>
+	<Ornament GoodsID="1034009" Type="2" Name="Token of Victory" Recover="-1" Description="Win Battlecore 100 times" GoalType="4" GoalNum="100" GoalAward="70" List="150" Show="1"/>
+	<Ornament GoodsID="1034010" Type="2" Name="Token of Challenge" Recover="-1" Description="Win Arena 200 times" GoalType="5" GoalNum="200" GoalAward="70" List="160" Show="1"/>
+	<Ornament GoodsID="1034011" Type="1" Name="Gold Medal" Recover="170" Description="Accessory (Mini-game) - Gold Medal" GoalType="0" GoalNum="-1" GoalAward="-1" List="230" Show="-1"/>
+	<Ornament GoodsID="1034012" Type="1" Name="Silver Medal" Recover="170" Description="Accessory (Mini-game) - Silver Medal" GoalType="0" GoalNum="-1" GoalAward="-1" List="240" Show="-1"/>
+	<Ornament GoodsID="1034013" Type="1" Name="Bronze Medal" Recover="130" Description="Accessory (Mini-game) - Bronze Medal" GoalType="0" GoalNum="-1" GoalAward="-1" List="250" Show="-1"/>
+	<Ornament GoodsID="1034014" Type="1" Name="Light of Life" Recover="130" Description="Accessory (Event) - Light of Life" GoalType="0" GoalNum="-1" GoalAward="-1" List="260" Show="-1"/>
+	<Ornament GoodsID="1034015" Type="1" Name="Condor is Ring" Recover="130" Description="Accessory (Event) - Godspeed" GoalType="0" GoalNum="-1" GoalAward="-1" List="270" Show="-1"/>
+	<Ornament GoodsID="1034016" Type="1" Name="Seal of Transcendence" Recover="130" Description="Accessory (Event) - Thirst for Power" GoalType="0" GoalNum="-1" GoalAward="-1" List="280" Show="-1"/>
+	<Ornament GoodsID="1034017" Type="1" Name="Medal of Evolution" Recover="130" Description="Accessory (Event) - Power is Good" GoalType="0" GoalNum="-1" GoalAward="-1" List="290" Show="-1"/>
+	<Ornament GoodsID="1034018" Type="1" Name="Miracle Return" Recover="170" Description="Accessory (Event) - Miracle Return" GoalType="0" GoalNum="-1" GoalAward="-1" List="300" Show="-1"/>
+	<Ornament GoodsID="1034019" Type="1" Name="Miracle Overlord" Recover="230" Description="Accessory (Event) - Miracle Overlord" GoalType="0" GoalNum="-1" GoalAward="-1" List="310" Show="-1"/>
+	<Ornament GoodsID="1034020" Type="2" Name="Trophy winner" Recover="-1" Description="Will receive a Super Gold 1 streak." GoalType="6" GoalNum="1" GoalAward="100" List="20" Show="1"/>
+	<Ornament GoodsID="1034021" Type="2" Name="New Star Pendant" Recover="-1" Description="In the league, the match was attended by 20 pitches." GoalType="7" GoalNum="20" GoalAward="50" List="30" Show="1"/>
+	<Ornament GoodsID="1034022" Type="2" Name="MVP Trophy" Recover="-1" Description="In the Super League tournament, Super Gold will receive MVP3 times." GoalType="8" GoalNum="3" GoalAward="100" List="40" Show="1"/>
+	<Ornament GoodsID="1034023" Type="2" Name="Victory Mark" Recover="-1" Description="In the league, the competition has won 20 tournaments." GoalType="9" GoalNum="20" GoalAward="100" List="50" Show="1"/>
+	<Ornament GoodsID="1034024" Type="1" Name="Cookbook" Recover="170" Description="Special Activities, The Sound of Wisdom Everywhere!" GoalType="0" GoalNum="-1" GoalAward="-1" List="320" Show="-1"/>
+	<Ornament GoodsID="1034025" Type="1" Name="Mysterious Fire Command Tag" Recover="170" Description="Special jewelry activities, it must be the emblem of the king!" GoalType="0" GoalNum="-1" GoalAward="-1" List="330" Show="-1"/>
+	<Ornament GoodsID="1034026" Type="1" Name="Cross of the Cross" Recover="170" Description="Special Activities, the cross is a source of courage!" GoalType="0" GoalNum="-1" GoalAward="-1" List="340" Show="-1"/>
+	<Ornament GoodsID="1034027" Type="1" Name="Magic Ice Cold Ring" Recover="170" Description="Special jewelry activities, ice cold is my sharp knife!" GoalType="0" GoalNum="-1" GoalAward="-1" List="350" Show="-1"/>
+	<Ornament GoodsID="1034028" Type="2" Name="Diamond king" Recover="-1" Description="Win 10 times MVPKing battlefield" GoalType="10" GoalNum="10" GoalAward="70" List="120" Show="1"/>
+	<Ornament GoodsID="1034029" Type="2" Name="Daredevil" Recover="-1" Description="Win 10 times MVPBrave battlefield" GoalType="11" GoalNum="10" GoalAward="70" List="140" Show="1"/>
+	<Ornament GoodsID="1034030" Type="2" Name="Platinum trophy" Recover="-1" Description="Levels of Heavenly Ladder attain to Platinum Level 1" GoalType="12" GoalNum="1" GoalAward="70" List="170" Show="1"/>
+	<Ornament GoodsID="1034031" Type="2" Name="Diamond Trophy" Recover="-1" Description="Heaven Stairway Steps To Achieve Diamonds Step 1" GoalType="13" GoalNum="1" GoalAward="70" List="180" Show="1"/>
+	<Ornament GoodsID="1034032" Type="2" Name="Protect the same mind" Recover="-1" Description="Lovers Arena Achieves Together" GoalType="14" GoalNum="1" GoalAward="70" List="190" Show="1"/>
+	<Ornament GoodsID="1034033" Type="2" Name="Iron Blood Medal" Recover="-1" Description="Raid over the serpent, killing 1000 protectors." GoalType="15" GoalNum="1000" GoalAward="70" List="200" Show="1"/>
+	<Ornament GoodsID="1034034" Type="2" Name="Trophies adhere" Recover="-1" Description="Protesters robbed across the Serbs killed 1,000 people." GoalType="16" GoalNum="1000" GoalAward="70" List="210" Show="1"/>
+	<Ornament GoodsID="1034035" Type="1" Name="Golden plumage" Recover="170" Description="Specialized activities, make your wings even higher!" GoalType="0" GoalNum="-1" GoalAward="-1" List="360" Show="-1"/>
+	<Ornament GoodsID="1034036" Type="1" Name="Holy Grail Magic Power" Recover="170" Description="Special events, worthy of being a king!" GoalType="0" GoalNum="-1" GoalAward="-1" List="370" Show="-1"/>
+	<Ornament GoodsID="1034037" Type="1" Name="Blood Diamond Blood Dragon" Recover="170" Description="Special event jewelry, comes from the anger of the poison dragon!" GoalType="0" GoalNum="-1" GoalAward="-1" List="380" Show="-1"/>
+	<Ornament GoodsID="1034038" Type="1" Name="Wrist" Recover="170" Description="Special jewelry activities, not just bracelets!" GoalType="0" GoalNum="-1" GoalAward="-1" List="390" Show="-1"/>
+	<Ornament GoodsID="1034039" Type="1" Name="Fire" Recover="170" Description="Special events, rare flames of hell!" GoalType="0" GoalNum="-1" GoalAward="-1" List="400" Show="-1"/>
+	<Ornament GoodsID="1034040" Type="1" Name="Map Resurrection Camp" Recover="170" Description="Special events, the ultimate crystal human intelligence!" GoalType="0" GoalNum="-1" GoalAward="-1" List="410" Show="-1"/>
+	<Ornament GoodsID="1034041" Type="1" Name="Giant statue" Recover="170" Description="Special event jewelry, comes from the masterpiece of the giant tribe!" GoalType="0" GoalNum="-1" GoalAward="-1" List="420" Show="-1"/>
+	<Ornament GoodsID="1034042" Type="1" Name="Key" Recover="170" Description="Special Activities, a key to the power of magic!" GoalType="0" GoalNum="-1" GoalAward="-1" List="430" Show="-1"/>
+	<Ornament GoodsID="1034043" Type="1" Name="The same mind" Recover="200" Description="Special events, charms that show excellence!" GoalType="0" GoalNum="-1" GoalAward="-1" List="440" Show="-1"/>
+	<Ornament GoodsID="1034044" Type="1" Name="unity" Recover="200" Description="Special events, can not resist charm!" GoalType="0" GoalNum="-1" GoalAward="-1" List="450" Show="-1"/>
+	<Ornament GoodsID="1034045" Type="1" Name="Three Kingdoms" Recover="200" Description="Special events, enjoy the nobility in life!" GoalType="0" GoalNum="-1" GoalAward="-1" List="460" Show="-1"/>
+	<Ornament GoodsID="1034046" Type="1" Name="Hammer of lightning" Recover="170" Description="Special Activities, Power of Lightning with your companion!" GoalType="0" GoalNum="-1" GoalAward="-1" List="470" Show="-1"/>
+	<Ornament GoodsID="1034047" Type="1" Name="Sample Sleeve" Recover="170" Description="Special events, should not underestimate the power of the example!" GoalType="0" GoalNum="-1" GoalAward="-1" List="480" Show="-1"/>
+	<Ornament GoodsID="1034048" Type="1" Name="Chapter Nine" Recover="200" Description="Special events, poetry, famous history!" GoalType="0" GoalNum="-1" GoalAward="-1" List="490" Show="-1"/>
+	<Ornament GoodsID="1034049" Type="1" Name="Ask Heaven" Recover="200" Description="Special Activities, Q &amp; A" GoalType="0" GoalNum="-1" GoalAward="-1" List="500" Show="-1"/>
+	<Ornament GoodsID="1034050" Type="1" Name="Hourglass" Recover="180" Description="Special jewelry events Time is money. My friend!" GoalType="0" GoalNum="-1" GoalAward="-1" List="510" Show="-1"/>
+	<Ornament GoodsID="1034051" Type="1" Name="Sleeveless Sword Sleeve" Recover="180" Description="Specialized activities, things like virtual things!" GoalType="0" GoalNum="-1" GoalAward="-1" List="520" Show="-1"/>
+	<Ornament GoodsID="1034052" Type="1" Name="Claw claw" Recover="180" Description="Special activities, fresh blood is the best worship!" GoalType="0" GoalNum="-1" GoalAward="-1" List="530" Show="-1"/>
+	<Ornament GoodsID="1034053" Type="1" Name="Solar star axis" Recover="200" Description="Special events, destruction and rebirth are in remembrance!" GoalType="0" GoalNum="-1" GoalAward="-1" List="540" Show="-1"/>
+	<Ornament GoodsID="1034054" Type="1" Name="Lamb hide" Recover="180" Description="Special events, hold on to this secret together forever!" GoalType="0" GoalNum="-1" GoalAward="-1" List="550" Show="-1"/>
+	<Ornament GoodsID="1034055" Type="1" Name="Legendary Book of History" Recover="180" Description="Special events, history, depending on which you write!" GoalType="0" GoalNum="-1" GoalAward="-1" List="560" Show="-1"/>
+	<Ornament GoodsID="1034056" Type="1" Name="Special Dog Food 2017" Recover="50" Description="Special Events, Special Dog Food 2017!" GoalType="0" GoalNum="-1" GoalAward="-1" List="570" Show="-1"/>
+	<Ornament GoodsID="1034057" Type="1" Name="Ghost town" Recover="50" Description="Special events, the only demon tribe!" GoalType="0" GoalNum="-1" GoalAward="-1" List="580" Show="-1"/>
+	<Ornament GoodsID="1034058" Type="1" Name="Winning the dragon" Recover="180" Description="Special events, rare wood of the world!" GoalType="0" GoalNum="-1" GoalAward="-1" List="590" Show="-1"/>
+	<Ornament GoodsID="1034059" Type="1" Name="Personal Fragrances" Recover="180" Description="Special events, make your heart beat all the time!" GoalType="0" GoalNum="-1" GoalAward="-1" List="600" Show="-1"/>
+	<Ornament GoodsID="1034060" Type="1" Name="Hands of revenge" Recover="50" Description="Special Event Jewelry, Do not Let Hate Control Your Hands!" GoalType="0" GoalNum="-1" GoalAward="-1" List="610" Show="-1"/>
+	<Ornament GoodsID="1034061" Type="1" Name="Eyes of wisdom" Recover="200" Description="Special event jewelry, overlooking the desolate sea!" GoalType="0" GoalNum="-1" GoalAward="-1" List="620" Show="-1"/>
+	<Ornament GoodsID="1034062" Type="1" Name="Jargon" Recover="180" Description="Special events, all for survival!" GoalType="0" GoalNum="-1" GoalAward="-1" List="630" Show="-1"/>
+	<Ornament GoodsID="1034063" Type="1" Name="Buster of demons" Recover="180" Description="Special event jewelry, bells demonstrate demons, makes demons evade!" GoalType="0" GoalNum="-1" GoalAward="-1" List="640" Show="-1"/>
+	<Ornament GoodsID="1034064" Type="1" Name="Copper Umbrella" Recover="180" Description="Special event jewelry, put all the magic power!" GoalType="0" GoalNum="-1" GoalAward="-1" List="650" Show="-1"/>
+	<Ornament GoodsID="1034065" Type="1" Name="Champion Pen" Recover="200" Description="Special event jewelry, may not remove the combined heart!" GoalType="0" GoalNum="-1" GoalAward="-1" List="660" Show="-1"/>
+	<Ornament GoodsID="1034066" Type="1" Name="Gold" Recover="200" Description="Special event jewelry, when successful in the first night of marriage exam!" GoalType="0" GoalNum="-1" GoalAward="-1" List="670" Show="-1"/>
+	<Ornament GoodsID="1034067" Type="1" Name="Mask of the miracle" Recover="200" Description="Special event jewelry, let you feel the change in life!" GoalType="0" GoalNum="-1" GoalAward="-1" List="680" Show="-1"/>
+	<Ornament GoodsID="1034068" Type="1" Name="Gold belt" Recover="200" Description="Special event jewelry, witness the strength is the only standard!" GoalType="0" GoalNum="-1" GoalAward="-1" List="690" Show="-1"/>
+	<Ornament GoodsID="1034069" Type="1" Name="Magic Compass" Recover="200" Description="Special event jewelry, magic will guide your direction!" GoalType="0" GoalNum="-1" GoalAward="-1" List="700" Show="-1"/>
+	<Ornament GoodsID="1034070" Type="1" Name="Jade Dragon Spirit Pendant" Recover="200" Description="Jewelry Special Event, Jade Dragon Sculpture" GoalType="0" GoalNum="-1" GoalAward="-1" List="710" Show="-1"/>
+	<Ornament GoodsID="1034071" Type="1" Name="Crystal Power" Recover="200" Description="Special events, let the power be with you!" GoalType="0" GoalNum="-1" GoalAward="-1" List="720" Show="-1"/>
+	<Ornament GoodsID="1034072" Type="1" Name="Red heart" Recover="200" Description="Special Event, red lotus burn stuff!" GoalType="0" GoalNum="-1" GoalAward="-1" List="730" Show="-1"/>
+	<Ornament GoodsID="1034073" Type="1" Name="Magic ball" Recover="200" Description="Special events, let us sway with madness at the same time!" GoalType="0" GoalNum="-1" GoalAward="-1" List="740" Show="-1"/>
+	<Ornament GoodsID="1034074" Type="1" Name="Blue lovers" Recover="200" Description="Special events, accompanied by the longest love confession!" GoalType="0" GoalNum="-1" GoalAward="-1" List="750" Show="-1"/>
+	<Ornament GoodsID="1034075" Type="1" Name="Laser Eyewear" Recover="200" Description="Special events, dare to look at me!" GoalType="0" GoalNum="-1" GoalAward="-1" List="760" Show="-1"/>
+	<Ornament GoodsID="1034076" Type="1" Name="Protective cap" Recover="200" Description="Special events, your thoughts, you judge!" GoalType="0" GoalNum="-1" GoalAward="-1" List="770" Show="-1"/>
+	<Ornament GoodsID="1034077" Type="1" Name="Ice cube" Recover="200" Description="Special event jewelry, cool and very comfortable!" GoalType="0" GoalNum="-1" GoalAward="-1" List="780" Show="-1"/>
+	<Ornament GoodsID="1034078" Type="1" Name="Crystal pendant" Recover="200" Description="Special events, hot summer, how do I do!" GoalType="0" GoalNum="-1" GoalAward="-1" List="790" Show="-1"/>
+	<Ornament GoodsID="1034079" Type="1" Name="Camping Lighter" Recover="200" Description="Special events, equipment, deities necessary for survival in the wild!" GoalType="0" GoalNum="-1" GoalAward="-1" List="800" Show="-1"/>
+	<Ornament GoodsID="1034080" Type="1" Name="Colorful signs" Recover="200" Description="Special event jewelry, proven on the ancients!" GoalType="0" GoalNum="-1" GoalAward="-1" List="810" Show="-1"/>
+	<Ornament GoodsID="1034081" Type="1" Name="Red cloud chain" Recover="200" Description="Special events, look up the light of the red cloud!" GoalType="0" GoalNum="-1" GoalAward="-1" List="820" Show="-1"/>
+	<Ornament GoodsID="1034082" Type="1" Name="Prayer ring" Recover="200" Description="Special Activities, Prayers of Nature!" GoalType="0" GoalNum="-1" GoalAward="-1" List="830" Show="-1"/>
+	<Ornament GoodsID="1034083" Type="1" Name="Clock Spacing" Recover="200" Description="Special Event Jewelry, use spacing distortion sphere!" GoalType="0" GoalNum="-1" GoalAward="-1" List="840" Show="-1"/>
+	<Ornament GoodsID="1034084" Type="1" Name="Stars Telescope" Recover="200" Description="Special events, explore the mystery of the nebula!" GoalType="0" GoalNum="-1" GoalAward="-1" List="850" Show="-1"/>
+	<Ornament GoodsID="1034085" Type="1" Name="Tea bag" Recover="200" Description="Special event, tea, open, love, bondage!" GoalType="0" GoalNum="-1" GoalAward="-1" List="860" Show="-1"/>
+	<Ornament GoodsID="1034086" Type="1" Name="Three Stone Pendant" Recover="200" Description="Special Event Jewelry, Love Yarn 3 Nation!" GoalType="0" GoalNum="-1" GoalAward="-1" List="870" Show="-1"/>
+	<Ornament GoodsID="1034087" Type="1" Name="Anti-war declaration" Recover="200" Description="Special events, do not want to slave people!" GoalType="0" GoalNum="-1" GoalAward="-1" List="880" Show="-1"/>
+	<Ornament GoodsID="1034088" Type="1" Name="MacArthur Pen" Recover="200" Description="Special events, not only history, but also must be respected!" GoalType="0" GoalNum="-1" GoalAward="-1" List="890" Show="-1"/>
+	<Ornament GoodsID="1034115" Type="1" Name="The Wraith" Recover="200" Description="Special equipment, key brand of the wings!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1130" Show="-1"/>
+	<Ornament GoodsID="1034116" Type="1" Name="The Goddess Upgrade" Recover="200" Description="Special equipment is a major upgrade!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1140" Show="-1"/>
+	<Ornament GoodsID="1034117" Type="1" Name="More" Recover="200" Description="Special equipment, more important brand!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1150" Show="-1"/>
+	<Ornament GoodsID="1034118" Type="1" Name="Branding success" Recover="200" Description="Special equipment is the key to success!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1160" Show="-1"/>
+	<Ornament GoodsID="1034119" Type="1" Name="Brand name" Recover="200" Description="Special equipment, the brand of the reputation!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1170" Show="-1"/>
+	<Ornament GoodsID="1034120" Type="1" Name="The VIP" Recover="200" Description="Special VIP Branding!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1180" Show="-1"/>
+	<Ornament GoodsID="1034121" Type="1" Name="The Goddess of protection" Recover="200" Description="Special equipment of the important brand of anti-Yan." GoalType="0" GoalNum="-1" GoalAward="-1" List="1190" Show="-1"/>
+  
+  
+    <Ornament GoodsID="1034099" Type="1" Name="Miracle aristocratic medal" Recover="200" Description="Exclusive accessories for activities, creating a noble family of miracles!" GoalType="0" GoalNum="-1" GoalAward="-1" List="7" Show="-1" />
+	<Ornament GoodsID="1034100" Type="1" Name="Miracle King Medal" Recover="200" Description="Exclusive accessories for activities, creating the glory king of the miracle world!" GoalType="0" GoalNum="-1" GoalAward="-1" List="5" Show="-1" />
+	<Ornament GoodsID="1034101" Type="1" Name="Miracle creation god" Recover="200" Description="The exclusive jewelry of the event, the legendary god of the miracle world!" GoalType="0" GoalNum="-1" GoalAward="-1" List="3" Show="-1" />
+
+  <!--暂时屏蔽，投放时再开放
+  <Ornament GoodsID="1034089" Type="1" Name="神秘露珠" Recover="200" Description="活动专属饰品，蒹葭苍苍白露为霜！" GoalType="0" GoalNum="-1" GoalAward="-1" List="900" Show="-1" />
+  <Ornament GoodsID="1034090" Type="1" Name="凝霜雕像" Recover="200" Description="活动专属饰品，凝霜成像宛如伊人！" GoalType="0" GoalNum="-1" GoalAward="-1" List="910" Show="-1" />
+  <Ornament GoodsID="1034091" Type="1" Name="银河之泪" Recover="200" Description="活动专属饰品，来自银河深处的神秘产物！" GoalType="0" GoalNum="-1" GoalAward="-1" List="920" Show="-1" />
+  <Ornament GoodsID="1034092" Type="1" Name="碧落之羽" Recover="200" Description="活动专属饰品，此物只应天上有，人间哪得几回闻！" GoalType="0" GoalNum="-1" GoalAward="-1" List="930" Show="-1" />
+  <Ornament GoodsID="1034093" Type="1" Name="珍藏秋叶" Recover="200" Description="活动专属饰品，触景生情睹物思人！" GoalType="0" GoalNum="-1" GoalAward="-1" List="940" Show="-1" />
+  <Ornament GoodsID="1034094" Type="1" Name="迎秋圣镰" Recover="200" Description="活动专属饰品，传说拥有神人的不朽传承！" GoalType="0" GoalNum="-1" GoalAward="-1" List="950" Show="-1" />
+  <Ornament GoodsID="1034095" Type="1" Name="不朽纪念碑" Recover="200" Description="活动专属饰品，千秋万代永垂不朽！" GoalType="0" GoalNum="-1" GoalAward="-1" List="960" Show="-1" />
+  <Ornament GoodsID="1034096" Type="1" Name="喜庆花篮" Recover="200" Description="活动专属饰品，篮中鲜花赠与尔等！" GoalType="0" GoalNum="-1" GoalAward="-1" List="970" Show="-1" />
+  <Ornament GoodsID="1034097" Type="1" Name="幸福棉絮" Recover="200" Description="活动专属饰品，丝丝棉絮暖人心！" GoalType="0" GoalNum="-1" GoalAward="-1" List="980" Show="-1" />
+  <Ornament GoodsID="1034098" Type="1" Name="紫金葫芦" Recover="200" Description="活动专属饰品，很想知道里面装着什么宝贝！" GoalType="0" GoalNum="-1" GoalAward="-1" List="990" Show="-1" />
+  <Ornament GoodsID="1034099" Type="1" Name="奇迹贵族奖章" Recover="200" Description="活动专属饰品，缔造奇迹世界的贵族！" GoalType="0" GoalNum="-1" GoalAward="-1" List="7" Show="-1" />
+  <Ornament GoodsID="1034100" Type="1" Name="奇迹王者勋章" Recover="200" Description="活动专属饰品，缔造奇迹世界的荣耀王者！" GoalType="0" GoalNum="-1" GoalAward="-1" List="5" Show="-1" />
+  <Ornament GoodsID="1034101" Type="1" Name="奇迹创世之神" Recover="200" Description="活动专属饰品，缔造奇迹世界的传说中的神明！" GoalType="0" GoalNum="-1" GoalAward="-1" List="3" Show="-1" />
+  <Ornament GoodsID="1034102" Type="1" Name="小熊挂饰" Recover="200" Description="活动专属饰品，一丝回忆一丝温暖！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1000" Show="-1" />
+  <Ornament GoodsID="1034103" Type="1" Name="唯美邂逅" Recover="200" Description="活动专属饰品，没有巧合只有安排！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1010" Show="-1" />
+  <Ornament GoodsID="1034104" Type="1" Name="飞天扫帚" Recover="200" Description="活动专属饰品，呼啦啦,飞起来吧！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1020" Show="-1" />
+  <Ornament GoodsID="1034105" Type="1" Name="隐形斗篷" Recover="200" Description="活动专属饰品，你猜猜我在哪里？" GoalType="0" GoalNum="-1" GoalAward="-1" List="1030" Show="-1" />
+  <Ornament GoodsID="1034106" Type="1" Name="邪鬼骷髅" Recover="200" Description="活动专属饰品，如此庞大的邪恶魔力！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1040" Show="-1" />
+  <Ornament GoodsID="1034107" Type="1" Name="翡翠玲珑筷" Recover="200" Description="活动专属饰品，典雅高贵有品味！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1050" Show="-1" />
+  <Ornament GoodsID="1034108" Type="1" Name="测景土圭" Recover="200" Description="活动专属饰品，时间都去哪儿了？" GoalType="0" GoalNum="-1" GoalAward="-1" List="1060" Show="-1" />
+  <Ornament GoodsID="1034109" Type="1" Name="孔雀发饰" Recover="200" Description="活动专属饰品，优雅而又高贵！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1070" Show="-1" />
+  <Ornament GoodsID="1034110" Type="1" Name="水晶妖狐" Recover="200" Description="活动专属饰品，似顽皮似美艳！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1080" Show="-1" />
+  <Ornament GoodsID="1034111" Type="1" Name="孔雀金簪" Recover="200" Description="活动专属饰品，典雅而又高贵！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1090" Show="-1" />
+  <Ornament GoodsID="1034112" Type="1" Name="古风团扇" Recover="200" Description="活动专属饰品，出入君怀袖动摇微风发！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1100" Show="-1" />
+  <Ornament GoodsID="1034113" Type="1" Name="珍珠耳环" Recover="200" Description="活动专属饰品，岁月流逝光泽依旧！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1110" Show="-1" />
+  <Ornament GoodsID="1034114" Type="1" Name="盘龙印" Recover="200" Description="活动专属饰品，龙印在手天下我有！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1120" Show="-1" />
+  <Ornament GoodsID="1034122" Type="1" Name="庆典灯笼" Recover="200" Description="活动专属饰品，大红灯笼高高挂！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1200" Show="-1" />
+  <Ornament GoodsID="1034123" Type="1" Name="五彩气球" Recover="200" Description="活动专属饰品，欢天喜地五彩冰粉！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1210" Show="-1" />
+  <Ornament GoodsID="1034124" Type="1" Name="欢乐吊牌" Recover="200" Description="活动专属饰品，记载着你的每一份欢乐！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1220" Show="-1" />
+  <Ornament GoodsID="1034125" Type="1" Name="浮雕龙鼓" Recover="200" Description="活动专属饰品，锣鼓声声响连天！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1230" Show="-1" />
+  <Ornament GoodsID="1034126" Type="1" Name="周年勇士" Recover="200" Description="活动专属饰品，3周年庆特权活动赠送！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1240" Show="-1" />
+-->
+</Config>

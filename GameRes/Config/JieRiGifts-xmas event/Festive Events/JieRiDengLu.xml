@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="10" FromDate="2018-11-18 00:00:00" ToDate="2018-11-25 23:59:59" AwardStartDate="2018-11-18 00:00:00" AwardEndDate="2018-11-25 23:59:59" />
+  <GiftList Description="Login daily during the event period to receive various rewards.">
+    <Award TimeOl="1" GoodsOne="5050,10,1,0,0,0,0|5088,10,1,0,0,0,0|2016,10,1,0,0,0,0|2017,5,1,0,0,0,0|15000311,1,1,0,0,0,0|13003012,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="2" GoodsOne="7050,50,1,0,0,0,0|5250,3,1,0,0,0,0|2016,10,1,0,0,0,0|2017,5,1,0,0,0,0|13003012,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="3" GoodsOne="5171,5,1,0,0,0,0|5220,5,1,0,0,0,0|2016,15,1,0,0,0,0|2017,10,1,0,0,0,0|13003012,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="4" GoodsOne="2103,10,1,0,0,0,0|2104,5,1,0,0,0,0|2016,15,1,0,0,0,0|2017,10,1,0,0,0,0|13003012,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="5" GoodsOne="5311,5,1,0,0,0,0|5281,5,1,0,0,0,0|2016,20,1,0,0,0,0|2017,15,1,0,0,0,0|13003012,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="6" GoodsOne="5031,2,1,0,0,0,0|5041,2,1,0,0,0,0|2016,20,1,0,0,0,0|2017,15,1,0,0,0,0|13003012,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="7" GoodsOne="63086,2,1,0,0,0,0|201708020,1,1,0,0,0,0|2090051,1,1,0,0,0,0|601702046,1,1,0,0,0,0|13003012,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

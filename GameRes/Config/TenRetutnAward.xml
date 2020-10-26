@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TenRetutnAward ID="1" BeginTime="2017-01-05 00:00:00" FinishTime="2017-01-11 23:59:59" UserList="SinaUserID.txt" GoodsID1="" GoodsID2="" MailTitle="关于新浪停止运营全民奇迹通知" MailContent="亲爱的玩家，为保证后续正常体验全民奇迹，请联系全民奇迹客服QQ：4009933199（公众号），进行账号转移事项。新浪用户将在下个版本后无法正常登陆和进行游戏，请尽快联系官方客服进行处理，感谢。" />
+  <TenRetutnAward ID="2" BeginTime="2017-01-12 00:00:00" FinishTime="2017-01-19 23:59:59" UserList="SinaUserID.txt" GoodsID1="" GoodsID2="" MailTitle="关于新浪停止运营全民奇迹通知" MailContent="亲爱的玩家，为保证后续正常体验全民奇迹，请联系全民奇迹客服QQ：4009933199（公众号），进行账号转移事项。新浪用户将在下个版本后无法正常登陆和进行游戏，请尽快联系官方客服进行处理，感谢。" />
+  <TenRetutnAward ID="3" BeginTime="2017-01-09 00:00:00" FinishTime="2017-01-15 23:59:59" UserList="qmqjUserID.txt" GoodsID1="" GoodsID2="" MailTitle="“晓明”请吃饭-充值100元送饿了么会员卡啦" MailContent="即日起至15日，在饿了么APP中下载全民奇迹中并充值满100元即赠价值20元饿了么会员卡月卡一张，订餐减配送费，每月减免多达30次，最高节省120元配送费！&#xA;妈妈再也不用担心吃饭啦~数量有限，先到先得哦。" />
+</Config>

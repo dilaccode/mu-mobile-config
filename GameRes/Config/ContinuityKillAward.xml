@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Kill ID="1" Num="2" Score="10" Text="Killing Spree!" />
+  <Kill ID="2" Num="4" Score="20" Text="Unstoppable!" />
+  <Kill ID="3" Num="6" Score="30" Text="Dominating!" />
+  <Kill ID="4" Num="8" Score="40" Text="Beyond God!" />
+</Config>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}PK Mode" Bold="1" />
+  <HelpIntro ID="2" Intro="On the Faction map, the players’ relations of the same Faction are {17e43e}Friendly {-}, while the players’ relations of the different Factions are {ff0000}Hostile{-}. PK mode doesn’t work on the Faction map." Bold="0" />
+  <HelpIntro ID="3" Intro="{fac60d}Faction Prosperity" Bold="1" />
+  <HelpIntro ID="4" Intro="1. The Faction Prosperity is a measure of the Faction strength, {17e43e} Collecting Crystals{-}. {17e43e}Taking Part in  Faction BOSS{-} can improve your Faction’s Prosperity." Bold="0" />
+  <HelpIntro ID="5" Intro="2. The Prosperity affects the number of items refreshed daily in the Faction Shop. {17e43e}The higher the prosperity, the more items refreshed in the Shop{-}" Bold="0" />
+  <HelpIntro ID="6" Intro="3. The Faction consumes Prosperity every day. When the Prosperity is too low, the Prosperity will not be consumed." Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d} Crystal Resource" Bold="1" />
+  <HelpIntro ID="8" Intro="1. Daily {17e43e}12:00 - At 18:00{-}, the designated region of the Faction Map will grow crystals, and the crystals will grow for a while, available to collect after they mature." Bold="0" />
+  <HelpIntro ID="9" Intro="2. Players can manually collect mature Crystals. Crystals not manually collected will be automatically collected by the system after a period of time." Bold="0" />
+  <HelpIntro ID="10" Intro="3. Before the automatic collection of the system, the Crystals of other Factions can be stolen to increase the prosperity of your Faction." Bold="0" />
+  <HelpIntro ID="11" Intro="4. There are {ff0000} faction Guards{-} to watch the Crystal nearby." Bold="0" />
+  <HelpIntro ID="12" Intro="{fac60d}Faction BOSS" Bold="1" />
+  <HelpIntro ID="13" Intro="1. Daily {17e43e}16:00{-}, on the Faction Map, the Faction BOSS——{17e43e}The Sleeper will be refreshed. · Norwich" Bold="0" />
+  <HelpIntro ID="14" Intro="2. After the BOSS is killed, the damage dealt to the BOSS earns you {17e43e}Faction Contribution{-},. {17e43e}Faction Rank{-} and also increase the {17e43e}Faction Prosperity{-}." Bold="0" />
+  <HelpIntro ID="15" Intro="3. When a BOSS is killed, only {17e43e}on the map{-}, you can earn rewards. {ff0000}Leaving the Faction Map{-}or {ff0000} go offline{-}, you cannot earn rewards." Bold="0" />
+  <HelpIntro ID="16" Intro="4. The player who deal the highest damage can earn him the special title - {17e43e} Slayer Warrior{-}, the Slayer Warrior title on the 3 maps{17e43e} can stack up{-}." Bold="0" />
+</Config>

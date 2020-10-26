@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JingLing ID="1" TeQuanID="2" WuPinID="2005,1,1,0,0,0,0|2090030,1,1,0,0,0,0|2000,1,1,0,0,0,0" LingQuTiaoJian="60" />
+  <JingLing ID="2" TeQuanID="9" WuPinID="2005,1,1,0,0,0,0|2090030,1,1,0,0,0,0|2000,1,1,0,0,0,0" LingQuTiaoJian="70" />
+  <JingLing ID="3" TeQuanID="16" WuPinID="2005,1,1,0,0,0,0|2090030,1,1,0,0,0,0|2000,1,1,0,0,0,0" LingQuTiaoJian="80" />
+  <JingLing ID="4" TeQuanID="23" WuPinID="2005,1,1,0,0,0,0|2090030,1,1,0,0,0,0|2000,1,1,0,0,0,0" LingQuTiaoJian="90" />
+  <JingLing ID="5" TeQuanID="30" WuPinID="2005,1,1,0,0,0,0|2090030,1,1,0,0,0,0|2000,1,1,0,0,0,0" LingQuTiaoJian="100" />
+  <JingLing ID="6" TeQuanID="37" WuPinID="2005,1,1,0,0,0,0|2090030,1,1,0,0,0,0|2000,1,1,0,0,0,0" LingQuTiaoJian="500" />
+
+
+
+
+
+</Config>

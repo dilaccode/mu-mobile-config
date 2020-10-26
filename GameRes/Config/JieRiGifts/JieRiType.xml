@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Type ID="9" Name="Valentine's Gift Package" PeiZhi="JieRiLiBao.xml" />
+  <Type ID="10" Name="Sign up for Hao Li on the 7th" PeiZhi="JieRiDengLu.xml" />
+  <Type ID="11" Name="VIP feedback" PeiZhi="JieRiVip.xml" />
+  <Type ID="12" Name="Big recharge" PeiZhi="JieRiChongZhiSong.xml" />
+  <Type ID="13" Name="Accumulated recharge Howe" PeiZhi="JieRiLeiJi.xml" />
+  <Type ID="14" Name="Word card change gift box" PeiZhi="JieRiBaoXiang.xml" />
+  <Type ID="15" Name="Lover Consumer King" PeiZhi="JieRiXiaoFeiKing.xml" />
+  <Type ID="16" Name="Valentine's Recharge King" PeiZhi="JieRiChongZhiKing.xml" />
+  <Type ID="17" Name="BOSS siege" PeiZhi="JieRiBOSS.xml" />
+  <Type ID="18" Name="colecccion vip" PeiZhi="coleccion2.xml" />
+</Config>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <OrnamentGroup ID="1" Name="MU|วัยหนุ่มที่ยอดเยี่ยม" OrnamentGoods="1034000|1034001" GroupProperty="DeDoubleAttack,0.03|DeFatalAttack,0.02" />
+  <OrnamentGroup ID="2" Name="สร้อยเทพมาร|แหวนเกียรติยศ" OrnamentGoods="1034002|1034003" GroupProperty="DeLucky,0.05|DeFatalAttack,0.03" />
+  <OrnamentGroup ID="3" Name="จี้ภูต|ตราทวยเทพ" OrnamentGoods="1034004|1034005" GroupProperty="DeDoubleAttack,0.05|IgnoreMagyAttackPercent,0.01" />
+  <OrnamentGroup ID="4" Name="ผู้กล้าสูงศักดิ์|นักฆ่ามายา" OrnamentGoods="1034008|1034009" GroupProperty="IgnorePhyAttackPercent,0.01|DeFatalAttack,0.04" />
+  <OrnamentGroup ID="5" Name="ผู้กล้าประลอง|ป้ายคุ้มครองทอง" OrnamentGoods="1034010|1034011" GroupProperty="DeLucky,0.03|DeDoubleAttack,0.02" />
+  <OrnamentGroup ID="6" Name="แสงแห่งชีวิต|แหวนอินทรีเทพ" OrnamentGoods="1034014|1034015" GroupProperty="Holywater,0.5|MaxLifePercent,0.03" />
+  <OrnamentGroup ID="7" Name="ตราเสริม|เหรียญพัฒนา" OrnamentGoods="1034016|1034017" GroupProperty="Potion,0.5|MaxLifePercent,0.03" />
+  <OrnamentGroup ID="8" Name="MU|ผู้กล้าสูงศักดิ์" OrnamentGoods="1034000|1034008" GroupProperty="DeDoubleAttack,0.03|DeFatalAttack,0.03" />
+  <OrnamentGroup ID="9" Name="วัยหนุ่มที่ยอดเยี่ยม|นักฆ่ามายา" OrnamentGoods="1034001|1034009" GroupProperty="DeFatalAttack,0.06" />
+  <OrnamentGroup ID="10" Name="สร้อยเทพมาร|ผู้กล้าประลอง" OrnamentGoods="1034002|1034010" GroupProperty="IgnorePhyAttackPercent,0.01|DeLucky,0.05" />
+  <OrnamentGroup ID="11" Name="แหวนเกียรติยศ|ป้ายคุ้มครองทอง" OrnamentGoods="1034003|1034011" GroupProperty="DeFatalAttack,0.04|DeDoubleAttack,0.03" />
+  <OrnamentGroup ID="12" Name="จี้ภูต|แสงแห่งชีวิต" OrnamentGoods="1034004|1034014" GroupProperty="DeDoubleAttack,0.05|DodgePercent,0.01" />
+  <OrnamentGroup ID="13" Name="ตราทวยเทพ|แหวนอินทรีเทพ" OrnamentGoods="1034005|1034015" GroupProperty="HitPercent,0.02|Holywater,0.5" />
+  <OrnamentGroup ID="14" Name="อาจารย์MU|สนามรบสูงศักดิ์" OrnamentGoods="1034006|1034007" GroupProperty="IgnoreMagyAttackPercent,0.01|LifeStealPercent,0.1" />
+  <OrnamentGroup ID="15" Name="สนามรบสูงศักดิ์|เหรียญพัฒนา" OrnamentGoods="1034007|1034017" GroupProperty="LifeStealPercent,0.1|Potion,0.3" />
+  <OrnamentGroup ID="16" Name="แสงแห่งชีวิต|MU" OrnamentGoods="1034014|1034000" GroupProperty="MaxLifePercent,0.05|DeDoubleAttack,0.03" />
+  <OrnamentGroup ID="17" Name="แหวนอินทรีเทพ|ตราเสริม" OrnamentGoods="1034015|1034016" GroupProperty="Holywater,0.3|RecoverLifeV,0.3" />
+  <OrnamentGroup ID="18" Name="ตราเสริม|วัยหนุ่มที่ยอดเยี่ยม" OrnamentGoods="1034016|1034001" GroupProperty="RecoverLifeV,0.3|DeFatalAttack,0.03" />
+  <OrnamentGroup ID="19" Name="เหรียญพัฒนา|สร้อยเทพมาร" OrnamentGoods="1034017|1034002" GroupProperty="Potion,0.5" />
+  <OrnamentGroup ID="20" Name="คืนบัลลังก์MU|จ้าวแห่งMU" OrnamentGoods="1034018|1034019" GroupProperty="MaxLifePercent,0.06|IgnoreMagyAttackPercent,0.01" />
+  <OrnamentGroup ID="21" Name="ผู้กล้าสูงศักดิ์|คืนบัลลังก์MU" OrnamentGoods="1034008|1034018" GroupProperty="DeFatalAttack,0.05|MaxLifePercent,0.05" />
+  <OrnamentGroup ID="22" Name="นักฆ่ามายา|จ้าวแห่งMU" OrnamentGoods="1034009|1034019" GroupProperty="FatalAttack,0.03|ElementInjurePercent,0.08" />
+  <OrnamentGroup ID="23" Name="คืนบัลลังก์MU|แหวนเกียรติยศ" OrnamentGoods="1034018|1034003" GroupProperty="MaxLifePercent,0.05|FatalAttack,0.03" />
+  <OrnamentGroup ID="24" Name="จ้าวแห่งMU|จี้ภูต" OrnamentGoods="1034019|1034004" GroupProperty="ElementInjurePercent,0.08|DeDoubleAttack,0.05" />
+  <OrnamentGroup ID="25" Name="ตราชัยชนะ|จี้ดาวใหม่" OrnamentGoods="1034023|1034021" GroupProperty="MaxLifePercent,0.08|AttackInjurePercent,0.05" />
+  <OrnamentGroup ID="26" Name="ถ้วยรางวัลชนะเลิศ|ตรารางวัลMVP" OrnamentGoods="1034020|1034022" GroupProperty="SPAttackInjurePercent,0.1|ElementAttackInjurePercent,0.06" />
+  <OrnamentGroup ID="27" Name="ถ้วยรางวัลชนะเลิศ|ตรารางวัลMVP|ตราชัยชนะ" OrnamentGoods="1034020|1034022|1034023" GroupProperty="AddAttackInjurePercent,0.05|ElementAttackInjurePercent,0.12|ElementInjurePercent,0.12" />
+  <OrnamentGroup ID="28" Name="บทที่เก้า|ถามสวรรค์" OrnamentGoods="1034048|1034049" GroupProperty="DoubleAttack,0.03|DeDoubleAttack,0.03" />
+  <OrnamentGroup ID="29" Name="ปากกาแชมป์|อันดับทอง" OrnamentGoods="1034065|1034066" GroupProperty="ElementInjurePercent,0.05|ElementAttackInjurePercent,0.05" />
+  <OrnamentGroup ID="30" Name="คริสตัลพลัง|บัวทองหัวใจสีแดง" OrnamentGoods="1034071|1034072" GroupProperty="MaxLifePercent,0.08|DoubleAttack,0.03" />
+  <OrnamentGroup ID="31" Name="แหวนบทสวด|นาฬิกาล็อคเก็ตกาลอวกาศ" OrnamentGoods="1034082|1034083" GroupProperty="FatalAttack,0.05|DoubleAttack,0.05" />
+</Config>

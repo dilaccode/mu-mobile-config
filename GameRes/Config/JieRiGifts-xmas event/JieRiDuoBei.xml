@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="41" FromDate="2018-12-19 00:00:00" ToDate="2018-12-25 23:59:59" AwardStartDate="2018-12-19 00:00:00" AwardEndDate="2018-12-25 23:59:59" />
+  <GiftList Description="During the event period, players will receive extra bonuses">
+    <JieRiDuoBei ID="1" Name="Angels Pantheon Reward" TypeID="1" Depict="Angels Pantheon Reward x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1002"/>
+    <JieRiDuoBei ID="2" Name="Camp Battle Reward" TypeID="2" Depict="Camp Battle Reward x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1001"/>
+    <JieRiDuoBei ID="3" Name="King of PK reward" TypeID="3" Depict="King of PK reward x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="105"/>
+    <JieRiDuoBei ID="4" Name="Ancient Battlefield time" TypeID="4" Depict="Ancient Battlefield time x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1000"/>
+    <JieRiDuoBei ID="5" Name="Team dungeon reward" TypeID="5" Depict="Team dungeon reward x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="407"/>
+    <JieRiDuoBei ID="6" Name="Conversion quota" TypeID="6" Depict="Conversion quota x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1320"/>
+    <JieRiDuoBei ID="7" Name="Convert to receive reward" TypeID="9" Depict="Convert to receive reward x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1320"/>
+    <JieRiDuoBei ID="8" Name="Worship statue quota" TypeID="12" Depict="Worship statue quota x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1310"/>
+    <JieRiDuoBei ID="9" Name="Synthesis fruit probability" TypeID="13" Depict="Synthesis fruit probability x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="203"/>
+    <JieRiDuoBei ID="10" Name="Acquire blessing points" TypeID="10" Depict="Acquire blessing points x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="400"/>
+  </GiftList>
+</Config>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HuoDongList>
+  <HuoDong ID="20000" Name="Phantom monastery" Preview="20000" RewardExplain="1,4|4,5" GLXml="TempleMirage.xml" />
+  <HuoDong ID="20001" Name="The Surfer Show" Preview="20001" RewardExplain="1,4|4,5" GLXml="TianTi.xml" />
+  <HuoDong ID="20002" Name="Battlefield" Preview="20002" RewardExplain="1,4|4,5" GLXml="ThroughServiceBattle.xml" />
+  <HuoDong ID="20003" Name="Dan the Devil" Preview="20003" RewardExplain="1,4|4,5" GLXml="ThroughServiceBoss.xml" />
+  <HuoDong ID="20004" Name="The ETA" Preview="20004" RewardExplain="1,4|4,5" GLXml="Match.xml" />
+  <HuoDong ID="20005" Name="Lovers Arena" Preview="20005" RewardExplain="1,4|4,5" GLXml="CoupleWar.xml" />
+  <HuoDong ID="20006" Name="King battlefield" Preview="20006" RewardExplain="1,4|4,5" GLXml="KingOfBattle.xml" />
+  <HuoDong ID="20007" Name="Gather territory" Preview="20007" RewardExplain="1,4|4,5" GLXml="ManorCollectMonster.xml" />
+  <HuoDong ID="20008" Name="League match" Preview="20008" RewardExplain="1,4|4,5" GLXml="LeagueMatch.xml" />
+  <HuoDong ID="20009" Name="Strip across the surf" Preview="20009" RewardExplain="1,4|4,5" GLXml="CrusadeWar.xml" />
+</HuoDongList>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+<!-- Exclusivo-->>
+  <Activities ActivityType="18" FromDate="2019-08-10 00:00:00" ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description2="During the event, you can be collected into the treasures of the props." Description12="During the event, every day can be exchanged for precious props.">
+  
+   	<Award ID="1" Type="2" NewGoodsID="321031027,1,0,0,0,0,1341931520" DuiHuanGoodsIDs="101511238,150" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="2" Type="2" NewGoodsID="321031028,1,0,0,0,0,1341931520" DuiHuanGoodsIDs="101511238,150" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="3" Type="2" NewGoodsID="321031029,1,0,0,0,0,1341931520" DuiHuanGoodsIDs="101511238,150" MoJing="0" JiFen="0" DayMaxTimes="100" />
+	<Award ID="4" Type="2" NewGoodsID="1035875,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,15" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="5" Type="2" NewGoodsID="1035872,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,15" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="6" Type="2" NewGoodsID="1035871,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,15" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="7" Type="2" NewGoodsID="1035004,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,25" MoJing="0" JiFen="0" DayMaxTimes="100" />  
+    <Award ID="8" Type="2" NewGoodsID="101723842,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,25" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="9" Type="2" NewGoodsID="20163172,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,25" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="10" Type="2" NewGoodsID="1035021,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,25" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="11" Type="2" NewGoodsID="101723841,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,30" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="12" Type="2" NewGoodsID="20163165,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,40" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="13" Type="2" NewGoodsID="1035012,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,50" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="14" Type="2" NewGoodsID="20163170,1,0,0,0,0,235" DuiHuanGoodsIDs="101511238,70" MoJing="0" JiFen="0" DayMaxTimes="100" />
+    <Award ID="15" Type="2" NewGoodsID="1035020,1,0,0,0,0,0" DuiHuanGoodsIDs="101511238,70" MoJing="0" JiFen="0" DayMaxTimes="100" />   
+     
+  </GiftList>
+</Config>

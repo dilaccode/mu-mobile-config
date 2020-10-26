@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+  <ActivityType ActivityType="1" Name="Login Rewards" Tiptype="17001" XML="SevenDayLogin.xml" />
+  <ActivityType ActivityType="2" Name="Recharge Rewards" Tiptype="17002" XML="SevenDayChongZhi.xml" />
+  <ActivityType ActivityType="3" Name="7 Day Goal" Tiptype="17003" XML="SevenDayGoal.xml" />
+  <ActivityType ActivityType="4" Name="7 Day Limited Sales" Tiptype="17004" XML="SevenDayQiangGou.xml" />
+</Config>

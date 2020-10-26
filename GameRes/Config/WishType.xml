@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <WishType ID="1" Name="Heart and soul" ItemNum="2130,1" ZhuanShi="20000" WishNum="1" WishIntro="0" Effect="0" EffectCD="0" />
+  <WishType ID="2" Name="One hundred years" ItemNum="2130,7" ZhuanShi="158000" WishNum="8" WishIntro="0" Effect="0" EffectCD="0" />
+  <WishType ID="3" Name="Forever" ItemNum="2130,25" ZhuanShi="520000" WishNum="30" WishIntro="0" Effect="0" EffectCD="0" />
+  <WishType ID="4" Name="Lifetime" ItemNum="-1" ZhuanShi="1314000" WishNum="60" WishIntro="1" Effect="1" EffectCD="5" />
+</Config>

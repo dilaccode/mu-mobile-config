@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="66" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="In time, the activity will open the prize function in addition to the regular prize!">
+    <!-- 精灵狂欢 -->
+    <JieRiDuoBei ID="1" Name="Joyous daemon" TypeID="1" Depict="When random, daemons have the opportunity to get additional features from regular time." Button="1" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1430" />
+    <!--魂石辅助功能Button控制开启，Function控制功能，格式：功能,货币；功能1额外获得魂石精华、功能2减少消耗、功能3提高成功率、功能4锁定不变色，货币：魔晶、星魂、成就、声望、钻石-->
+    <JieRiDuoBei ID="2" Name="Help the Spirit Rock" TypeID="2" Depict="Help to wake up the rock spirit more successfully." Button="1" Function="3,3" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1420" />
+    <!-- 祈福狂欢 -->
+    <JieRiDuoBei ID="3" Name="Happy birthday" TypeID="3" Depict="Random chance to get more items that you have more than normal time." Button="1" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="400" />
+    <!-- 强化+20开放 -->
+    <JieRiDuoBei ID="4" Name="Open upgrade+20" TypeID="4" Depict="Upgrade possible.+20" Button="1" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="200" />
+    <!-- 符文狂欢 -->
+    <JieRiDuoBei ID="5" Name="Joyful" TypeID="5" Depict="Random coffees help get festive." Button="0" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1501" />
+  </GiftList>
+</Config>

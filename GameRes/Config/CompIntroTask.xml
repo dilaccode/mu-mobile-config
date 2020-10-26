@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Faction Quest" Bold="1" />
+  <HelpIntro ID="2" Intro="1. Faction Quests reset at {17e43e}00:00 each Monday{-}. When reset, the uncompleted quest count {ff0000}doesn’t keep." Bold="0" />
+  <HelpIntro ID="3" Intro="2. Faction Quest Rewards{17e43e} Faction Contribution{-} , {17e43e} Faction Ranks" Bold="0" />
+  <HelpIntro ID="4" Intro="3. The Faction Contribution can be used in the Faction Shop {17e43e}to redeem valuable items." Bold="0" />
+  <HelpIntro ID="5" Intro="4. The Faction Rankings are based on the Factions Ranks, the Faction Rankings {17e43e} at 00:00 each Monday{-} stop and {ff0000}Cleared{-}. The next week is rankings start." Bold="0" />
+</Config>

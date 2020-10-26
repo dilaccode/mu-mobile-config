@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Event rule" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae} 1, Every Saturday and Sunday {17e43e}20:30-21:00{dac7ae}, each season total 7 rounds" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae} 2, War alliance with the qualification of Super Golden League will be able to join, {17e43e} no registration required" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae} 3, Super Golden League is a {17e43e}tournament {dac7ae} , two war alliances will be able to engage for only once in every season" Bold="0" />
+  <HelpIntro ID="5" Intro="{fac60d} Ranking rule" Bold="1" />
+  <HelpIntro ID="6" Intro="{dac7ae} 1, Based on the {17e43e} victory counts {dac7ae} to decide on the ranking, for a same victory counts, it will be based on the mutual {17e43e} victory or defeat relation {dac7ae} to decide on the ranking" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae} 2, Two of the war alliances with the lower ranking will be {ff0000} degraded {dac7ae} . Unable to join the Super Golden League on the next season" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae} 3, Able to receive {17e43e} season reward when it ends" Bold="0" />
+</Config>

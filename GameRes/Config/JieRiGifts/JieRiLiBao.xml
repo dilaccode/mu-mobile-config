@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="9"  FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="Reciba este premio cada vez que comience el festival!!
+                         segui descubriendo el mundo Ragnarok!!!">
+    <Award GoodsOne="2300,100,1,0,0,0,0|5251,70,1,0,0,0,0|50165,5,1,0,0,0,235|2090014,1,1,0,0,0,0|2034,20,1,0,0,0,0|2033,40,1,0,0,0,0|5350,20,1,0,0,0,0|6007,10,1,0,0,0,235" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

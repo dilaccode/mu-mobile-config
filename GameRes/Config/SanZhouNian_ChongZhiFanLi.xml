@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SanZhouNian_ChongZhiFanLi ChongZhiJinE="400,1000,2000,4000,8000" FanZuanShuLiang="400,1000,2000,4000,8000" XiaoFeiZuanShi="400,1000,2000,4000,8000" HuoDongKaiQi="2018-07-28 00:00:00" HuoDongGuanBi="2018-08-03 23:59:59" HuoDongKaiGuan="1" />
+</Config>

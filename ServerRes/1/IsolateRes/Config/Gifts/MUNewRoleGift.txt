@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Item ID="1" TimeSecs="3" ShowGoods="4103,50053,50052,50051,50055" FallID="1002000" />
+  <Item ID="2" TimeSecs="10" ShowGoods="4103,50054,50053,50052,50052" FallID="1002001" />
+  <Item ID="3" TimeSecs="20" ShowGoods="4103,50056,50055,50054,50053" FallID="1002002" />
+  <Item ID="4" TimeSecs="40" ShowGoods="4103,50056,50055,50054,50053" FallID="1002003" />
+</Config>

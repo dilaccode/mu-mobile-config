@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <BuildTask ID="10000" Name="Small power core" BuildID="1" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="10001" Name="Medium power core" BuildID="1" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="10002" Name="Large power core" BuildID="1" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="10003" Name="Super power core" BuildID="1" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="20000" Name="Small power core" BuildID="2" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="20001" Name="Medium power core" BuildID="2" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="20002" Name="Large power core" BuildID="2" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="20003" Name="Super power core" BuildID="2" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="30000" Name="Small power core" BuildID="3" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="30001" Name="Medium power core" BuildID="3" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="30002" Name="Large power core" BuildID="3" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="30003" Name="Super power core" BuildID="3" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="40000" Name="Small power core" BuildID="4" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="40001" Name="Medium power core" BuildID="4" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="40002" Name="Large power core" BuildID="4" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="40003" Name="Super power core" BuildID="4" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="100" Name="Tower Sweeping Action" BuildID="1" Quality="1" Sum="2" ExpNum="1" Time="30" />
+  <BuildTask ID="101" Name="Remaining Evildoed from the crevice" BuildID="1" Quality="1" Sum="3" ExpNum="1" Time="30" />
+  <BuildTask ID="102" Name="The Souls  of War Sacrificed" BuildID="1" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="110" Name="Cleanse Ghost" BuildID="1" Quality="2" Sum="5" ExpNum="3" Time="60" />
+  <BuildTask ID="111" Name="Repair List" BuildID="1" Quality="2" Sum="5" ExpNum="2" Time="60" />
+  <BuildTask ID="112" Name="Worship Spiritual Warfare" BuildID="1" Quality="2" Sum="6" ExpNum="2" Time="60" />
+  <BuildTask ID="113" Name="Explore Attic" BuildID="1" Quality="2" Sum="6" ExpNum="3" Time="60" />
+  <BuildTask ID="114" Name="Cleaning Arsenal" BuildID="1" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="120" Name="Disperse Shadow" BuildID="1" Quality="3" Sum="8" ExpNum="3" Time="120" />
+  <BuildTask ID="121" Name="Ghost Raid" BuildID="1" Quality="3" Sum="8" ExpNum="4" Time="120" />
+  <BuildTask ID="122" Name="Shadow of Valkyrie" BuildID="1" Quality="3" Sum="8" ExpNum="5" Time="120" />
+  <BuildTask ID="123" Name="Skills comparing" BuildID="1" Quality="3" Sum="9" ExpNum="4" Time="120" />
+  <BuildTask ID="124" Name="Repair Arena" BuildID="1" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="130" Name="Arena of the Top of the Tower" BuildID="1" Quality="4" Sum="12" ExpNum="5" Time="240" />
+  <BuildTask ID="131" Name="Battle Rehearsal" BuildID="1" Quality="4" Sum="12" ExpNum="6" Time="240" />
+  <BuildTask ID="132" Name="Battlefield Journey" BuildID="1" Quality="4" Sum="12" ExpNum="7" Time="240" />
+  <BuildTask ID="133" Name="Fight the Dragon" BuildID="1" Quality="4" Sum="14" ExpNum="5" Time="240" />
+  <BuildTask ID="134" Name="Seal of the God of War" BuildID="1" Quality="4" Sum="14" ExpNum="7" Time="240" />
+  <BuildTask ID="135" Name="Eliminating the Tower is Spirit" BuildID="1" Quality="4" Sum="14" ExpNum="9" Time="240" />
+  <BuildTask ID="136" Name="Eliminating Warriors on the Battlefield" BuildID="1" Quality="4" Sum="16" ExpNum="7" Time="240" />
+  <BuildTask ID="137" Name="Battle of the God of War" BuildID="1" Quality="4" Sum="16" ExpNum="8" Time="240" />
+  <BuildTask ID="138" Name="Enrishing Tower for Sealing Demons" BuildID="1" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="200" Name="Magic Emerge" BuildID="2" Quality="1" Sum="2" ExpNum="1" Time="30" />
+  <BuildTask ID="201" Name="Witch Teaching" BuildID="2" Quality="1" Sum="3" ExpNum="1" Time="30" />
+  <BuildTask ID="202" Name="Comprehend Incantation" BuildID="2" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="210" Name="Polished Magic Weapon" BuildID="2" Quality="2" Sum="5" ExpNum="3" Time="60" />
+  <BuildTask ID="211" Name="Crystal Spirit Injection" BuildID="2" Quality="2" Sum="5" ExpNum="2" Time="60" />
+  <BuildTask ID="212" Name="Drawing Formation" BuildID="2" Quality="2" Sum="6" ExpNum="2" Time="60" />
+  <BuildTask ID="213" Name="Carving Runes" BuildID="2" Quality="2" Sum="6" ExpNum="3" Time="60" />
+  <BuildTask ID="214" Name="Collecting Holy Fountain" BuildID="2" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="220" Name="Balance Magic" BuildID="2" Quality="3" Sum="8" ExpNum="3" Time="120" />
+  <BuildTask ID="221" Name="Caution Saint" BuildID="2" Quality="3" Sum="8" ExpNum="4" Time="120" />
+  <BuildTask ID="222" Name="Practice Ideas" BuildID="2" Quality="3" Sum="8" ExpNum="5" Time="120" />
+  <BuildTask ID="223" Name="Summon Elfs" BuildID="2" Quality="3" Sum="9" ExpNum="4" Time="120" />
+  <BuildTask ID="224" Name="God Light Prayer" BuildID="2" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="230" Name="Magical Cage" BuildID="2" Quality="4" Sum="12" ExpNum="5" Time="240" />
+  <BuildTask ID="231" Name="Magic Power Absorption" BuildID="2" Quality="4" Sum="12" ExpNum="6" Time="240" />
+  <BuildTask ID="232" Name="Making Grimoire" BuildID="2" Quality="4" Sum="12" ExpNum="7" Time="240" />
+  <BuildTask ID="233" Name="Proficient of Spells" BuildID="2" Quality="4" Sum="14" ExpNum="5" Time="240" />
+  <BuildTask ID="234" Name="Servitude of God and Ghost" BuildID="2" Quality="4" Sum="14" ExpNum="7" Time="240" />
+  <BuildTask ID="235" Name="Magic Mirage" BuildID="2" Quality="4" Sum="14" ExpNum="9" Time="240" />
+  <BuildTask ID="236" Name="Carving Statue of Angel" BuildID="2" Quality="4" Sum="16" ExpNum="7" Time="240" />
+  <BuildTask ID="237" Name="Listen to Hymn" BuildID="2" Quality="4" Sum="16" ExpNum="8" Time="240" />
+  <BuildTask ID="238" Name="Proficient of Tantric" BuildID="2" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="300" Name="Cleaning Astrology Counter" BuildID="3" Quality="1" Sum="2" ExpNum="1" Time="30" />
+  <BuildTask ID="301" Name="Polished Astrology Ball" BuildID="3" Quality="1" Sum="3" ExpNum="1" Time="30" />
+  <BuildTask ID="302" Name="Repair the diagram of constellation" BuildID="3" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="310" Name="Observe the sky" BuildID="3" Quality="2" Sum="5" ExpNum="3" Time="60" />
+  <BuildTask ID="311" Name="Identification of Constellation" BuildID="3" Quality="2" Sum="5" ExpNum="2" Time="60" />
+  <BuildTask ID="312" Name="Playing Astrolabe" BuildID="3" Quality="2" Sum="6" ExpNum="2" Time="60" />
+  <BuildTask ID="313" Name="Magic Astrology" BuildID="3" Quality="2" Sum="6" ExpNum="3" Time="60" />
+  <BuildTask ID="314" Name="Star Exploring" BuildID="3" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="320" Name="Fugue Interstella" BuildID="3" Quality="3" Sum="8" ExpNum="3" Time="120" />
+  <BuildTask ID="321" Name="Stars Divination" BuildID="3" Quality="3" Sum="8" ExpNum="4" Time="120" />
+  <BuildTask ID="322" Name="Observation of Dark Stars" BuildID="3" Quality="3" Sum="8" ExpNum="5" Time="120" />
+  <BuildTask ID="323" Name="Observe Black Hole" BuildID="3" Quality="3" Sum="9" ExpNum="4" Time="120" />
+  <BuildTask ID="324" Name="Strengthened Star Trek Instrument" BuildID="3" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="330" Name="Sky Through" BuildID="3" Quality="4" Sum="12" ExpNum="5" Time="240" />
+  <BuildTask ID="331" Name="Painting of the Cloud" BuildID="3" Quality="4" Sum="12" ExpNum="6" Time="240" />
+  <BuildTask ID="332" Name="Ceremony of Star repairing" BuildID="3" Quality="4" Sum="12" ExpNum="7" Time="240" />
+  <BuildTask ID="333" Name="Starlight Blessing" BuildID="3" Quality="4" Sum="14" ExpNum="5" Time="240" />
+  <BuildTask ID="334" Name="Star Prayer" BuildID="3" Quality="4" Sum="14" ExpNum="7" Time="240" />
+  <BuildTask ID="335" Name="Ceremony of Enshrining the Star" BuildID="3" Quality="4" Sum="14" ExpNum="9" Time="240" />
+  <BuildTask ID="336" Name="Magic Array of Star" BuildID="3" Quality="4" Sum="16" ExpNum="7" Time="240" />
+  <BuildTask ID="337" Name="Route of the Star Light" BuildID="3" Quality="4" Sum="16" ExpNum="8" Time="240" />
+  <BuildTask ID="338" Name="Astrology Master" BuildID="3" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="400" Name="Beginner Test" BuildID="4" Quality="1" Sum="2" ExpNum="1" Time="30" />
+  <BuildTask ID="401" Name="Rout of Trial" BuildID="4" Quality="1" Sum="3" ExpNum="1" Time="30" />
+  <BuildTask ID="402" Name="The source of darkness " BuildID="4" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="410" Name="3 Headed Tarrasque" BuildID="4" Quality="2" Sum="5" ExpNum="3" Time="60" />
+  <BuildTask ID="411" Name="Phantom Snake Mirage" BuildID="4" Quality="2" Sum="5" ExpNum="2" Time="60" />
+  <BuildTask ID="412" Name="Hell Hound" BuildID="4" Quality="2" Sum="6" ExpNum="2" Time="60" />
+  <BuildTask ID="413" Name="Ancient Giant Breast" BuildID="4" Quality="2" Sum="6" ExpNum="3" Time="60" />
+  <BuildTask ID="414" Name="Door of the Poisonous Spider" BuildID="4" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="420" Name="Dance of the Devils" BuildID="4" Quality="3" Sum="8" ExpNum="3" Time="120" />
+  <BuildTask ID="421" Name="Trial of Blood" BuildID="4" Quality="3" Sum="8" ExpNum="4" Time="120" />
+  <BuildTask ID="422" Name="Worship Ceremony" BuildID="4" Quality="3" Sum="8" ExpNum="5" Time="120" />
+  <BuildTask ID="423" Name="Air Raid" BuildID="4" Quality="3" Sum="9" ExpNum="4" Time="120" />
+  <BuildTask ID="424" Name="Trial of the Sea of Blood" BuildID="4" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="430" Name="Demon Purgatory" BuildID="4" Quality="4" Sum="12" ExpNum="5" Time="240" />
+  <BuildTask ID="431" Name="Soul is Corridor" BuildID="4" Quality="4" Sum="12" ExpNum="6" Time="240" />
+  <BuildTask ID="432" Name="Hell Apostle" BuildID="4" Quality="4" Sum="12" ExpNum="7" Time="240" />
+  <BuildTask ID="433" Name="Demon is Eye" BuildID="4" Quality="4" Sum="14" ExpNum="5" Time="240" />
+  <BuildTask ID="434" Name="Door of Desperation" BuildID="4" Quality="4" Sum="14" ExpNum="7" Time="240" />
+  <BuildTask ID="435" Name="Death Liar" BuildID="4" Quality="4" Sum="14" ExpNum="9" Time="240" />
+  <BuildTask ID="436" Name="Barren Hole" BuildID="4" Quality="4" Sum="16" ExpNum="7" Time="240" />
+  <BuildTask ID="437" Name="Potential Trial" BuildID="4" Quality="4" Sum="16" ExpNum="8" Time="240" />
+  <BuildTask ID="438" Name="Trial Overlord" BuildID="4" Quality="4" Sum="16" ExpNum="9" Time="240" />
+</config>

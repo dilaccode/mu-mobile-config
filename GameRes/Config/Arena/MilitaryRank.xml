@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Goods MilitaryRankLevel="0" Name="PV1" NeedReputation="" ConsumptionReputation="0.1" BuffID="" />
+  <Goods MilitaryRankLevel="1" Name="PV2" NeedReputation="" ConsumptionReputation="0.15" BuffID="" />
+  <Goods MilitaryRankLevel="2" Name="PFC" NeedReputation="" ConsumptionReputation="0.2" BuffID="" />
+  <Goods MilitaryRankLevel="3" Name="SPC" NeedReputation="" ConsumptionReputation="0.25" BuffID="" />
+  <Goods MilitaryRankLevel="4" Name="CPL" NeedReputation="" ConsumptionReputation="0.3" BuffID="" />
+  <Goods MilitaryRankLevel="5" Name="SGT" NeedReputation="" ConsumptionReputation="0.35" BuffID="" />
+  <Goods MilitaryRankLevel="6" Name="SSG" NeedReputation="" ConsumptionReputation="0.4" BuffID="" />
+  <Goods MilitaryRankLevel="7" Name="SFC" NeedReputation="" ConsumptionReputation="0.45" BuffID="" />
+  <Goods MilitaryRankLevel="8" Name="MSG" NeedReputation="" ConsumptionReputation="0.5" BuffID="" />
+  <Goods MilitaryRankLevel="9" Name="1SG" NeedReputation="" ConsumptionReputation="0.55" BuffID="" />
+  <Goods MilitaryRankLevel="10" Name="SGM" NeedReputation="" ConsumptionReputation="0.6" BuffID="" />
+  <Goods MilitaryRankLevel="11" Name="CSM" NeedReputation="" ConsumptionReputation="0.65" BuffID="" />
+</Config>

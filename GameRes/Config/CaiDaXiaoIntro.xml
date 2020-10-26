@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. When the event is open, {17e43e}every 5 minutes." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. The total number and is {17e43e}3 or 18 hours {dac7ae}are {17e43e}leopard, {dac7ae}4-10 for {17e43e}Low, {dac7ae}11-17 are {17e43e}high" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. The first prize winner {17e43e} 30 seconds" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. With a maximum purchase amount of {17e43e} per person" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. The average winning side will be {17e43e}. Token betting is fun all this time{dac7ae}" Bold="0" />
+</Config>

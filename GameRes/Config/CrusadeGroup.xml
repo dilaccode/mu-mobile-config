@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CrusadeGroup ID="10001" GroupID="1" ServerNumber="1" ZoneNumber="1,6" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10002" GroupID="1" ServerNumber="7" ZoneNumber="7,12" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10003" GroupID="1" ServerNumber="13" ZoneNumber="13,20" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10004" GroupID="1" ServerNumber="21" ZoneNumber="21,31" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10005" GroupID="1" ServerNumber="32" ZoneNumber="32,42" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10006" GroupID="1" ServerNumber="43" ZoneNumber="43,55|61|63" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10007" GroupID="1" ServerNumber="56" ZoneNumber="56,60|62|64,77|79|158" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10008" GroupID="1" ServerNumber="78" ZoneNumber="78,|80,98|104,105|128" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10009" GroupID="1" ServerNumber="99" ZoneNumber="99,103|106,109|112|122" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10010" GroupID="1" ServerNumber="110" ZoneNumber="110,111|113,121|123,127|129" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10011" GroupID="1" ServerNumber="130" ZoneNumber="130,143|145,154" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10012" GroupID="1" ServerNumber="144" ZoneNumber="144|146,153|155,157|159,163" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10013" GroupID="1" ServerNumber="164" ZoneNumber="164,179" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10014" GroupID="1" ServerNumber="180" ZoneNumber="180,191" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10015" GroupID="1" ServerNumber="192" ZoneNumber="192,200" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10016" GroupID="1" ServerNumber="201" ZoneNumber="201,207" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10017" GroupID="1" ServerNumber="208" ZoneNumber="208,213" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10018" GroupID="1" ServerNumber="214" ZoneNumber="214,218" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10019" GroupID="1" ServerNumber="219" ZoneNumber="219" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10020" GroupID="1" ServerNumber="220" ZoneNumber="220" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10021" GroupID="1" ServerNumber="221" ZoneNumber="221" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10022" GroupID="1" ServerNumber="222" ZoneNumber="222" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10023" GroupID="1" ServerNumber="223" ZoneNumber="223" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10024" GroupID="1" ServerNumber="224" ZoneNumber="224" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10025" GroupID="1" ServerNumber="225" ZoneNumber="225" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10026" GroupID="1" ServerNumber="226" ZoneNumber="226" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10027" GroupID="1" ServerNumber="227" ZoneNumber="227" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10028" GroupID="1" ServerNumber="228" ZoneNumber="228" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10029" GroupID="1" ServerNumber="229" ZoneNumber="229" PingTai="APP" OpenTime="2017-11-20" />
+  <CrusadeGroup ID="10030" GroupID="1" ServerNumber="230" ZoneNumber="230" PingTai="APP" OpenTime="2017-12-02" />
+  <CrusadeGroup ID="10031" GroupID="1" ServerNumber="231" ZoneNumber="231" PingTai="APP" OpenTime="2017-12-16" />
+  <CrusadeGroup ID="10032" GroupID="1" ServerNumber="232" ZoneNumber="232" PingTai="APP" OpenTime="2017-12-24" />
+  <CrusadeGroup ID="10033" GroupID="1" ServerNumber="233" ZoneNumber="233" PingTai="APP" OpenTime="2018-01-01" />
+  <CrusadeGroup ID="10034" GroupID="1" ServerNumber="234" ZoneNumber="234" PingTai="APP" OpenTime="2018-01-20" />
+  <CrusadeGroup ID="10035" GroupID="1" ServerNumber="235" ZoneNumber="235" PingTai="APP" OpenTime="2018-01-29" />
+  <CrusadeGroup ID="10036" GroupID="1" ServerNumber="236" ZoneNumber="236" PingTai="APP" OpenTime="2018-02-12" />
+  <CrusadeGroup ID="10037" GroupID="1" ServerNumber="237" ZoneNumber="237" PingTai="APP" OpenTime="2018-02-25" />
+  <CrusadeGroup ID="10038" GroupID="1" ServerNumber="238" ZoneNumber="238" PingTai="APP" OpenTime="2018-03-09" />
+  <CrusadeGroup ID="10039" GroupID="1" ServerNumber="239" ZoneNumber="239" PingTai="APP" OpenTime="2018-03-28" />
+  <CrusadeGroup ID="10040" GroupID="1" ServerNumber="240" ZoneNumber="240" PingTai="APP" OpenTime="2018-04-12" />
+  <CrusadeGroup ID="20001" GroupID="2" ServerNumber="951" ZoneNumber="951" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="20002" GroupID="2" ServerNumber="953" ZoneNumber="953" PingTai="APP" OpenTime="2016-01-01" />
+</Config>

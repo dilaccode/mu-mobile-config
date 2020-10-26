@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Bidding Rules" Bold="1" />
+  <HelpIntro ID="2" Intro="1. Each Sunday, {17e43e}at 19:00, the bidding begins{17e43e}, and all servers in the battle zone are divided into {17e43e}4 groups{17e43e}, bidding in order, with each group’s bidding lasting for {17e43e}15 minutes." Bold="0" />
+  <HelpIntro ID="3" Intro="2. When bid as a War Alliance,  only the leader of the War Alliance can bid for on behalf the War Alliance, and the bid costs {17e43e} the Alliance Fund." Bold="0" />
+  <HelpIntro ID="4" Intro="3. {ff0000}Don’t display {-}the other War Alliances’ bid price. After bidding, the system{17e43e} will immediately inform {-} if the bid is successful. The bidding failure doesn’t consume the War Alliance’s funds." Bold="0" />
+  <HelpIntro ID="5" Intro="4. The bidding has a CD, {ff0000} regardless of success or failure {-}, and cannot bid again." Bold="0" />
+  <HelpIntro ID="6" Intro="5. After a successful bidding, {-{ff0000} exceeded{-}, there will be a mail to inform and the funds will be refunded." Bold="0" />
+  <HelpIntro ID="7" Intro="6. For each round,  each War Alliance can bid {ff0000}1{-} server at most." Bold="0" />
+  <HelpIntro ID="8" Intro="{fac60d}Event rule" Bold="1" />
+  <HelpIntro ID="9" Intro="1. Each Sunday{17e43e} 21:30 - 22:30{-}, each season for {17e43e}13 weeks{-}" Bold="0" />
+  <HelpIntro ID="10" Intro="2. A successful bidding will win the War Alliance’s{17e43e} Invasion Right{-},  and the unqualified ones can participate in the server’s defense." Bold="0" />
+  <HelpIntro ID="11" Intro="{fac60d} Conquer Rules" Bold="1" />
+  <HelpIntro ID="12" Intro="1. For the Conquer play, each server works as a unit. If defense party’s resources {ff0000} are all plundered{-}, and the resources plundered from {17e43e}the same server{-} occupy {17e43e}80%{-} of the total plundered resources, your server reaches the server of conquer." Bold="0" />
+  <HelpIntro ID="13" Intro="2. Repeatedly conquering the same server {ff0000} doesn’t count repeatedly {-} on the rankings. The leader board information is cleared every season." Bold="0" />
+</Config>

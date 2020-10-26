@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="12" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="Durante el evento, todos los días, el valor de la recarga será recompensado. 
+                         Segui descubriendo el mundo Ragnarok">
+    <Award ID="1" MinYuanBao="300" GoodsOne="13003057,1,1,0,0,0,0|5371,1,1,0,0,0,0|63143,1,1,0,0,0,0|13003027,5,1,0,0,0,0|13003017,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" MinYuanBao="1000" GoodsOne="13003027,5,1,0,0,0,0|5371,2,1,0,0,0,0|14001040,10,1,0,0,0,0|2090051,3,1,0,0,0,0|5380,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" MinYuanBao="3000" GoodsOne="14001053,3,1,0,0,0,0|63265,10,1,0,0,0,0|14001040,30,1,0,0,0,0|2090047,3,1,0,0,0,0|13003015,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" MinYuanBao="6000" GoodsOne="2070,15,0,0,0,0,0|2071,15,0,0,0,0,0|2072,15,0,0,0,0,0|2073,15,0,0,0,0,0|2074,15,0,0,0,0,0|2075,15,0,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" MinYuanBao="10000" GoodsOne="2076,15,0,0,0,0,0|2077,15,0,0,0,0,0|2078,15,0,0,0,0,0|2079,15,0,0,0,0,0|2080,15,0,0,0,0,0|2081,15,0,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" MinYuanBao="15000" GoodsOne="2082,15,0,0,0,0,0|2083,15,0,0,0,0,0|2084,15,0,0,0,0,0|2085,15,0,0,0,0,0|2086,15,0,0,0,0,0|2087,15,0,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

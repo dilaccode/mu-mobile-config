@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JingLing ID="1" TeQuanID="4" WuPinID="30151619,1,0,0,0,0,0" JiaGe="100" GouMaiCiShu="3" />
+  <JingLing ID="2" TeQuanID="4" WuPinID="30151619,1,0,0,0,0,0" JiaGe="200" GouMaiCiShu="9999" />
+  <JingLing ID="3" TeQuanID="4" WuPinID="30151620,1,1,0,0,0,0" JiaGe="100" GouMaiCiShu="3" />
+  <JingLing ID="4" TeQuanID="4" WuPinID="30151620,1,1,0,0,0,0" JiaGe="200" GouMaiCiShu="9999" />
+
+</Config>

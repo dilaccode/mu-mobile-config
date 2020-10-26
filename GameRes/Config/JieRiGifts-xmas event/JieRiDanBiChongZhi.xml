@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="69" FromDate="2018-07-23 00:00:00" ToDate="2018-07-29 23:59:59" AwardStartDate="2018-07-23 00:00:00" AwardEndDate="2018-07-29 23:59:59" />
+  <GiftList Description="ในเวลากิจกรรม รายการซื้อนี้ถึงค่าที่กำหนดไว้แล้ว สามารถรับรางวัลเติมเงิน">
+    <Award ID="1" MinYuanBao="100" MaxYuanBao="499" SinglePurchase="10" GoodsOne="14001034,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" MinYuanBao="500" MaxYuanBao="1999" SinglePurchase="5" GoodsOne="14001039,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" MinYuanBao="2000" MaxYuanBao="3999" SinglePurchase="3" GoodsOne="14001051,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" MinYuanBao="4000" MaxYuanBao="-1" SinglePurchase="1" GoodsOne="1035039,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

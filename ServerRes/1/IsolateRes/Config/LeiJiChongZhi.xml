@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="38" />
+  <GiftList Title="累计充值" Description="" Image="">
+  <Award ID="1" ShowMinYuanBao="0" MinYuanBao="1000" GoodsOne="5050,1,1,0,0,0,0|5088,1,1,0,0,0,0|5031,1,1,0,0,0,0|2017,1,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="2" ShowMinYuanBao="0" MinYuanBao="3000" GoodsOne="5050,4,1,0,0,0,0|5088,2,1,0,0,0,0|5031,2,1,0,0,0,0|2017,2,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="3" ShowMinYuanBao="0" MinYuanBao="5000" GoodsOne="5050,6,1,0,0,0,0|5088,3,1,0,0,0,0|5031,3,1,0,0,0,0|2017,3,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="4" ShowMinYuanBao="0" MinYuanBao="10000" GoodsOne="5050,10,1,0,0,0,0|5088,5,1,0,0,0,0|5031,5,1,0,0,0,0|2017,5,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="5" ShowMinYuanBao="0" MinYuanBao="30000" GoodsOne="5050,20,1,0,0,0,0|5088,10,1,0,0,0,0|5031,10,1,0,0,0,0|2017,10,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="6" ShowMinYuanBao="0" MinYuanBao="50000" GoodsOne="5050,40,1,0,0,0,0|5088,25,1,0,0,0,0|5031,15,1,0,0,0,0|2017,15,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="7" ShowMinYuanBao="0" MinYuanBao="100000" GoodsOne="5050,60,1,0,0,0,0|5088,30,1,0,0,0,0|5031,20,1,0,0,0,0|2017,20,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="8" ShowMinYuanBao="0" MinYuanBao="300000" GoodsOne="5050,80,1,0,0,0,0|5088,40,1,0,0,0,0|5031,40,1,0,0,0,0|2017,40,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="9" ShowMinYuanBao="0" MinYuanBao="500000" GoodsOne="5050,100,1,0,0,0,0|5088,50,1,0,0,0,0|5031,70,1,0,0,0,0|2017,70,1,0,0,0,0" GoodsTwo="" />
+  </GiftList>
+</Config>

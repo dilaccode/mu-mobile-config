@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Goal ID="1000" Day="1" GoalType="1" FunctionType="1" Describe="Reach 0 Rb 40 Lv" TypeGoal="0,40" Award="2016,5,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1001" Day="1" GoalType="1" FunctionType="1" Describe="Reach 0 Rb 80 Lv" TypeGoal="0,80" Award="2016,5,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1002" Day="1" GoalType="1" FunctionType="1" Describe="Reach 0 Rb 90 Lv" TypeGoal="0,90" Award="2016,5,1,0,0,0,0|2001,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1003" Day="1" GoalType="1" FunctionType="1" Describe="Reach 1 Rb 1 Lv" TypeGoal="1,1" Award="2017,2,1,0,0,0,0|2001,3,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1004" Day="1" GoalType="1" FunctionType="1" Describe="Reach 1 Rb 60 Lv" TypeGoal="1,60" Award="2017,2,1,0,0,0,0|2001,3,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1005" Day="1" GoalType="1" FunctionType="1" Describe="Reach 1 Rb 70 Lv" TypeGoal="1,70" Award="2017,2,1,0,0,0,0|2003,5,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1006" Day="1" GoalType="1" FunctionType="1" Describe="Reach 1 Rb 80 Lv" TypeGoal="1,80" Award="2017,2,1,0,0,0,0|2003,5,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1007" Day="1" GoalType="1" FunctionType="1" Describe="Reach 1 Rb 90 Lv" TypeGoal="1,90" Award="2017,2,1,0,0,0,0|2000,2,1,0,0,0,0|5030,1,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1008" Day="1" GoalType="1" FunctionType="1" Describe="Reach 2 Rb 1 Lv" TypeGoal="2,1" Award="2017,2,1,0,0,0,0|2000,2,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1009" Day="1" GoalType="1" FunctionType="1" Describe="Reach 2 Rb 60 Lv" TypeGoal="2,60" Award="2017,3,1,0,0,0,0|2003,5,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1010" Day="1" GoalType="1" FunctionType="1" Describe="Reach 2 Rb 70 Lv" TypeGoal="2,70" Award="2017,4,1,0,0,0,0|2003,5,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1011" Day="1" GoalType="1" FunctionType="1" Describe="Reach 2 Rb 80 Lv" TypeGoal="2,80" Award="2017,4,1,0,0,0,0|2003,8,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1012" Day="1" GoalType="1" FunctionType="1" Describe="Reach 2 Rb 90 Lv" TypeGoal="2,90" Award="2017,4,1,0,0,0,0|2003,8,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1013" Day="1" GoalType="1" FunctionType="1" Describe="Reach 3 Rb 1 Lv" TypeGoal="3,1" Award="2017,5,1,0,0,0,0|2003,8,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1014" Day="1" GoalType="1" FunctionType="1" Describe="Reach 3 Rb 60 Lv" TypeGoal="3,60" Award="2017,5,1,0,0,0,0|2003,8,1,0,0,0,0|5088,4,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1015" Day="1" GoalType="1" FunctionType="1" Describe="Reach 3 Rb 80 Lv" TypeGoal="3,80" Award="2017,5,1,0,0,0,0|2003,10,1,0,0,0,0|5088,4,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1016" Day="1" GoalType="1" FunctionType="1" Describe="Reach 4 Rb 1 Lv" TypeGoal="4,1" Award="2017,5,1,0,0,0,0|2003,10,1,0,0,0,0|5088,5,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="2000" Day="1" GoalType="2" FunctionType="2" Describe="Reach Lv 10 with 3 Skills" TypeGoal="3,10" Award="50151,2,1,0,0,0,0|5066,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="2001" Day="1" GoalType="2" FunctionType="2" Describe="Reach Lv 20 with 3 Skills" TypeGoal="4,20" Award="50151,2,1,0,0,0,0|5050,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="2002" Day="1" GoalType="2" FunctionType="2" Describe="Reach Lv 30 with 3 Skills" TypeGoal="5,30" Award="50151,5,1,0,0,0,0|5050,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="2003" Day="1" GoalType="2" FunctionType="2" Describe="Reach Lv 40 with 3 Skills" TypeGoal="6,40" Award="50151,8,1,0,0,0,0|5050,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="3000" Day="1" GoalType="2" FunctionType="3" Describe="Collect 100,000 Gems" TypeGoal="100000" Award="50151,6,1,0,0,0,0|5050,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="3001" Day="1" GoalType="2" FunctionType="3" Describe="Collect 500,000 Gems" TypeGoal="500000" Award="50151,12,1,0,0,0,0|5050,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="4000" Day="1" GoalType="2" FunctionType="4" Describe="Gather 50,000 Gems through disassemble" TypeGoal="50000" Award="50151,6,1,0,0,0,0|5050,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="4001" Day="1" GoalType="2" FunctionType="4" Describe="Gather 200,000 Gems through disassemble" TypeGoal="200000" Award="50151,12,1,0,0,0,0|5050,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="5000" Day="1" GoalType="2" FunctionType="5" Describe="Exchange 5 Seed Jewels for Gems" TypeGoal="2030,5" Award="50151,3,1,0,0,0,0|5050,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="5001" Day="1" GoalType="2" FunctionType="5" Describe="Exchange 10 Seed Jewels for Gems" TypeGoal="2030,10" Award="50151,5,1,0,0,0,0|5050,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="5002" Day="1" GoalType="2" FunctionType="5" Describe="Exchange 20 Seed Jewels for Gems" TypeGoal="2030,20" Award="50151,8,1,0,0,0,0|5050,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="5003" Day="1" GoalType="2" FunctionType="5" Describe="Exchange 30 Seed Jewels for Gems" TypeGoal="2030,30" Award="50151,12,1,0,0,0,0|5050,5,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="6000" Day="2" GoalType="3" FunctionType="6" Describe="Fight in the Arena 5x" TypeGoal="5" Award="5040,1,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="6001" Day="2" GoalType="3" FunctionType="6" Describe="Fight in the Arena 15x" TypeGoal="15" Award="5040,2,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="6002" Day="2" GoalType="3" FunctionType="6" Describe="Fight in the Arena 30x" TypeGoal="30" Award="5040,4,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="6003" Day="2" GoalType="3" FunctionType="6" Describe="Fight in the Arena 50x" TypeGoal="50" Award="5040,4,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="7000" Day="2" GoalType="3" FunctionType="7" Describe="Win 5 consecutive matches" TypeGoal="5" Award="5040,2,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="7001" Day="2" GoalType="3" FunctionType="7" Describe="Win 10 consecutive matches" TypeGoal="10" Award="5040,3,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="7002" Day="2" GoalType="3" FunctionType="7" Describe="Win 20 consecutive matches" TypeGoal="20" Award="5040,5,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="7003" Day="2" GoalType="3" FunctionType="7" Describe="Win 30 consecutive matches" TypeGoal="30" Award="5040,8,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8000" Day="2" GoalType="3" FunctionType="8" Describe="Reach rank 400 in the Arena" TypeGoal="400" Award="5040,1,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8001" Day="2" GoalType="3" FunctionType="8" Describe="Reach rank 200 in the Arena" TypeGoal="200" Award="5040,2,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8002" Day="2" GoalType="3" FunctionType="8" Describe="Reach rank 100 in the Arena" TypeGoal="100" Award="5040,3,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8003" Day="2" GoalType="3" FunctionType="8" Describe="Reach rank 50 in the Arena" TypeGoal="50" Award="5040,4,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8004" Day="2" GoalType="3" FunctionType="8" Describe="Reach rank 20 in the Arena" TypeGoal="20" Award="5040,5,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8005" Day="2" GoalType="3" FunctionType="8" Describe="Reach rank 10 in the Arena" TypeGoal="10" Award="5040,5,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8006" Day="2" GoalType="3" FunctionType="8" Describe="Reach rank 1 in the Arena" TypeGoal="1" Award="5040,5,1,0,0,0,0|5041,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="9000" Day="2" GoalType="4" FunctionType="9" Describe="Equip 3 rare items" TypeGoal="3" Award="50151,2,1,0,0,0,0|2016,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="10000" Day="2" GoalType="4" FunctionType="10" Describe="Equip 3 epic items" TypeGoal="3" Award="50151,2,1,0,0,0,0|2016,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="10001" Day="2" GoalType="4" FunctionType="10" Describe="Equip 4 epic items" TypeGoal="4" Award="50151,3,1,0,0,0,0|2016,12,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="10002" Day="2" GoalType="4" FunctionType="10" Describe="Equip 6 epic items" TypeGoal="6" Award="50151,5,1,0,0,0,0|2016,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="10003" Day="2" GoalType="4" FunctionType="10" Describe="Equip 8 epic items" TypeGoal="8" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="12000" Day="2" GoalType="4" FunctionType="12" Describe="Equip 5 epic items" TypeGoal="5" Award="50151,3,1,0,0,0,0|2016,12,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="12001" Day="2" GoalType="4" FunctionType="12" Describe="Disassemble 20 epic items" TypeGoal="20" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="13000" Day="2" GoalType="4" FunctionType="13" Describe="Sell 1 item in the Auction House" TypeGoal="1" Award="50151,2,1,0,0,0,0|2016,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="14000" Day="2" GoalType="4" FunctionType="14" Describe="Obtain 1 item from Epic Chest" TypeGoal="1" Award="50151,5,1,0,0,0,0|2016,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="14001" Day="2" GoalType="4" FunctionType="14" Describe="Obtain 3 item from Epic Chest" TypeGoal="3" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="14002" Day="2" GoalType="4" FunctionType="14" Describe="Obtain 5 item from Epic Chest" TypeGoal="5" Award="50151,20,1,0,0,0,0|2016,50,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="15000" Day="2" GoalType="4" FunctionType="15" Describe="Collect 50 items" TypeGoal="50" Award="50151,5,1,0,0,0,0|2016,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="15001" Day="2" GoalType="4" FunctionType="15" Describe="Collect 200 items" TypeGoal="200" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="16000" Day="2" GoalType="4" FunctionType="16" Describe="Transfer 1x" TypeGoal="1" Award="50151,5,1,0,0,0,0|2016,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="16001" Day="2" GoalType="4" FunctionType="16" Describe="Transfer 5x" TypeGoal="5" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="17000" Day="3" GoalType="5" FunctionType="17" Describe="Enter Zen Dungeon 2x" TypeGoal="5100,2" Award="5030,1,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="17001" Day="3" GoalType="5" FunctionType="17" Describe="Enter Gorgeon Castle (Hell) 2x" TypeGoal="33,1" Award="5030,3,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="17002" Day="3" GoalType="5" FunctionType="17" Describe="Enter Balrog Castle (Hell) 2x" TypeGoal="43,2" Award="5030,1,1,0,0,0,0|5031,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="17003" Day="3" GoalType="5" FunctionType="17" Describe="Enter Hydra Den (Hell) 2x" TypeGoal="53,2" Award="5030,3,1,0,0,0,0|5031,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="18000" Day="3" GoalType="5" FunctionType="18" Describe="Defeat 30 Hell Spiders" TypeGoal="4,406,30" Award="5030,1,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="18001" Day="3" GoalType="5" FunctionType="18" Describe="Defeat 30 Death Knights" TypeGoal="5,505,30" Award="5030,2,1,0,0,0,0|50015,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="18002" Day="3" GoalType="5" FunctionType="18" Describe="Defeat 30 Lich Kings" TypeGoal="6,605,30" Award="5030,3,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="18003" Day="3" GoalType="5" FunctionType="18" Describe="Defeat 30 Bloody Wolves" TypeGoal="7,701,30" Award="5030,4,1,0,0,0,0|50015,5,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="19000" Day="3" GoalType="5" FunctionType="19" Describe="Enter Devil's Square 3x" TypeGoal="6,3" Award="5030,2,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="19001" Day="3" GoalType="5" FunctionType="19" Describe="Enter Devil's Square 10x" TypeGoal="6,10" Award="5030,3,1,0,0,0,0|5031,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="19002" Day="3" GoalType="5" FunctionType="19" Describe="Enter Blood Castle 3x" TypeGoal="5,3" Award="5030,4,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="19003" Day="3" GoalType="5" FunctionType="19" Describe="Enter Blood Castle 10x" TypeGoal="5,10" Award="5030,5,1,0,0,0,0|5031,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="20000" Day="3" GoalType="6" FunctionType="20" Describe="Craft Devil Square Ticket 5x" TypeGoal="6000,5" Award="50151,3,1,0,0,0,0|2000,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="20001" Day="3" GoalType="6" FunctionType="20" Describe="Craft Devil Square Ticket 15x" TypeGoal="6000,15" Award="50151,8,1,0,0,0,0|2000,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="20002" Day="3" GoalType="6" FunctionType="20" Describe="Craft Cloak of Invisibility 5x" TypeGoal="6003,5" Award="50151,3,1,0,0,0,0|2000,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="20003" Day="3" GoalType="6" FunctionType="20" Describe="Craft Cloak of Invisibility 15x" TypeGoal="6003,15" Award="50151,8,1,0,0,0,0|2000,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="21000" Day="3" GoalType="6" FunctionType="21" Describe="Use Superior STA Fruit 3x" TypeGoal="5104,3" Award="50151,3,1,0,0,0,0|2000,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="21001" Day="3" GoalType="6" FunctionType="21" Describe="Use Superior STA Fruit 8x" TypeGoal="5104,8" Award="50151,8,1,0,0,0,0|2004,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="21002" Day="3" GoalType="6" FunctionType="21" Describe="Use Superior AGI Fruit 5x" TypeGoal="5102,5" Award="50151,5,1,0,0,0,0|2000,5,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="22000" Day="3" GoalType="6" FunctionType="22" Describe="Use Zen Exchange 10x" TypeGoal="10" Award="50151,8,1,0,0,0,0|2004,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="22001" Day="3" GoalType="6" FunctionType="22" Describe="Use Zen Exchange 50x" TypeGoal="50" Award="50151,15,1,0,0,0,0|2004,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="23000" Day="3" GoalType="6" FunctionType="23" Describe="Use Bound Diamond Exchange 10x" TypeGoal="10" Award="50151,8,1,0,0,0,0|2004,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="23001" Day="3" GoalType="6" FunctionType="23" Describe="Use Bound Diamond Exchange 50x" TypeGoal="50" Award="50151,15,1,0,0,0,0|2004,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="24000" Day="3" GoalType="6" FunctionType="24" Describe="Use Unbound Diamond Exchange 10x" TypeGoal="10" Award="50151,8,1,0,0,0,0|2004,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="24001" Day="3" GoalType="6" FunctionType="24" Describe="Use Unbound Diamond Exchange 50x" TypeGoal="50" Award="50151,15,1,0,0,0,0|2004,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="25000" Day="3" GoalType="6" FunctionType="25" Describe="Trade Seed Jewel for exchange points 1x" TypeGoal="2030,1" Award="50151,3,1,0,0,0,0|2004,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="25001" Day="3" GoalType="6" FunctionType="25" Describe="Trade Seed Jewel for exchange points 5x" TypeGoal="2030,5" Award="50151,15,1,0,0,0,0|2004,15,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="25100" Day="4" GoalType="7" FunctionType="18" Describe="Defeat Cursed Wizard (Elite) 1x" TypeGoal="5,507,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25101" Day="4" GoalType="7" FunctionType="18" Describe="Defeat Beam Knight (Elite) 1x" TypeGoal="5,508,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25102" Day="4" GoalType="7" FunctionType="18" Describe="Defeat Vepar (Elite) 1x" TypeGoal="6,606,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25103" Day="4" GoalType="7" FunctionType="18" Describe="Defeat Bahumut (Elite) 1x" TypeGoal="6,607,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25104" Day="4" GoalType="7" FunctionType="18" Describe="Defeat Bloody Wolf (Elite) 1x" TypeGoal="7,705,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25105" Day="4" GoalType="7" FunctionType="18" Describe="Defeat Tantalos (Elite) 1x" TypeGoal="7,706,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="26000" Day="4" GoalType="7" FunctionType="26" Describe="Reach 100,000 CP" TypeGoal="100000" Award="2001,3,1,0,0,0,0|2002,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26001" Day="4" GoalType="7" FunctionType="26" Describe="Reach 150,000 CP" TypeGoal="150000" Award="2001,4,1,0,0,0,0|2002,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26002" Day="4" GoalType="7" FunctionType="26" Describe="Reach 200,000 CP" TypeGoal="200000" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26003" Day="4" GoalType="7" FunctionType="26" Describe="Reach 250,000 CP" TypeGoal="250000" Award="2001,8,1,0,0,0,0|2002,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26004" Day="4" GoalType="7" FunctionType="26" Describe="Reach 300,000 CP" TypeGoal="300000" Award="2001,10,1,0,0,0,0|2002,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26005" Day="4" GoalType="7" FunctionType="26" Describe="Reach 350,000 CP" TypeGoal="350000" Award="2001,12,1,0,0,0,0|2002,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26006" Day="4" GoalType="7" FunctionType="26" Describe="Reach 400,000 CP" TypeGoal="400000" Award="2001,16,1,0,0,0,0|2002,12,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26007" Day="4" GoalType="7" FunctionType="26" Describe="Reach 450,000 CP" TypeGoal="450000" Award="2001,20,1,0,0,0,0|2002,16,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26008" Day="4" GoalType="7" FunctionType="26" Describe="Reach 500,000 CP" TypeGoal="500000" Award="2001,20,1,0,0,0,0|2002,16,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="27000" Day="4" GoalType="8" FunctionType="27" Describe="Equip 2 items with +4 enhancement" TypeGoal="4,2" Award="50151,3,1,0,0,0,0|4000,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="27001" Day="4" GoalType="8" FunctionType="27" Describe="Equip 5 items with +4 enhancement" TypeGoal="5,4" Award="50151,8,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="27002" Day="4" GoalType="8" FunctionType="27" Describe="Equip 6 items with +6 enhancement" TypeGoal="6,6" Award="50151,12,1,0,0,0,0|2002,5,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="27003" Day="4" GoalType="8" FunctionType="27" Describe="Equip 8 items with +7 enhancement" TypeGoal="7,8" Award="50151,20,1,0,0,0,0|7004,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="27004" Day="4" GoalType="8" FunctionType="27" Describe="Equip 10 items with +8 enhancement" TypeGoal="8,10" Award="50151,30,1,0,0,0,0|7005,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="28000" Day="4" GoalType="8" FunctionType="28" Describe="Enhance an item to +7" TypeGoal="7" Award="50151,3,1,0,0,0,0|4000,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="28001" Day="4" GoalType="8" FunctionType="28" Describe="Enhance an item to +8" TypeGoal="8" Award="50151,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="28002" Day="4" GoalType="8" FunctionType="28" Describe="Enhance an item to +9" TypeGoal="9" Award="50151,8,1,0,0,0,0|2002,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="28003" Day="4" GoalType="8" FunctionType="28" Describe="Enhance an item to +10" TypeGoal="10" Award="50151,10,1,0,0,0,0|7004,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="28004" Day="4" GoalType="8" FunctionType="28" Describe="Enhance an item to +11" TypeGoal="11" Award="50151,15,1,0,0,0,0|7005,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="29000" Day="4" GoalType="8" FunctionType="29" Describe="Enhance 10x" TypeGoal="10" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="29001" Day="4" GoalType="8" FunctionType="29" Describe="Enhance 50x" TypeGoal="50" Award="2001,10,1,0,0,0,0|2002,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="30000" Day="5" GoalType="9" FunctionType="30" Describe="Complete [Independent Man] achievement" TypeGoal="601" Award="50015,3,1,0,0,0,0|2003,5,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30001" Day="5" GoalType="9" FunctionType="30" Describe="Complete [A Self-made Man] achievement" TypeGoal="602" Award="50015,5,1,0,0,0,0|2003,10,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30002" Day="5" GoalType="9" FunctionType="30" Describe="Complete [A Man of Means] achievement" TypeGoal="603" Award="50015,8,1,0,0,0,0|2003,15,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30003" Day="5" GoalType="9" FunctionType="30" Describe="Complete Kill Monsters [Dominance] achievement" TypeGoal="702" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30004" Day="5" GoalType="9" FunctionType="30" Describe="Complete Normal Dungeon [Suppressor] achievement" TypeGoal="902" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30005" Day="5" GoalType="9" FunctionType="30" Describe="Complete Boss [Challenge] achievement" TypeGoal="800" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30006" Day="5" GoalType="9" FunctionType="30" Describe="Complete Enhance [+9] achievement" TypeGoal="1204" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30007" Day="5" GoalType="9" FunctionType="30" Describe="Complete Option Enhance [30] achievement" TypeGoal="1302" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30008" Day="5" GoalType="9" FunctionType="30" Describe="Complete Guild [Champion] achievement" TypeGoal="2003" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="31000" Day="5" GoalType="9" FunctionType="31" Describe="Reach Lv 3 achievement aura" TypeGoal="3" Award="50015,8,1,0,0,0,0|2003,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="31001" Day="5" GoalType="9" FunctionType="31" Describe="Reach Lv 4 achievement aura" TypeGoal="4" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="31002" Day="5" GoalType="9" FunctionType="31" Describe="Reach Lv 5 achievement aura" TypeGoal="5" Award="50015,15,1,0,0,0,0|2003,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="32000" Day="5" GoalType="9" FunctionType="32" Describe="Reach Lv 3 fame aura" TypeGoal="3" Award="50015,8,1,0,0,0,0|2003,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="32001" Day="5" GoalType="9" FunctionType="32" Describe="Reach Lv 4 fame aura" TypeGoal="4" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="32002" Day="5" GoalType="9" FunctionType="32" Describe="Reach Lv 5 fame aura" TypeGoal="5" Award="50015,15,1,0,0,0,0|2003,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="33000" Day="5" GoalType="10" FunctionType="33" Describe="Equip 2 items with +5 option enhancement" TypeGoal="5,2" Award="50151,2,1,0,0,0,0|2030,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="33001" Day="5" GoalType="10" FunctionType="33" Describe="Equip 4 items with +10 option enhancement" TypeGoal="10,4" Award="50151,4,1,0,0,0,0|2030,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="33002" Day="5" GoalType="10" FunctionType="33" Describe="Equip 6 items with +15 option enhancement" TypeGoal="15,6" Award="50151,6,1,0,0,0,0|2030,6,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="33003" Day="5" GoalType="10" FunctionType="33" Describe="Equip 8 items with +20 option enhancement" TypeGoal="20,8" Award="50151,8,1,0,0,0,0|2030,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="33004" Day="5" GoalType="10" FunctionType="33" Describe="Equip 10 items with +25 option enhancement" TypeGoal="25,10" Award="50151,10,1,0,0,0,0|2030,10,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="34000" Day="5" GoalType="10" FunctionType="34" Describe="Option enhance an item to +20" TypeGoal="20" Award="50151,4,1,0,0,0,0|2030,4,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="34001" Day="5" GoalType="10" FunctionType="34" Describe="Option enhance an item to +25" TypeGoal="25" Award="50151,6,1,0,0,0,0|2030,6,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="34002" Day="5" GoalType="10" FunctionType="34" Describe="Option enhance an item to +30" TypeGoal="30" Award="50151,8,1,0,0,0,0|2030,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="34003" Day="5" GoalType="10" FunctionType="34" Describe="Option enhance an item to +35" TypeGoal="35" Award="50151,10,1,0,0,0,0|2030,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="34004" Day="5" GoalType="10" FunctionType="34" Describe="Option enhance an item to +40" TypeGoal="40" Award="50151,15,1,0,0,0,0|2030,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="35000" Day="5" GoalType="10" FunctionType="35" Describe="Option enhance 20x" TypeGoal="20" Award="50151,6,1,0,0,0,0|2030,6,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="35001" Day="5" GoalType="10" FunctionType="35" Describe="Option enhance 100x" TypeGoal="100" Award="50151,10,1,0,0,0,0|2030,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="36000" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Aries 3x" TypeGoal="1,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36001" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Aries 8x" TypeGoal="1,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36002" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Taurus 3x" TypeGoal="2,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36003" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Taurus 8x" TypeGoal="2,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36004" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Gemini 3x" TypeGoal="3,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36005" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Gemini 8x" TypeGoal="3,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36006" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Cancer 3x" TypeGoal="4,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36007" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Cancer 8x" TypeGoal="4,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36008" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Leo 3x" TypeGoal="5,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36009" Day="6" GoalType="11" FunctionType="36" Describe="Activate Zodiac: Leo 8x" TypeGoal="5,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="37000" Day="6" GoalType="11" FunctionType="37" Describe="Equip 1 rare pet" TypeGoal="1" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="38000" Day="6" GoalType="11" FunctionType="38" Describe="Equip 1 epic pet" TypeGoal="1" Award="50015,9,1,0,0,0,0|2017,6,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="38001" Day="6" GoalType="11" FunctionType="38" Describe="Equip 2 epic pets" TypeGoal="2" Award="50015,15,1,0,0,0,0|2017,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="38002" Day="6" GoalType="11" FunctionType="38" Describe="Equip 3 epic pets" TypeGoal="3" Award="50015,21,1,0,0,0,0|2017,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="38003" Day="6" GoalType="11" FunctionType="38" Describe="Equip 4 epic pets" TypeGoal="4" Award="50015,30,1,0,0,0,0|2017,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="39000" Day="6" GoalType="12" FunctionType="39" Describe="Reach Tier 2 Wings" TypeGoal="2,0" Award="5030,1,1,0,0,0,0|5040,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39001" Day="6" GoalType="12" FunctionType="39" Describe="Reach Tier 2 Lv 5 Wings" TypeGoal="2,5" Award="5030,2,1,0,0,0,0|5040,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39002" Day="6" GoalType="12" FunctionType="39" Describe="Reach Tier 3 Wings" TypeGoal="3,0" Award="5030,3,1,0,0,0,0|5040,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39003" Day="6" GoalType="12" FunctionType="39" Describe="Reach Tier 3 Lv 5 Wings" TypeGoal="3,5" Award="5031,1,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39004" Day="6" GoalType="12" FunctionType="39" Describe="Reach Tier 4 Wings" TypeGoal="4,0" Award="5031,2,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39005" Day="6" GoalType="12" FunctionType="39" Describe="Reach Tier 4 Lv 5 Wings" TypeGoal="4,5" Award="5031,2,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39006" Day="6" GoalType="12" FunctionType="39" Describe="Reach Tier 5 Wings" TypeGoal="5,0" Award="5031,3,1,0,0,0,0|5041,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39007" Day="6" GoalType="12" FunctionType="39" Describe="Reach Tier 5 Lv 5 Wings" TypeGoal="5,5" Award="5031,3,1,0,0,0,0|5041,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="40000" Day="6" GoalType="12" FunctionType="40" Describe="Enhance Wings 50x" TypeGoal="50" Award="5030,2,1,0,0,0,0|5040,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="40001" Day="6" GoalType="12" FunctionType="40" Describe="Enhance Wings 100x" TypeGoal="100" Award="5031,1,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="40002" Day="6" GoalType="12" FunctionType="40" Describe="Enhance Wings 300x" TypeGoal="300" Award="5031,2,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="40003" Day="6" GoalType="12" FunctionType="40" Describe="Enhance Wings 500x" TypeGoal="500" Award="5031,3,1,0,0,0,0|5041,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="41000" Day="7" GoalType="13" FunctionType="41" Describe="Complete Bull Fighter Journal" TypeGoal="102" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41001" Day="7" GoalType="13" FunctionType="41" Describe="Complete Death King Journal" TypeGoal="108" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41002" Day="7" GoalType="13" FunctionType="41" Describe="Complete Goblin Leader Journal" TypeGoal="202" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41003" Day="7" GoalType="13" FunctionType="41" Describe="Complete Wolf King Journal" TypeGoal="208" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41004" Day="7" GoalType="13" FunctionType="41" Describe="Complete Hommerd Journal" TypeGoal="302" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41005" Day="7" GoalType="13" FunctionType="41" Describe="Complete Ice Queen Journal" TypeGoal="306" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41006" Day="7" GoalType="13" FunctionType="41" Describe="Complete Cyclops Journal" TypeGoal="401" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41007" Day="7" GoalType="13" FunctionType="41" Describe="Complete Gorgon Journal" TypeGoal="410" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41008" Day="7" GoalType="13" FunctionType="41" Describe="Complete Cursed Wizard Journal" TypeGoal="502" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41009" Day="7" GoalType="13" FunctionType="41" Describe="Complete Balrog Journal" TypeGoal="506" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41010" Day="7" GoalType="13" FunctionType="41" Describe="Complete Valkyrie Journal" TypeGoal="602" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41011" Day="7" GoalType="13" FunctionType="41" Describe="Complete Hydra Journal" TypeGoal="606" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="42000" Day="7" GoalType="14" FunctionType="42" Describe="Equip 3 Tier 4 items" TypeGoal="4,3" Award="50151,3,1,0,0,0,0|5120,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42001" Day="7" GoalType="14" FunctionType="42" Describe="Equip 5 Tier 4 items" TypeGoal="4,5" Award="50151,5,1,0,0,0,0|5120,5,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42002" Day="7" GoalType="14" FunctionType="42" Describe="Equip 6 Tier 5 items" TypeGoal="5,6" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42003" Day="7" GoalType="14" FunctionType="42" Describe="Equip 7 Tier 5 items" TypeGoal="5,7" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42004" Day="7" GoalType="14" FunctionType="42" Describe="Equip 8 Tier 6 items" TypeGoal="6,8" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42005" Day="7" GoalType="14" FunctionType="42" Describe="Equip 8 Tier 6 items" TypeGoal="6,8" Award="50151,20,1,0,0,0,0|5120,20,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="43000" Day="7" GoalType="14" FunctionType="43" Describe="Equip a Tier 4 item" TypeGoal="4" Award="4003,2,1,0,0,0,0|4002,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="43001" Day="7" GoalType="14" FunctionType="43" Describe="Equip a Tier 5 item" TypeGoal="5" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="43002" Day="7" GoalType="14" FunctionType="43" Describe="Equip a Tier 5 item" TypeGoal="6" Award="50151,20,1,0,0,0,0|5120,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="44000" Day="7" GoalType="14" FunctionType="44" Describe="Combine 1x" TypeGoal="1" Award="4001,2,1,0,0,0,0|4004,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="44001" Day="7" GoalType="14" FunctionType="44" Describe="Combine 2x" TypeGoal="2" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="44002" Day="7" GoalType="14" FunctionType="44" Describe="Combine 3x" TypeGoal="3" Award="50151,20,1,0,0,0,0|5120,20,1,0,0,0,0" ShowNum="1" />
+</config>

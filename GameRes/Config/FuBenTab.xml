@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Copy TabID="1" FuBenType="0" Name="Death King Chapel" Preview="100" RewardExplain="5,2|4,2" />
+  <Copy TabID="2" FuBenType="0" Name="Secret Forest" Preview="200" RewardExplain="5,2|4,2" />
+  <Copy TabID="3" FuBenType="0" Name="Ice Queen Palace" Preview="300" RewardExplain="5,3|4,3" />
+  <Copy TabID="4" FuBenType="0" Name="Gorgon Castle" Preview="400" RewardExplain="5,3|4,3" />
+  <Copy TabID="5" FuBenType="0" Name="Balrog Castle" Preview="500" RewardExplain="5,4|4,4" />
+  <Copy TabID="6" FuBenType="0" Name="Hydra Den" Preview="600" RewardExplain="5,4|4,4" />
+  <Copy TabID="7" FuBenType="0" Name="Flame Cave" Preview="700" RewardExplain="5,5|4,5" />
+  <Copy TabID="8" FuBenType="0" Name="Phoenix Chapel" Preview="800" RewardExplain="5,5|4,5" />
+  <Copy TabID="9" FuBenType="0" Name="Tranquil Forest" Preview="900" RewardExplain="5,5|4,5" />
+  <Copy TabID="10" FuBenType="0" Name="Ancient Coast" Preview="1000" RewardExplain="5,5|4,5" />
+  <Copy TabID="11" FuBenType="0" Name="Energy Storage" Preview="1100" RewardExplain="5,5|4,5" />
+  <Copy TabID="12" FuBenType="0" Name="Devil’s Hatchery" Preview="1200" RewardExplain="5,5|4,5" />
+  <Copy TabID="13" FuBenType="0" Name="Treasure Cave" Preview="1300" RewardExplain="5,5|4,5" />
+  <Copy TabID="500" FuBenType="2" Name="EXP Dungeon" Preview="50000" RewardExplain="1,5" />
+  <Copy TabID="600" FuBenType="3" Name="Endless Tower" Preview="10000" RewardExplain="1,5|4,5" />
+<!-- case 11: "绑金欧美缩写" -->
+  <Copy TabID="501" FuBenType="2" Name="Zen Dungeon" Preview="50100" RewardExplain="11,5" />
+  <Copy TabID="700" FuBenType="4" Name="C. Dungeon" Preview="70000" RewardExplain="5,5|4,5" />
+  <Copy TabID="701" FuBenType="9" Name="Kalima" Preview="100000" RewardExplain="1,5" />
+  <Copy TabID="800" FuBenType="9" Name="Harmageddon" Preview="80000" RewardExplain="1,5" />
+  <Copy TabID="801" FuBenType="9" Name="Elemental War" Preview="80100" RewardExplain="1,5" />
+  <Copy TabID="802" FuBenType="9" Name="Cry Wolf" Preview="80200" RewardExplain="1,5" />
+  <Copy TabID="803" FuBenType="9" Name="Infernal Canyon" Preview="80300" RewardExplain="1,5" />
+</Config>

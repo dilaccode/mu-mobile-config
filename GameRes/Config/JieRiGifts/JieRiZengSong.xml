@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="50" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="En el momento del evento Cada día, cuando el jugador alcanza el número asignado al evento, ¡es recompensado!
+                         segui descubriendo el mundo Ragnarok!!!  ">
+    <Award ID="1" Goods="63153" Num="5" GoodsOne="5270,10,1,0,0,0,0|5220,2,1,0,0,0,0|5250,20,1,0,0,0,0|7007,50,1,0,0,0,0|5284,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" Goods="63153" Num="10" GoodsOne="5270,10,1,0,0,0,0|5220,4,1,0,0,0,0|5250,40,1,0,0,0,0|7007,80,1,0,0,0,0|5284,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" Goods="63153" Num="15" GoodsOne="5270,15,1,0,0,0,0|5220,6,1,0,0,0,0|5250,60,1,0,0,0,0|7007,120,1,0,0,0,0|5284,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" Goods="63153" Num="40" GoodsOne="5270,20,1,0,0,0,0|5220,8,1,0,0,0,0|5250,80,1,0,0,0,0|7007,120,1,0,0,0,0|5284,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" Goods="63153" Num="50" GoodsOne="5270,25,1,0,0,0,0|5220,10,1,0,0,0,0|5250,100,1,0,0,0,0|7007,120,1,0,0,0,0|5284,25,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" Goods="63153" Num="60" GoodsOne="2070,10,1,0,0,0,0|2071,10,1,0,0,0,0|2072,10,1,0,0,0,0|2073,10,1,0,0,0,0|2074,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="7" Goods="63153" Num="100" GoodsOne="2076,10,1,0,0,0,0|2077,10,1,0,0,0,0|2078,10,1,0,0,0,0|2079,10,1,0,0,0,0|2080,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

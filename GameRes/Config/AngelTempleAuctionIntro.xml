@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d} Golden Palace Award Golden Age" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. After killing BOSS, special items will be auctioned in the Golden League" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. After auction successful {17e43e}will be auctioned to the participating players (reward depends on the amount of damage done)" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. If there is no auctioneer Auction items will be mailed to {17e43e} to the player who has the maximum damage. {-}" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. If the bid or bidder is too small (each player will receive 1 diamond), no prize" Bold="0" />
+</Config>

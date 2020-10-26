@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HuoDongList>
+  <HuoDong ID="1" Name="Guild Boss" />
+  <HuoDong ID="2" Name="Castle Siege" />
+  <HuoDong ID="3" Name="Cry Wolf Battle" />
+  <HuoDong ID="4" Name="Land of Struggle" />
+  <HuoDong ID="5" Name="League Match" />
+</HuoDongList>

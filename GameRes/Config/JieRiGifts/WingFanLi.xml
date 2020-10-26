@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="53" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10 00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="Alcanza el nivel de alas requerido para reclamar tu premio!
+                         segui descubriendo el mundo Ragnarok!!!">
+    <Award ID="1" WingLevel="6,0" GoodsOne="1034040,1,1,0,0,0,0|2090001,1,1,0,0,0,0|702000,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" WingLevel="7,0" GoodsOne="1034041,1,1,0,0,0,0|2090002,1,1,0,0,0,0|702001,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" WingLevel="8,0" GoodsOne="1034042,1,1,0,0,0,0|2090003,1,1,0,0,0,0|702002,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" WingLevel="9,0" GoodsOne="1034043,1,1,0,0,0,0|2090004,1,1,0,0,0,0|702003,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" WingLevel="10,0" GoodsOne="1034044,1,1,0,0,0,0|2090005,1,1,0,0,0,0|702004,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" WingLevel="11,0" GoodsOne="1034045,1,1,0,0,0,0|2090006,1,1,0,0,0,0|702061,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="7" WingLevel="12,0" GoodsOne="1034046,1,1,0,0,0,0|2090007,1,1,0,0,0,0|702062,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

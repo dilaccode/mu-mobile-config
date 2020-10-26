@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="54" FromDate="2018-07-15 00:00:00" ToDate="2018-07-21 23:59:59" AwardStartDate="2018-07-15 00:00:00" AwardEndDate="2018-07-21 23:59:59" />
+  <GiftList Description="ในเวลากิจกรรม เมื่ออุปกรณ์ที่สวมใส่ไล่ล่ารวมถึงจำนวนที่กิจกรรมกำหนด รับของขวัญล้ำค่าไปเลย！">
+    <Award ID="1" ZhuiJiaLevel="200" GoodsOne="2003,20,1,0,0,0,0|2001,10,1,0,0,0,0|2002,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" ZhuiJiaLevel="260" GoodsOne="2003,20,1,0,0,0,0|2001,15,1,0,0,0,0|2002,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" ZhuiJiaLevel="320" GoodsOne="2003,30,1,0,0,0,0|2001,20,1,0,0,0,0|2002,20,1,0,0,0,0|5250,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" ZhuiJiaLevel="400" GoodsOne="2003,30,1,0,0,0,0|2001,30,1,0,0,0,0|2002,20,1,0,0,0,0|5250,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" ZhuiJiaLevel="500" GoodsOne="2003,40,1,0,0,0,0|2001,40,1,0,0,0,0|2002,30,1,0,0,0,0|5250,15,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" ZhuiJiaLevel="600" GoodsOne="2003,40,1,0,0,0,0|2001,50,1,0,0,0,0|2002,40,1,0,0,0,0|5250,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="7" ZhuiJiaLevel="700" GoodsOne="2003,40,1,0,0,0,0|2001,60,1,0,0,0,0|2002,50,1,0,0,0,0|5250,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

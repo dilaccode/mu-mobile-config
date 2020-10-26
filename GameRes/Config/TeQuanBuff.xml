@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TeQuanBuff ID="1" TeQuanID="5" HuoDongLeiXing="3" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="2" TeQuanID="5" HuoDongLeiXing="4" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="3" TeQuanID="5" HuoDongLeiXing="5" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="4" TeQuanID="5" HuoDongLeiXing="6" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="5" TeQuanID="5" HuoDongLeiXing="7" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="6" TeQuanID="5" HuoDongLeiXing="8" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="7" TeQuanID="5" HuoDongLeiXing="9" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="8" TeQuanID="5" HuoDongLeiXing="10" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="9" TeQuanID="5" HuoDongLeiXing="11" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="10" TeQuanID="5" HuoDongLeiXing="12" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="11" TeQuanID="5" HuoDongLeiXing="13" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="12" TeQuanID="12" HuoDongLeiXing="4" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="13" TeQuanID="19" HuoDongLeiXing="5" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="14" TeQuanID="26" HuoDongLeiXing="6" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="15" TeQuanID="33" HuoDongLeiXing="7" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="16" TeQuanID="40" HuoDongLeiXing="8" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="17" TeQuanID="47" HuoDongLeiXing="9" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="18" TeQuanID="54" HuoDongLeiXing="10" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="19" TeQuanID="61" HuoDongLeiXing="11" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="20" TeQuanID="68" HuoDongLeiXing="12" KaiQiBeiShu="2" />
+  <TeQuanBuff ID="21" TeQuanID="68" HuoDongLeiXing="13" KaiQiBeiShu="2" />
+
+<!--
+活动类型HuoDongLeiXing
+3.祈福积分×N倍
+4.	天使神殿活动奖励×N倍
+5.	阵营战活动奖励×N倍
+6.	PK之王活动奖励×N倍
+7.	古战场每日进入时间×N倍
+8.	组队副本通关奖励×N倍
+9.	转换次数×N倍
+10.	转换获得奖励×N倍
+11.	雕像膜拜×N倍
+12.	合成果实成功率增加
+13.	要塞Boss奖励×N倍
+-->
+
+</Config>

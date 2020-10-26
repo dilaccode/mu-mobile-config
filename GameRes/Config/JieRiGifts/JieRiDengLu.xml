@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="10" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="Durante el evento, los registros del colector alcanzan el número de días correspondiente. ¡Consigue el mejor regalo gratis!
+                         sigue descubriendo el mundo Ragnarok!!!">
+    <Award TimeOl="1" GoodsOne="63086,10,1,0,0,0,0|2103,50,1,0,0,0,0|5331,1,1,0,0,0,0|13003027,1,1,0,0,0,0|5171,20,1,0,0,0,0|14001064,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="2" GoodsOne="63086,10,1,0,0,0,0|2103,50,1,0,0,0,0|5331,1,1,0,0,0,0|13003027,2,1,0,0,0,0|5171,20,1,0,0,0,0|14001064,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="3" GoodsOne="63086,10,1,0,0,0,0|2103,100,1,0,0,0,0|5331,1,1,0,0,0,0|13003027,2,1,0,0,0,0|5171,30,1,0,0,0,0|14001064,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="4" GoodsOne="63086,20,1,0,0,0,0|2103,100,1,0,0,0,0|5331,2,1,0,0,0,0|13003017,2,1,0,0,0,0|5171,30,1,0,0,0,0|14001064,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="5" GoodsOne="63086,20,1,0,0,0,0|2300,10,1,0,0,0,0|5331,2,1,0,0,0,0|13003015,2,1,0,0,0,0|5171,40,1,0,0,0,0|14001064,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="6" GoodsOne="63086,30,1,0,0,0,0|2300,20,1,0,0,0,0|5331,3,1,0,0,0,0|13003017,2,1,0,0,0,0|5171,40,1,0,0,0,0|14001064,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="7" GoodsOne="63086,30,1,0,0,0,0|2300,30,1,0,0,0,0|5331,3,1,0,0,0,0|13003015,2,1,0,0,0,0|5171,50,1,0,0,0,0|14001064,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

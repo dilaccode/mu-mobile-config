@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="64" FromDate="2018-11-18 00:00:00" ToDate="2018-11-25 23:59:59" AwardStartDate="2018-11-18 00:00:00" AwardEndDate="2018-11-25 23:59:59" />
+  <GiftList Description2="When 1 diamond is purchased, 1 point is acquired.">
+    <Award ID="1" NewGoodsID="63064,1,1,0,0,0,0" NeedChongZhiDianShu="100" MaxNum="2" />
+    <Award ID="2" NewGoodsID="63067,1,1,0,0,0,0" NeedChongZhiDianShu="100" MaxNum="2" />
+    <Award ID="3" NewGoodsID="7050,200,1,0,0,0,0" NeedChongZhiDianShu="100" MaxNum="2" />
+    <Award ID="4" NewGoodsID="2005,3,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="2" />
+    <Award ID="5" NewGoodsID="63032,3,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="2" />
+    <Award ID="6" NewGoodsID="2100,200,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="2" />
+    <Award ID="7" NewGoodsID="2101,100,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="2" />
+    <Award ID="8" NewGoodsID="63064,5,1,0,0,0,0" NeedChongZhiDianShu="500" MaxNum="2" />
+    <Award ID="9" NewGoodsID="63067,5,1,0,0,0,0" NeedChongZhiDianShu="500" MaxNum="2" />
+    <Award ID="10" NewGoodsID="7050,500,1,0,0,0,0" NeedChongZhiDianShu="500" MaxNum="2" />
+    <Award ID="11" NewGoodsID="5171,100,1,0,0,0,0" NeedChongZhiDianShu="500" MaxNum="2" />
+    <Award ID="12" NewGoodsID="5031,15,1,0,0,0,0" NeedChongZhiDianShu="1500" MaxNum="2" />
+    <Award ID="13" NewGoodsID="5041,15,1,0,0,0,0" NeedChongZhiDianShu="1500" MaxNum="2" />
+    <Award ID="14" NewGoodsID="2005,10,1,0,0,0,0" NeedChongZhiDianShu="1500" MaxNum="2" />
+    <Award ID="15" NewGoodsID="63032,10,1,0,0,0,0" NeedChongZhiDianShu="1500" MaxNum="2" />
+    <Award ID="16" NewGoodsID="2100,600,1,0,0,0,0" NeedChongZhiDianShu="1500" MaxNum="2" />
+    <Award ID="17" NewGoodsID="2101,300,1,0,0,0,0" NeedChongZhiDianShu="1500" MaxNum="2" />
+    <Award ID="18" NewGoodsID="63064,20,1,0,0,0,0" NeedChongZhiDianShu="2500" MaxNum="2" />
+    <Award ID="19" NewGoodsID="63067,20,1,0,0,0,0" NeedChongZhiDianShu="2500" MaxNum="2" />
+    <Award ID="20" NewGoodsID="7050,1500,1,0,0,0,0" NeedChongZhiDianShu="2500" MaxNum="2" />
+    <Award ID="21" NewGoodsID="5171,300,1,0,0,0,0" NeedChongZhiDianShu="2500" MaxNum="2" />
+    <Award ID="22" NewGoodsID="5250,20,1,0,0,0,0" NeedChongZhiDianShu="2500" MaxNum="2" />
+    <Award ID="23" NewGoodsID="5220,80,1,0,0,0,0" NeedChongZhiDianShu="3000" MaxNum="2" />
+    <Award ID="24" NewGoodsID="5271,20,1,0,0,0,0" NeedChongZhiDianShu="3000" MaxNum="2" />
+    <Award ID="25" NewGoodsID="201708018,20,1,0,0,0,0" NeedChongZhiDianShu="5000" MaxNum="2" />
+    <Award ID="26" NewGoodsID="63021,10,1,0,0,0,0" NeedChongZhiDianShu="5000" MaxNum="2" />
+    <Award ID="27" NewGoodsID="2103,100,1,0,0,0,0" NeedChongZhiDianShu="5000" MaxNum="2" />
+    <Award ID="28" NewGoodsID="2104,50,1,0,0,0,0" NeedChongZhiDianShu="5000" MaxNum="2" />
+    <Award ID="29" NewGoodsID="5352,10,1,0,0,0,0" NeedChongZhiDianShu="5000" MaxNum="2" />
+    <Award ID="30" NewGoodsID="201708015,1,1,0,0,0,0" NeedChongZhiDianShu="20000" MaxNum="2" />
+  </GiftList>
+</Config>

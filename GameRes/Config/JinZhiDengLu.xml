@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <JinDeng ID="1" Description="บัญชีของคุณมี{ff0000}สถานการณ์ผิดปกติ{ffffff}，ไม่สามารถล็อกอิน，หากมีข้อสงสัยกรุณาติดต่อฝ่ายบริการลูกค้า{17e43f}http://cs.siamgame.in.th{ffffff}！" />
+  <JinDeng ID="2" Description="บัญชีของท่าน{ff0000}เป็นบัญชีดำ{ffffff}，ไม่สามารถล็อกอิน，หากมีข้อสงสัยกรุณาติดต่อฝ่ายบริการลูกค้า{17e43f}http://cs.siamgame.in.th{ffffff}！" />
+  <JinDeng ID="3" Description="บัญชีของท่านได้อยู่ใน{ff0000}สถานะผนึกหมายเลข{ffffff}，ไม่สามารถล็อกอิน，หากมีข้อสงสัยกรุณาติดต่อฝ่ายบริการลูกค้า{17e43f}http://cs.siamgame.in.th{ffffff}！" />
+  <JinDeng ID="4" Description="บัญชีของท่านได้ถูก{ff0000}ปิดอย่างถาวร{ffffff}，ไม่สามารถล็อกอิน，หากมีข้อสงสัยกรุณาติดต่อฝ่ายบริการลูกค้า{17e43f}http://cs.siamgame.in.th{ffffff}！" />
+</config>

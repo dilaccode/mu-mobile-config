@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<HelpIntro ID="1" Intro="{fac60d} Explain the spirit" Bold="1"/>
+	<HelpIntro ID="2" Intro="{dac7ae} 1, After turning on the function, use the virtual left lever on the {17e43e}" Bold="0"/>
+	<HelpIntro ID="3" Intro="{dac7ae} 2, After the spirit body turns into {17e43e}, the spirit of {dac7ae}, {17e43e}, {dac7ae} replaces the {17e43e}" Bold="0"/>
+	<HelpIntro ID="4" Intro="{dac7ae} 3, The status of the body has {17e43e}, the time is continuous {dac7ae}, the time is over, the character returns to {17e43e}, the normal state {dac7ae}, and {17e43e} Down skill, cooldown to finish, can be done next time." Bold="0"/>
+	<HelpIntro ID="5" Intro="{dac7ae} 4, Every day there are {17e43e} free spirits {dac7ae}, after free use, every spirit body has to use {17e43e} special item {dac7ae}." Bold="0"/>
+	<HelpIntro ID="6" Intro="{dac7ae} 5, The demon body can use {17e43e} level up {dac7ae} parenting, the higher the level {17e43e} the spirit of the gods {dac7ae}, the higher, {17e43e} {dac7ae} The higher the level, the more {17e43e} the spirit {dac7ae} has increased." Bold="0"/>
+	<HelpIntro ID="7" Intro="{dac7ae} 6, Whether in the state {dac7ae} or {dac7ae}, the spirit property of the deity {17e43e} throughout {dac7ae}" Bold="0"/>
+	<HelpIntro ID="8" Intro="{dac7ae} 7, When wearing {17e43e}, the devil fashion {dac7ae}, after the body transforms into {17e43e}, the devil fashion {dac7ae}, the devil fashion each has {17e43e} } Intense one set" Bold="0"/>
+	<HelpIntro ID="9" Intro="{dac7ae} 8, The devil is fashion can {17e43e} level up {dac7ae}, add {17e43e} to the fashionable {dac7ae} and {17e43e} The goddess {dac7ae} has followed the rising fashion." Bold="0"/>
+</Config>

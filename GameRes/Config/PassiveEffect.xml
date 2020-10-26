@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PassiveEffect ID="100" Name="Elemental bomb" Description="Attack of the elemental damage+100%" Type="4" Rate="10" MagicScripts="MU_ADD_OWN_ELEMENT_DAMAGE(1)" />
+  <PassiveEffect ID="101" Name="Elemental control" Description="Attack has a chance to release ignoring elemental opponents" Type="4" Rate="10" MagicScripts="MU_REDUCE_TARGET_ELEMENT_REDUCTION(1)" />
+  <PassiveEffect ID="102" Name="Reflect damage" Description="Attacked with a chance of releasing reflection+50%" Type="5" Rate="12" MagicScripts="MU_ADD_OWN_DAMAGE_REBOUND(0.5)" />
+  <PassiveEffect ID="103" Name="Decay" Description="Blood is reduced by 30%, self damage is reduced by + 50%" Type="5" Rate="100" MagicScripts="MU_ADD_OWN_ELEMENT_REDUCTION(0.3,0.5)" />
+</Config>

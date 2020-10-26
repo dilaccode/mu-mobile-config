@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Item ID="1" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Challenge Story Dungeon may receive all kinds of different gems and equipment " />
+  <Item ID="2" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Hint:  You can open the Auto Kill setting page while tapping on the status above the character’s head when using autobot" />
+  <Item ID="3" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: You may auto save approximately 12 hours of EXP during Meditation training, offline mode supported " />
+  <Item ID="4" MinZhuanSheng="0" MinLevel="5" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Upgrading skill may increase the effect of skill as well " />
+  <Item ID="5" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Activate achievement title to permanently increase character’s Battle Point" />
+  <Item ID="6" MinZhuanSheng="0" MinLevel="11" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Activating wing’s star rank and level rank may highly increase Battle Point" />
+  <Item ID="7" MinZhuanSheng="0" MinLevel="61" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Strengthen equipment may receive special glamorous lighting effects and increase its attributes " />
+  <Item ID="8" MinZhuanSheng="0" MinLevel="85" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Blessing may allow you to receive a large amount of powerful equipment and precious items " />
+  <Item ID="9" MinZhuanSheng="0" MinLevel="85" MaxZhuanSheng="100" MaxLevel="100" Content="Hint: Free x1 blessing on every 36 hours" />
+  <Item ID="10" MinZhuanSheng="0" MinLevel="88" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Activate Horoscope will permanently increase character’s Battle Point" />
+  <Item ID="11" MinZhuanSheng="1" MinLevel="50" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Complete daily task to receive large amount of EXP and Star soul " />
+  <Item ID="12" MinZhuanSheng="1" MinLevel="44" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Equipment Append will bring additional attributes" />
+  <Item ID="13" MinZhuanSheng="1" MinLevel="61" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Activating Military Rank may permanently increase character’s Battle Point" />
+  <Item ID="14" MinZhuanSheng="1" MinLevel="67" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Easily obtain large amount of EXP by challenging EXP dungeon" />
+  <Item ID="15" MinZhuanSheng="1" MinLevel="72" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Bound gold may fall off when you kill Monsters delivering the Golds in the Kill Gold dungeon" />
+  <Item ID="16" MinZhuanSheng="1" MinLevel="90" MaxZhuanSheng="100" MaxLevel="100" Content="Hint: Recruit team mates to challenge team dungeon, the gem of creation awaits your collection" />
+  <Item ID="17" MinZhuanSheng="1" MinLevel="93" MaxZhuanSheng="100" MaxLevel="100" Content="Hint: Challenge The Demonic Tower is the main route to receive Feather, Hawk’s Spark" />
+  <Item ID="18" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Hint: main map will refresh new elite monsters every 30 minutes " />
+  <Item ID="19" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: Tap and hold the Skill bar and move outwards to switch skill settings " />
+  <Item ID="20" MinZhuanSheng="0" MinLevel="90" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: May rebirth at the Warrior’s Land [Rebirth Ambassador· Lazaar] when reached level 100 " />
+  <Item ID="21" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Hint: The Ladyboss Laiyah in the Warrior’s Land sells [ Life Potion] and [Magic Potion]" />
+  <Item ID="22" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Hint: You can check all your currency value and currency consumption in [Character]- [Token]" />
+  <Item ID="23" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Hint : World BOSS and Even BOSS will drop equipments that are not bound" />
+  <Item ID="24" MinZhuanSheng="1" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Hint: 5% of trading tax will be collected from items sold in the trading center" />
+  <Item ID="25" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Hint: Use and recycle unwanted equipments into Crystal, you may exchange other precious items." />
+  <Item ID="26" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Hint: using EXP seal in the Ancient Battlefield will allow you to win easily with less effort " />
+  <Item ID="27" MinZhuanSheng="1" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Having any 3 Rebirth level 1 character in the account can create a Duel Master." />
+  <Item ID="28" MinZhuanSheng="1" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Duel Master not only have his own exclusive equipments, they can also equip Swordsman, and Magician’s Equipment" />
+  <Item ID="29" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Duel Master can carry 2 single handed cane" />
+  <Item ID="30" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Duel Master can become a power Duel Master or Wisdom Duel Master by adjusting the distribution of Power, and Wisdom attribute." />
+  <Item ID="31" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Duel Masster can only choose Power Duel Master’s skills when carrying Physical Damage Weapon" />
+  <Item ID="32" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Duel Masster can only choose Magic Duel Master’s skills when carrying Magic Damage Weapon" />
+  <Item ID="33" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Item of engagement will only upgrade character’s attribute when married." />
+  <Item ID="34" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Nurture item of engagement not only upgrade self attribute, 30% of the item’s attribute will be increased for the companion" />
+  <Item ID="35" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Challenge Couple Dungeon in the Marriage Page daily to receive flower after married" />
+  <Item ID="36" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Wedding dinner can be placed after marriage, golds will be converted into dedication point after the wedding" />
+  <Item ID="37" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: The level of Elf’s Strorage, extra attribute can be activated when talent reaches a required level" />
+  <Item ID="38" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Receive precious reward daily for 30 days after purchasing a Monthly Card" />
+  <Item ID="39" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Activate  Achievement Runes System when achievement【Punitive】is achieved" />
+  <Item ID="40" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Activate Rank Medal System when military rank【Senior Sergeant】is achieved" />
+  <Item ID="41" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Cross server Mirage Shrine event, top 3 places receive 10 times more rewards" />
+</Config>

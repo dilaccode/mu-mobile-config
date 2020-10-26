@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ChuanSong ID="1" Type="1" HuoDongName="ลีกการแข่งขันทอง" ChuanSongName="จุดคืนชีพตะวันตก" BattlefieldID="1" MapCode="85000" Site="1650|10450" />
+  <ChuanSong ID="2" Type="1" HuoDongName="ลีกการแข่งขันทอง" ChuanSongName="จุดคืนชีพตะวันออก" BattlefieldID="1" MapCode="85000" Site="10150|1950" />
+  <ChuanSong ID="3" Type="1" HuoDongName="ลีกการแข่งขันทอง" ChuanSongName="ธงฝั่งตะวันตก" BattlefieldID="1" MapCode="85000" Site="3450|8750" />
+  <ChuanSong ID="4" Type="1" HuoDongName="ลีกการแข่งขันทอง" ChuanSongName="ธงฝั่งตะวันออก" BattlefieldID="1" MapCode="85000" Site="8250|4050" />
+  <ChuanSong ID="5" Type="1" HuoDongName="ลีกการแข่งขันทอง" ChuanSongName="ธงด้านบน" BattlefieldID="1" MapCode="85000" Site="7850|8350" />
+  <ChuanSong ID="6" Type="1" HuoDongName="ลีกการแข่งขันทอง" ChuanSongName="ธงด้านล่าง" BattlefieldID="1" MapCode="85000" Site="3750|4450" />
+  <ChuanSong ID="7" Type="1" HuoDongName="ลีกการแข่งขันทอง" ChuanSongName="ทางเข้าวิหารเทพ" BattlefieldID="1" MapCode="85000" Site="6050|5750" />
+  <ChuanSong ID="8" Type="1" HuoDongName="ลีกการแข่งขันทอง" ChuanSongName="ใจกลางวิหารเทพ" BattlefieldID="1" MapCode="85001" Site="1950|1850" />
+  <ChuanSong ID="9" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูตะวันตก" BattlefieldID="2" MapCode="11100" Site="4070|1100" />
+  <ChuanSong ID="10" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูกลาง" BattlefieldID="2" MapCode="11100" Site="5970|1210" />
+  <ChuanSong ID="11" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูตะวันออก" BattlefieldID="2" MapCode="11100" Site="7760|1100" />
+  <ChuanSong ID="12" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูตะวันตก" BattlefieldID="2" MapCode="11100" Site="4050|3950" />
+  <ChuanSong ID="13" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูกลาง" BattlefieldID="2" MapCode="11100" Site="5900|3950" />
+  <ChuanSong ID="14" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูตะวันออก" BattlefieldID="2" MapCode="11100" Site="7670|3950" />
+  <ChuanSong ID="15" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="ธงแดนศักดิ์สิทธิ์" BattlefieldID="2" MapCode="11100" Site="5875|6884" />
+  <ChuanSong ID="16" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="ทางเข้าหอคอยมังกร" BattlefieldID="2" MapCode="11100" Site="5889|9767" />
+  <ChuanSong ID="17" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="หอคอยมังกรแดนศักดิ์สิทธิ์" BattlefieldID="2" MapCode="11101" Site="2122|1628" />
+  <ChuanSong ID="18" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูตะวันตก" BattlefieldID="3" MapCode="11102" Site="4070|1100" />
+  <ChuanSong ID="19" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูกลาง" BattlefieldID="3" MapCode="11102" Site="5970|1210" />
+  <ChuanSong ID="20" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูตะวันออก" BattlefieldID="3" MapCode="11102" Site="7760|1100" />
+  <ChuanSong ID="21" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูตะวันตก" BattlefieldID="3" MapCode="11102" Site="4050|3950" />
+  <ChuanSong ID="22" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูกลาง" BattlefieldID="3" MapCode="11102" Site="5900|3950" />
+  <ChuanSong ID="23" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูตะวันออก" BattlefieldID="3" MapCode="11102" Site="7670|3950" />
+  <ChuanSong ID="24" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="ธงแดนศักดิ์สิทธิ์" BattlefieldID="3" MapCode="11102" Site="5875|6884" />
+  <ChuanSong ID="25" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="ทางเข้าหอคอยมังกร" BattlefieldID="3" MapCode="11102" Site="5889|9767" />
+  <ChuanSong ID="26" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="หอคอยมังกรแดนศักดิ์สิทธิ์" BattlefieldID="3" MapCode="11103" Site="2122|1628" />
+  <ChuanSong ID="27" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูตะวันตก" BattlefieldID="4" MapCode="11104" Site="4070|1100" />
+  <ChuanSong ID="28" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูกลาง" BattlefieldID="4" MapCode="11104" Site="5970|1210" />
+  <ChuanSong ID="29" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูตะวันออก" BattlefieldID="4" MapCode="11104" Site="7760|1100" />
+  <ChuanSong ID="30" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูตะวันตก" BattlefieldID="4" MapCode="11104" Site="4050|3950" />
+  <ChuanSong ID="31" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูกลาง" BattlefieldID="4" MapCode="11104" Site="5900|3950" />
+  <ChuanSong ID="32" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูตะวันออก" BattlefieldID="4" MapCode="11104" Site="7670|3950" />
+  <ChuanSong ID="33" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="ธงแดนศักดิ์สิทธิ์" BattlefieldID="4" MapCode="11104" Site="5875|6884" />
+  <ChuanSong ID="34" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="ทางเข้าหอคอยมังกร" BattlefieldID="4" MapCode="11104" Site="5889|9767" />
+  <ChuanSong ID="35" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="หอคอยมังกรแดนศักดิ์สิทธิ์" BattlefieldID="4" MapCode="11105" Site="2122|1628" />
+  <ChuanSong ID="36" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูตะวันตก" BattlefieldID="5" MapCode="11106" Site="4070|1100" />
+  <ChuanSong ID="37" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูกลาง" BattlefieldID="5" MapCode="11106" Site="5970|1210" />
+  <ChuanSong ID="38" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="จุดคืนชีพประตูตะวันออก" BattlefieldID="5" MapCode="11106" Site="7760|1100" />
+  <ChuanSong ID="39" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูตะวันตก" BattlefieldID="5" MapCode="11106" Site="4050|3950" />
+  <ChuanSong ID="40" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูกลาง" BattlefieldID="5" MapCode="11106" Site="5900|3950" />
+  <ChuanSong ID="41" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="แดนศักดิ์สิทธิ์ประตูตะวันออก" BattlefieldID="5" MapCode="11106" Site="7670|3950" />
+  <ChuanSong ID="42" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="ธงแดนศักดิ์สิทธิ์" BattlefieldID="5" MapCode="11106" Site="5875|6884" />
+  <ChuanSong ID="43" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="ทางเข้าหอคอยมังกร" BattlefieldID="5" MapCode="11106" Site="5889|9767" />
+  <ChuanSong ID="44" Type="2" HuoDongName="ชิงจ้าวแดนศักดิ์สิทธิ์" ChuanSongName="หอคอยมังกรแดนศักดิ์สิทธิ์" BattlefieldID="5" MapCode="11107" Site="2122|1628" />
+</Config>

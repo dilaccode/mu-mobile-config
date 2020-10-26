@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Config>
+	<FuWen ID="100" GoodsID="940100" Name="Shadow claw I" Type="Red" Level="1" Blue="0" Red="5" Green="0" PayNum="15" SendNum="15"/>
+	<FuWen ID="101" GoodsID="940101" Name="Shadow claw II" Type="Red" Level="2" Blue="0" Red="10" Green="0" PayNum="60" SendNum="55"/>
+	<FuWen ID="102" GoodsID="940102" Name="Shadow claw III" Type="Red" Level="3" Blue="0" Red="15" Green="0" PayNum="240" SendNum="215"/>
+	<FuWen ID="103" GoodsID="940103" Name="Shadow crash IV" Type="Red" Level="4" Blue="0" Red="20" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="104" GoodsID="940104" Name="Shadow crash V" Type="Red" Level="5" Blue="0" Red="30" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="105" GoodsID="940105" Name="Shadow crash VI" Type="Red" Level="6" Blue="0" Red="40" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="106" GoodsID="940106" Name="Shadow wolf IV" Type="Red" Level="4" Blue="0" Red="20" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="107" GoodsID="940107" Name="Shadow wolf V" Type="Red" Level="5" Blue="0" Red="30" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="108" GoodsID="940108" Name="Shadow wolf VI" Type="Red" Level="6" Blue="0" Red="40" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="109" GoodsID="940109" Name="Destruction of Shadow VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="110" GoodsID="940110" Name="Covetous wolf of the shadow VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="200" GoodsID="940200" Name="Shadow secret spell I" Type="Red" Level="1" Blue="0" Red="5" Green="0" PayNum="15" SendNum="15"/>
+	<FuWen ID="201" GoodsID="940201" Name="Shadow secret spell II" Type="Red" Level="2" Blue="0" Red="10" Green="0" PayNum="60" SendNum="55"/>
+	<FuWen ID="202" GoodsID="940202" Name="Shadow secret spell III" Type="Red" Level="3" Blue="0" Red="15" Green="0" PayNum="240" SendNum="215"/>
+	<FuWen ID="203" GoodsID="940203" Name="Shadow bloom IV" Type="Red" Level="4" Blue="0" Red="20" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="204" GoodsID="940204" Name="Shadow bloom V" Type="Red" Level="5" Blue="0" Red="30" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="205" GoodsID="940205" Name="Shadow bloom VI" Type="Red" Level="6" Blue="0" Red="40" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="206" GoodsID="940206" Name="Shadow neon IV" Type="Red" Level="4" Blue="0" Red="20" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="207" GoodsID="940207" Name="Shadow neon V" Type="Red" Level="5" Blue="0" Red="30" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="208" GoodsID="940208" Name="Shadow neon VI" Type="Red" Level="6" Blue="0" Red="40" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="209" GoodsID="940209" Name="Blooms of Shadow VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="210" GoodsID="940210" Name="Neon of the Shadow VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="300" GoodsID="940300" Name="Light claw I" Type="Red" Level="1" Blue="0" Red="10" Green="0" PayNum="15" SendNum="15"/>
+	<FuWen ID="301" GoodsID="940301" Name="Light claw II" Type="Red" Level="2" Blue="0" Red="15" Green="0" PayNum="60" SendNum="55"/>
+	<FuWen ID="302" GoodsID="940302" Name="Light claw III" Type="Red" Level="3" Blue="0" Red="20" Green="0" PayNum="240" SendNum="215"/>
+	<FuWen ID="303" GoodsID="940303" Name="Light crash IV" Type="Red" Level="4" Blue="0" Red="30" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="304" GoodsID="940304" Name="Light crash V" Type="Red" Level="5" Blue="0" Red="40" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="305" GoodsID="940305" Name="Light crash VI" Type="Red" Level="6" Blue="0" Red="50" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="306" GoodsID="940306" Name="Light wolf IV" Type="Red" Level="4" Blue="0" Red="30" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="307" GoodsID="940307" Name="Light wolf V" Type="Red" Level="5" Blue="0" Red="40" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="308" GoodsID="940308" Name="Light wolf VI" Type="Red" Level="6" Blue="0" Red="50" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="309" GoodsID="940309" Name="Destruction of Light VII" Type="Red" Level="7" Blue="0" Red="60" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="310" GoodsID="940310" Name="Covetous wolf of light VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="400" GoodsID="940400" Name="Light secret spell I" Type="Red" Level="1" Blue="0" Red="10" Green="0" PayNum="15" SendNum="15"/>
+	<FuWen ID="401" GoodsID="940401" Name="Light secret spell II" Type="Red" Level="2" Blue="0" Red="15" Green="0" PayNum="60" SendNum="55"/>
+	<FuWen ID="402" GoodsID="940402" Name="Light secret spell III" Type="Red" Level="3" Blue="0" Red="20" Green="0" PayNum="240" SendNum="215"/>
+	<FuWen ID="403" GoodsID="940403" Name="Light bloom IV" Type="Red" Level="4" Blue="0" Red="30" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="404" GoodsID="940404" Name="Light bloom V" Type="Red" Level="5" Blue="0" Red="40" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="405" GoodsID="940405" Name="Light bloom VI" Type="Red" Level="6" Blue="0" Red="50" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="406" GoodsID="940406" Name="Light neon IV" Type="Red" Level="4" Blue="0" Red="30" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="407" GoodsID="940407" Name="Light neon V" Type="Red" Level="5" Blue="0" Red="40" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="408" GoodsID="940408" Name="Light neon VI" Type="Red" Level="6" Blue="0" Red="50" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="409" GoodsID="940409" Name="Blooms of Light VII" Type="Red" Level="7" Blue="0" Red="60" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="410" GoodsID="940410" Name="Neon of Light VII" Type="Red" Level="7" Blue="0" Red="60" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="500" GoodsID="940500" Name="Shadow shield I" Type="Blue" Level="1" Blue="5" Red="0" Green="0" PayNum="15" SendNum="15"/>
+	<FuWen ID="501" GoodsID="940501" Name="Shadow shield II" Type="Blue" Level="2" Blue="10" Red="0" Green="0" PayNum="60" SendNum="55"/>
+	<FuWen ID="502" GoodsID="940502" Name="Shadow shield III" Type="Blue" Level="3" Blue="15" Red="0" Green="0" PayNum="240" SendNum="215"/>
+	<FuWen ID="503" GoodsID="940503" Name="Shadow control IV" Type="Blue" Level="4" Blue="20" Red="0" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="504" GoodsID="940504" Name="Shadow control V" Type="Blue" Level="5" Blue="30" Red="0" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="505" GoodsID="940505" Name="Shadow control VI" Type="Blue" Level="6" Blue="40" Red="0" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="506" GoodsID="940506" Name="Shadow guard IV" Type="Blue" Level="4" Blue="20" Red="0" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="507" GoodsID="940507" Name="Shadow guard V" Type="Blue" Level="5" Blue="30" Red="0" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="508" GoodsID="940508" Name="Shadow guard VI" Type="Blue" Level="6" Blue="40" Red="0" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="509" GoodsID="940509" Name="Control of the Shadow VII" Type="Blue" Level="7" Blue="50" Red="0" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="510" GoodsID="940510" Name="Protection of the Shadow VII" Type="Blue" Level="7" Blue="50" Red="0" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="600" GoodsID="940600" Name="Shadow barrier I" Type="Blue" Level="1" Blue="5" Red="0" Green="0" PayNum="15" SendNum="15"/>
+	<FuWen ID="601" GoodsID="940601" Name="Shadow barrier II" Type="Blue" Level="2" Blue="10" Red="0" Green="0" PayNum="60" SendNum="55"/>
+	<FuWen ID="602" GoodsID="940602" Name="Shadow barrier III" Type="Blue" Level="3" Blue="15" Red="0" Green="0" PayNum="240" SendNum="215"/>
+	<FuWen ID="603" GoodsID="940603" Name="Shadow illusion IV" Type="Blue" Level="4" Blue="20" Red="0" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="604" GoodsID="940604" Name="Shadow illusion V" Type="Blue" Level="5" Blue="30" Red="0" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="605" GoodsID="940605" Name="Shadow illusion VI" Type="Blue" Level="6" Blue="40" Red="0" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="606" GoodsID="940606" Name="Shadow dream IV" Type="Blue" Level="4" Blue="20" Red="0" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="607" GoodsID="940607" Name="Shadow dream V" Type="Blue" Level="5" Blue="30" Red="0" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="608" GoodsID="940608" Name="Shadow dream VI" Type="Blue" Level="6" Blue="40" Red="0" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="609" GoodsID="940609" Name="The Illusion of Shadow VII" Type="Blue" Level="7" Blue="50" Red="0" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="610" GoodsID="940610" Name="Dream of Shadow VII" Type="Blue" Level="7" Blue="50" Red="0" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="700" GoodsID="940700" Name="Light shield I" Type="Blue" Level="1" Blue="10" Red="0" Green="0" PayNum="15" SendNum="15"/>
+	<FuWen ID="701" GoodsID="940701" Name="Light shield II" Type="Blue" Level="2" Blue="15" Red="0" Green="0" PayNum="60" SendNum="55"/>
+	<FuWen ID="702" GoodsID="940702" Name="Light shield III" Type="Blue" Level="3" Blue="20" Red="0" Green="0" PayNum="240" SendNum="215"/>
+	<FuWen ID="703" GoodsID="940703" Name="Light control IV" Type="Blue" Level="4" Blue="30" Red="0" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="704" GoodsID="940704" Name="Light control V" Type="Blue" Level="5" Blue="40" Red="0" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="705" GoodsID="940705" Name="Light control VI" Type="Blue" Level="6" Blue="50" Red="0" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="706" GoodsID="940706" Name="Light guard IV" Type="Blue" Level="4" Blue="30" Red="0" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="707" GoodsID="940707" Name="Light guard V" Type="Blue" Level="5" Blue="40" Red="0" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="708" GoodsID="940708" Name="Light guard VI" Type="Blue" Level="6" Blue="50" Red="0" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="709" GoodsID="940709" Name="Control of Light VII" Type="Blue" Level="7" Blue="60" Red="0" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="710" GoodsID="940710" Name="Protection of Light VII" Type="Blue" Level="7" Blue="60" Red="0" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="800" GoodsID="940800" Name="Light barrier I" Type="Blue" Level="1" Blue="10" Red="0" Green="0" PayNum="15" SendNum="15"/>
+	<FuWen ID="801" GoodsID="940801" Name="Light barrier II" Type="Blue" Level="2" Blue="15" Red="0" Green="0" PayNum="60" SendNum="55"/>
+	<FuWen ID="802" GoodsID="940802" Name="Light barrier III" Type="Blue" Level="3" Blue="20" Red="0" Green="0" PayNum="240" SendNum="215"/>
+	<FuWen ID="803" GoodsID="940803" Name="Light illusion IV" Type="Blue" Level="4" Blue="30" Red="0" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="804" GoodsID="940804" Name="Light illusion V" Type="Blue" Level="5" Blue="40" Red="0" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="805" GoodsID="940805" Name="Light illusion VI" Type="Blue" Level="6" Blue="50" Red="0" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="806" GoodsID="940806" Name="Light dream IV" Type="Blue" Level="4" Blue="30" Red="0" Green="0" PayNum="1000" SendNum="850"/>
+	<FuWen ID="807" GoodsID="940807" Name="Light dream V" Type="Blue" Level="5" Blue="40" Red="0" Green="0" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="808" GoodsID="940808" Name="Light dream VI" Type="Blue" Level="6" Blue="50" Red="0" Green="0" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="809" GoodsID="940809" Name="Illusion of Light VII" Type="Blue" Level="7" Blue="60" Red="0" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="810" GoodsID="940810" Name="Dream of Light VII" Type="Blue" Level="7" Blue="60" Red="0" Green="0" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="900" GoodsID="940900" Name="Shadow essence I" Type="Green" Level="1" Blue="0" Red="0" Green="5" PayNum="15" SendNum="15"/>
+	<FuWen ID="901" GoodsID="940901" Name="Shadow essence II" Type="Green" Level="2" Blue="0" Red="0" Green="10" PayNum="60" SendNum="55"/>
+	<FuWen ID="902" GoodsID="940902" Name="Shadow essence III" Type="Green" Level="3" Blue="0" Red="0" Green="15" PayNum="240" SendNum="215"/>
+	<FuWen ID="903" GoodsID="940903" Name="Shadow roar IV" Type="Green" Level="4" Blue="0" Red="0" Green="20" PayNum="1000" SendNum="850"/>
+	<FuWen ID="904" GoodsID="940904" Name="Shadow roar V" Type="Green" Level="5" Blue="0" Red="0" Green="30" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="905" GoodsID="940905" Name="Shadow roar VI" Type="Green" Level="6" Blue="0" Red="0" Green="40" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="906" GoodsID="940906" Name="Shadow nourish IV" Type="Green" Level="4" Blue="0" Red="0" Green="20" PayNum="1000" SendNum="850"/>
+	<FuWen ID="907" GoodsID="940907" Name="Shadow nourish V" Type="Green" Level="5" Blue="0" Red="0" Green="30" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="908" GoodsID="940908" Name="Shadow nourish VI" Type="Green" Level="6" Blue="0" Red="0" Green="40" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="909" GoodsID="940909" Name="Roar of the Shadow VII" Type="Green" Level="7" Blue="0" Red="0" Green="50" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="910" GoodsID="940910" Name="Maintenance of VII" Type="Green" Level="7" Blue="0" Red="0" Green="50" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="1000" GoodsID="941000" Name="Shadow cover I" Type="Green" Level="1" Blue="0" Red="0" Green="5" PayNum="15" SendNum="15"/>
+	<FuWen ID="1001" GoodsID="941001" Name="Shadow cover II" Type="Green" Level="2" Blue="0" Red="0" Green="10" PayNum="60" SendNum="55"/>
+	<FuWen ID="1002" GoodsID="941002" Name="Shadow cover III" Type="Green" Level="3" Blue="0" Red="0" Green="15" PayNum="240" SendNum="215"/>
+	<FuWen ID="1003" GoodsID="941003" Name="Shadow counterattack IV" Type="Green" Level="4" Blue="0" Red="0" Green="20" PayNum="1000" SendNum="850"/>
+	<FuWen ID="1004" GoodsID="941004" Name="Shadow counterattack V" Type="Green" Level="5" Blue="0" Red="0" Green="30" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="1005" GoodsID="941005" Name="Shadow counterattack VI" Type="Green" Level="6" Blue="0" Red="0" Green="40" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="1006" GoodsID="941006" Name="Shadow phantom IV" Type="Green" Level="4" Blue="0" Red="0" Green="20" PayNum="1000" SendNum="850"/>
+	<FuWen ID="1007" GoodsID="941007" Name="Shadow phantom V" Type="Green" Level="5" Blue="0" Red="0" Green="30" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="1008" GoodsID="941008" Name="Shadow phantom VI" Type="Green" Level="6" Blue="0" Red="0" Green="40" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="1009" GoodsID="941009" Name="Shadow of the Shadow VII" Type="Green" Level="7" Blue="0" Red="0" Green="50" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="1010" GoodsID="941010" Name="Illusion of Shadow VII" Type="Green" Level="7" Blue="0" Red="0" Green="50" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="1100" GoodsID="941100" Name="Light essence I" Type="Green" Level="1" Blue="0" Red="0" Green="10" PayNum="15" SendNum="15"/>
+	<FuWen ID="1101" GoodsID="941101" Name="Light essence II" Type="Green" Level="2" Blue="0" Red="0" Green="15" PayNum="60" SendNum="55"/>
+	<FuWen ID="1102" GoodsID="941102" Name="Light essence III" Type="Green" Level="3" Blue="0" Red="0" Green="20" PayNum="240" SendNum="215"/>
+	<FuWen ID="1103" GoodsID="941103" Name="Light roar IV" Type="Green" Level="4" Blue="0" Red="0" Green="30" PayNum="1000" SendNum="850"/>
+	<FuWen ID="1104" GoodsID="941104" Name="Light roar V" Type="Green" Level="5" Blue="0" Red="0" Green="40" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="1105" GoodsID="941105" Name="Light roar VI" Type="Green" Level="6" Blue="0" Red="0" Green="50" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="1106" GoodsID="941106" Name="Light nourish IV" Type="Green" Level="4" Blue="0" Red="0" Green="30" PayNum="1000" SendNum="850"/>
+	<FuWen ID="1107" GoodsID="941107" Name="Light nourish V" Type="Green" Level="5" Blue="0" Red="0" Green="40" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="1108" GoodsID="941108" Name="Light nourish VI" Type="Green" Level="6" Blue="0" Red="0" Green="50" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="1109" GoodsID="941109" Name="Roar of Light VII" Type="Green" Level="7" Blue="0" Red="0" Green="60" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="1110" GoodsID="941110" Name="Nourishment of light VII" Type="Green" Level="7" Blue="0" Red="0" Green="60" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="1200" GoodsID="941200" Name="Light cover I" Type="Green" Level="1" Blue="0" Red="0" Green="10" PayNum="15" SendNum="15"/>
+	<FuWen ID="1201" GoodsID="941201" Name="Light cover II" Type="Green" Level="2" Blue="0" Red="0" Green="15" PayNum="60" SendNum="55"/>
+	<FuWen ID="1202" GoodsID="941202" Name="Light cover III" Type="Green" Level="3" Blue="0" Red="0" Green="20" PayNum="240" SendNum="215"/>
+	<FuWen ID="1203" GoodsID="941203" Name="Light counterattack IV" Type="Green" Level="4" Blue="0" Red="0" Green="30" PayNum="1000" SendNum="850"/>
+	<FuWen ID="1204" GoodsID="941204" Name="Light counterattack V" Type="Green" Level="5" Blue="0" Red="0" Green="40" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="1205" GoodsID="941205" Name="Light counterattack VI" Type="Green" Level="6" Blue="0" Red="0" Green="50" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="1206" GoodsID="941206" Name="Light phantom IV" Type="Green" Level="4" Blue="0" Red="0" Green="30" PayNum="1000" SendNum="850"/>
+	<FuWen ID="1207" GoodsID="941207" Name="Light phantom V" Type="Green" Level="5" Blue="0" Red="0" Green="40" PayNum="4500" SendNum="3600"/>
+	<FuWen ID="1208" GoodsID="941208" Name="Light phantom VI" Type="Green" Level="6" Blue="0" Red="0" Green="50" PayNum="20000" SendNum="16000"/>
+	<FuWen ID="1209" GoodsID="941209" Name="The Return of the Light VII" Type="Green" Level="7" Blue="0" Red="0" Green="60" PayNum="80000" SendNum="64000"/>
+	<FuWen ID="1210" GoodsID="941210" Name="Maya of Light VII" Type="Green" Level="7" Blue="0" Red="0" Green="60" PayNum="80000" SendNum="64000"/>
+</Config>

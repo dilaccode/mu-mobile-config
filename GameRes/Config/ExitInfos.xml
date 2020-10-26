@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Exit ID="1" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1980" Txt="Announcement: Challenge yourself in the EXP Dungeon to acquire a large amount of EXP." />
+  <Exit ID="2" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="2031" Txt="Announcement: Challenge yourself in the Zen Dungeon to acquire a large amount of Zen." />
+  <Exit ID="3" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1280" Txt="Announcement: You can acquire equipment easily from the Daily Dungeon." />
+  <Exit ID="4" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="2110" Txt="Announcement: You can acquire a large amount of rewards like 8x EXP and 8x Drop Rate from Colosseum." />
+  <Exit ID="5" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="2210" Txt="Announcement: You can acquire Condor's Feather and Condor’s Flame from Endless Tower." />
+  <Exit ID="6" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1521" Txt="Announcement: You can acquire a lot of EXP every day from the Daily Quest." />
+  <Exit ID="7" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1521" Txt="Announcement: When you log out, your character begins meditation automatically. You can acquire EXP and Star Essence the next time you log in." />
+  <Exit ID="8" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1801" Txt="Announcement: You can activate ranks by acquiring fame points from the Arena." />
+  <Exit ID="9" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="0" MaxLevel="19" TestID="" Txt="Announcement: You can acquire a precious item every day if you log in for 40 minutes or more." />
+  <Exit ID="10" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="0" MaxLevel="19" TestID="" Txt="Announcement: You can acquire a precious jewel if you [Share] the game every day." />
+</Config>

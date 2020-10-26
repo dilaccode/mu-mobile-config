@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Describe the recovery system" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Take {17e43e} recovered stone part of consciousness {dac7ae}, one can go to the window {17e43e}, activate the stone regain consciousness {dac7ae}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Buried on different devices, the stone regains consciousness, divided into {17e43e}, the stone regains consciousness, attacks {dac7ae} and {17e43e}." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, The stone regain consciousness corresponding to the device: {17e43e} weapon, necklace, left ring, right ring." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, The stone regain consciousness protection, corresponding to the device: {17e43e} hat, armor, knuckles, legs, shoes." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, The number of stone revive consciousness activated in the stone set regain consciousness to a certain number, Can turn on the corresponding consciousness stone {17e43e} features set." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, The stone window regains consciousness. You can choose to activate at least {17e43e} a channel {dac7ae}. The stone regains consciousness of the set property of the set. When embedding {17e43e}, the entire set {dac7ae} chooses to embed." Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Whether or not {17e43e} is buried. {Dac7ae}, stone regains consciousness {17e43e}. The basic qualification {dac7ae} takes effect, but only {17e43e} buried {dac7ae} Feature set {dac7ae} will take effect." Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, The device corresponding to the stone regain consciousness, the number of stages must reach {17e43e}. The 7th stage {dac7ae} and the remarkable {17e43e} 5 items {dac7ae} go up, otherwise the stone regains all consciousness corresponding {ff0000}. {Dac7ae}, {ff0000} does not have {dac7ae} basic features, and {ff0000} does not activate {dac7ae} set." Bold="0" />
+</Config>

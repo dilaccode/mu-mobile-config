@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="41" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="During the event, within the following time, participants will receive multiple benefits!">
+    <!--天使神殿奖励-->
+    <JieRiDuoBei ID="1" Name="AW Awards Angle Palace" TypeID="1" Depict="AW Awards Angle Palace x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1002" />
+    <!--阵营战奖励-->
+    <JieRiDuoBei ID="2" Name="War Award Camp" TypeID="2" Depict="War Award Camp x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1001" />
+    <!--PK之王奖励-->
+    <JieRiDuoBei ID="3" Name="PK King Award" TypeID="3" Depict="PK King Award x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="105" />
+    <!--古战场时间-->
+    <JieRiDuoBei ID="4" Name="Battlefield" TypeID="4" Depict="Time to enter the battlefield. x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1000" />
+    <!--组队副本奖励-->
+    <JieRiDuoBei ID="5" Name="Award of the Team Dungeon" TypeID="5" Depict="Reward through the team dungeon. x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="407" />
+    <!--转换次数-->
+    <JieRiDuoBei ID="6" Name="Number of exchanges" TypeID="6" Depict="Number of exchanges x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1320" />
+    <!--转换获得奖励-->
+    <JieRiDuoBei ID="7" Name="Redeem reward" TypeID="9" Depict="Redeem reward x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1320" />
+    <!--雕像膜拜次数-->
+    <JieRiDuoBei ID="8" Name="Number of times respected" TypeID="12" Depict="Number of times respected x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1310" />
+    <!--合成果实概率-->
+    <JieRiDuoBei ID="9" Name="Synthetic Opportunity" TypeID="13" Depict="Synthetic Opportunity x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="203" />
+    <!--祈福获取积分-->
+    <JieRiDuoBei ID="10" Name="Greeting" TypeID="10" Depict="Greeting x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="400" />
+  </GiftList>
+</Config>

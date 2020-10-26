@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+  <Mall>
+    <Goods ID="10001" GoodsID="6055" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="400" Price="400" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="贈送給伴侶的稀少的鮮花，贈送後增加巨量好感度" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10002" GoodsID="7037" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="10" Price="10" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後獲得20萬綁定金幣&#10;【非VIP玩家每日可使用10次,VIP等級越高使用次數越多】" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10010" GoodsID="5030" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="60" Price="60" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後可獲得3000點成就【每日限制使用30次】" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10020" GoodsID="5040" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="60" Price="60" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後可獲得6000點聲望【每日限制使用30次】" PubStartTime="" PubEndTime=""/>
+	<Goods ID="10011" GoodsID="2033" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="650" Price="650" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後可獲得3000點成就【每日限制使用30次】" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10012" GoodsID="2034" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="650" Price="650" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後可獲得6000點聲望【每日限制使用30次】" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10013" GoodsID="2005" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="1000" Price="1000" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後可獲得6000點聲望【每日限制使用30次】" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10021" GoodsID="5132" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="4000" Price="4000" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後可獲得500再造點數" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10030" GoodsID="2003" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="10" Price="10" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="可為裝備啟動/提升追加屬性" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10031" GoodsID="2031" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="400" Price="400" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="裝備再造時的必備道具" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10040" GoodsID="2016" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="10" Price="10" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="可提升翅膀星級的神秘道具" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10050" GoodsID="2017" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="40" Price="40" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="可提升翅膀等階的神秘道具" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10060" GoodsID="4030" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="20" Price="20" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後持續60分鐘，殺怪可獲得3倍經驗【使用相同經驗印章時間會自動累積】" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10070" GoodsID="4022" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="1000" Price="1000" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後降低PK值200點【每日限制使用10次】" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10080" GoodsID="6003" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="10" Price="10" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="進入血色堡壘必須的圖鑒" PubStartTime="" PubEndTime=""/>
+    <Goods ID="10090" GoodsID="6000" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="10" Price="10" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="進入惡魔之門必需的憑證" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20010" GoodsID="1001" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="30" Price="30" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="每3秒恢復2000點生命值,累計可恢復300000點生命" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20020" GoodsID="1002" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="50" Price="50" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="每3秒恢復4000點生命值,累計可恢復1000000點生命" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20030" GoodsID="1010" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="2" Price="2" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="瞬間恢復5000點生命值" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20040" GoodsID="1110" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="2" Price="2" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="瞬間恢復500點魔法值" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20050" GoodsID="4000" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="10" Price="10" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="人物死亡後,消耗此靈石可原地滿血復活" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20060" GoodsID="4030" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="20" Price="20" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後持續60分鐘，殺怪可獲得3倍經驗【使用相同經驗印章時間會自動累積】" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20070" GoodsID="4001" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="30" Price="30" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後增加力量屬性500點,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20080" GoodsID="4002" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="30" Price="30" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後增加敏捷屬性500點,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20090" GoodsID="4003" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="30" Price="30" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後增加體力屬性500點,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20100" GoodsID="4004" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="30" Price="30" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後增加智力屬性500點,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20110" GoodsID="4005" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="30" Price="30" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後提升20%的卓越一擊效果,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="20120" GoodsID="4006" Property="0,0,0,0" TabID="200" Ico="0" OrigPrice="30" Price="30" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="使用後提升20%的幸運一擊效果,持續1小時" PubStartTime="" PubEndTime=""/>
+	
+	<Goods ID="1000261" GoodsID="1010" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="5" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000262" GoodsID="1110" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="5" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000001" GoodsID="2100" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="60" SinglePurchase="-1" FullPurchase="-1" Description="消耗此劵可代替鑽石進行祈福操作" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000031" GoodsID="2101" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="200" SinglePurchase="-1" FullPurchase="-1" Description="裝備再造時的必備道具" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000040" GoodsID="2032" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="610" SinglePurchase="-1" FullPurchase="-1" Description="可提升翅膀星級的神秘道具" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000050" GoodsID="5160" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="355" SinglePurchase="-1" FullPurchase="-1" Description="可提升翅膀等階的神秘道具" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000060" GoodsID="7004" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="1800" SinglePurchase="-1" FullPurchase="-1" Description="使用後持續60分鐘，殺怪可獲得3倍經驗【使用相同經驗印章時間會自動累積】" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000070" GoodsID="5030" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="120" SinglePurchase="-1" FullPurchase="-1" Description="進入血色堡壘必須的圖鑒" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000080" GoodsID="5040" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="120" SinglePurchase="-1" FullPurchase="-1" Description="進入惡魔之門必需的憑證" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000140" GoodsID="2031" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="800" SinglePurchase="-1" FullPurchase="-1" Description="人物死亡後,消耗此靈石可原地滿血復活" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000150" GoodsID="4001" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="500" SinglePurchase="-1" FullPurchase="-1" Description="使用後增加力量屬性500點,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000160" GoodsID="4002" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="500" SinglePurchase="-1" FullPurchase="-1" Description="使用後增加敏捷屬性500點,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000170" GoodsID="4003" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="500" SinglePurchase="-1" FullPurchase="-1" Description="使用後增加體力屬性500點,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000180" GoodsID="4004" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="500" SinglePurchase="-1" FullPurchase="-1" Description="使用後增加智力屬性500點,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000190" GoodsID="4005" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="600" SinglePurchase="-1" FullPurchase="-1" Description="使用後提升20%的卓越一擊效果,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000200" GoodsID="4006" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="600" SinglePurchase="-1" FullPurchase="-1" Description="使用後提升20%的幸運一擊效果,持續1小時" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000249" GoodsID="2016" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="20" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000251" GoodsID="4030" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="80" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000252" GoodsID="2032" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="340" Price="340" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000253" GoodsID="5160" Property="0,0,0,0" TabID="100" Ico="0" OrigPrice="170" Price="170" ZhenQi="-1" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000255" GoodsID="2017" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="80" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000257" GoodsID="63082" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="300" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000258" GoodsID="6000" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="100" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000259" GoodsID="6003" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="100" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+    <Goods ID="1000260" GoodsID="2003" Property="0,0,0,0" TabID="10000" Ico="0" OrigPrice="-1" Price="-1" ZhenQi="50" SinglePurchase="-1" FullPurchase="-1" Description="" PubStartTime="" PubEndTime=""/>
+  </Mall>
+</Config>

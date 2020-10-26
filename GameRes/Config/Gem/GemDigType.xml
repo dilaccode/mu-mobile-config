@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Type ID="1" Type="100" Name="เหมืองขั้นต้น" CostYingGuangFenMo="60" CostZuanShi="0" />
+  <Type ID="2" Type="200" Name="เหมืองขั้งกลาง" CostYingGuangFenMo="0" CostZuanShi="40" />
+  <Type ID="3" Type="300" Name="เหมืองขั้นสูง" CostYingGuangFenMo="0" CostZuanShi="120" />
+</Config>

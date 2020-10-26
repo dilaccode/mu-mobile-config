@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JuHunType TypeID="1" Name="รวมวิญญาณเพลิงเริ่มต้นขั้น 1" />
+  <JuHunType TypeID="2" Name="ผสานวิญญาณเพลิงขั้น 2" />
+  <JuHunType TypeID="3" Name="รวมจิตเพลิงเริ่มต้นขั้น 3" />
+  <JuHunType TypeID="4" Name="จิตเพลิงคล้ายกันขั้น 4" />
+  <JuHunType TypeID="5" Name="รวมเถ้าถ่านเพลิงเริ่มต้นขั้น 5" />
+  <JuHunType TypeID="6" Name="กลั่นเถ้าถ่านเพลิงขั้น 6" />
+  <JuHunType TypeID="7" Name="รวมเพลิงผลาญเริ่มต้นขั้น 7" />
+  <JuHunType TypeID="8" Name="เบ่งบานเพลิงผลาญขั้น 8" />
+  <JuHunType TypeID="9" Name="รวมเพลิงแดงเริ่มต้นขั้น 9" />
+  <JuHunType TypeID="10" Name="รวมกันเป็นหนึ่งเพลิงแดงขั้น 10" />
+</Config>

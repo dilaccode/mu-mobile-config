@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+    <Params>
+        <!--TimeReward Event Value[0]: 1=event_on | 0=event_off-->
+        <!--TimeReward Event Value[1]: 1=diamond | //2=bound_diamond | 3=gold | 4=bound_gold-->
+        <!--TimeReward Event Value[2]: amount of reward ex. 1-->
+        <!--TimeReward Event Value[3]: reward interval in minute ex. 5-->
+        <Param Name="OnlineTimeReward" Value="1,1,2500,10"/>
+        <!--UnlimitedBoundDiamond Event Value[0]: 1=event_on | 0=event_off Value[1]: minimum amount ex. 9999999-->
+        <Param Name="UnlimitedBoundDiamond" Value="0,1200000"/>
+        <!--GiveFreeVIP Event Value[0]: 1=event_on | 0=event_off Value[1]: vip_level ex 9-->
+        <Param Name="GiveFreeVIP" Value="1,12"/>
+        <!--StartingMoney Event Value[0]=diamond | Value[1]=bound_diamond | Value[2]=gold | Value[3]=bound_gold-->
+        <Param Name="StartingMoney" Value="0,100000000,0,100000000"/>
+        <!--StartingItem Event Value[0]: 1=event_on | 0=event_off-->
+        <Param Name="StartingItem" Value="1"/>
+        <!--StartingItemList Event Value[0]: item list-->
+        <!-- |1000005,1,1,0,0,0,16128|1000105,1,1,0,0,0,16128|1000205,1,1,0,0,0,16128|1000305,1,1,0,0,0,16128|1000505,1,1,0,0,0,235|1000605,1,1,0,0,0,16128|1000605,1,1,0,0,0,16128|1000405,1,1,0,0,0,16128|1005005,1,1,0,0,0,235|1005005,1,1,0,0,0,235|1010005,1,1,0,0,0,16128|1010105,1,1,0,0,0,16128|1010205,1,1,0,0,0,16128|1010305,1,1,0,0,0,16128|1010505,1,1,0,0,0,235|1010605,1,1,0,0,0,16128|1010605,1,1,0,0,0,16128|1010405,1,1,0,0,0,16128|1015005,1,1,0,0,0,235|1015302,1,1,0,0,0,16128|1020005,1,1,0,0,0,16128|1020105,1,1,0,0,0,16128|1020205,1,1,0,0,0,16128|1020305,1,1,0,0,0,16128|1020505,1,1,0,0,0,235|1020605,1,1,0,0,0,16128|1020605,1,1,0,0,0,16128|1020405,1,1,0,0,0,16128|1025505,1,1,0,0,0,235|1022102,1,1,0,0,0,235 -->
+        <Param Name="StartingItemList" Value="990005,1,1,0,0,0,0|1000109,1,1,0,0,1,16128|1000409,1,1,0,0,1,16128|1000209,1,1,0,0,1,16128|1000009,1,1,0,0,1,16128|1000309,1,1,0,0,1,16128|1030109,1,1,0,0,1,16128|1030409,1,1,0,0,1,16128|1030209,1,1,0,0,1,16128|1030009,1,1,0,0,1,16128|1030309,1,1,0,0,1,16128|1040109,1,1,0,0,1,16128|1040409,1,1,0,0,1,16128|1040209,1,1,0,0,1,16128|1040009,1,1,0,0,1,16128|1040309,1,1,0,0,1,16128|1020109,1,1,0,0,1,16128|1020409,1,1,0,0,1,16128|1020209,1,1,0,0,1,16128|1020009,1,1,0,0,1,16128|1020309,1,1,0,0,1,16128|1010109,1,1,0,0,1,16128|1010409,1,1,0,0,1,16128|1010209,1,1,0,0,1,16128|1010009,1,1,0,0,1,16128|1010309,1,1,0,0,1,16128|1050109,1,1,0,0,1,16128|1050409,1,1,0,0,1,16128|1050209,1,1,0,0,1,16128|1050009,1,1,0,0,1,16128|1050309,1,1,0,0,1,16128|1005096,1,1,0,0,1,235|1015096,1,1,0,0,1,235|1025596,1,1,0,0,1,235|1035000,1,1,0,0,0,0|1035001,1,1,0,0,0,0|1035002,1,1,0,0,0,0|1035003,1,1,0,0,0,0|1035004,1,1,0,0,0,0|1035005,1,1,0,0,0,0|1035006,1,1,0,0,0,0|1035007,1,1,0,0,0,0|1035008,1,1,0,0,0,0|20000000,1,1,0,0,0,0|20000030,1,1,0,0,0,0|1033000,1,1,0,0,0,0|1033030,1,1,0,0,0,0|1033060,1,1,0,0,0,0|1030914,1,1,0,0,0,95158272|1030913,1,1,0,0,0,158597120|1030912,1,1,0,0,0,978321408|1030916,1,1,0,0,0,978321408|101031002,1,1,0,0,0,95158272|1030915,1,1,0,0,0,158597120|5101,1000,1,0,0,0,0|5102,1000,1,0,0,0,0|5103,1000,1,0,0,0,0|5104,1000,1,0,0,0,0|1000005,1,1,0,0,0,16128|1000105,1,1,0,0,0,16128|1000205,1,1,0,0,0,16128|1000305,1,1,0,0,0,16128|1000605,1,1,0,0,0,16128|1000605,1,1,0,0,0,16128|1000405,1,1,0,0,0,16128|1010005,1,1,0,0,0,16128|1010105,1,1,0,0,0,16128|1010205,1,1,0,0,0,16128|1010305,1,1,0,0,0,16128|1010605,1,1,0,0,0,16128|1010605,1,1,0,0,0,16128|1010405,1,1,0,0,0,16128|1015302,1,1,0,0,0,16128|1020005,1,1,0,0,0,16128|1020105,1,1,0,0,0,16128|1020205,1,1,0,0,0,16128|1020305,1,1,0,0,0,16128|1020605,1,1,0,0,0,16128|1020605,1,1,0,0,0,16128|1020405,1,1,0,0,0,16128|1005105,1,1,0,0,1,235|1015105,1,1,0,0,1,235|1025405,1,1,0,0,1,235"/> 
+        <!--RebirthBaseExpMultiplier Event Value[0]: 1=event_on | 0=event_off Value[1]: multiplier ex 9-->
+        <Param Name="RebirthBaseExpMultiplier" Value="0,1"/>
+        <!--MonsterExpMultiplier Event Value[0]: 1=event_on | 0=event_off | Value[1]: multiplier ex 9-->
+        <Param Name="MonsterExpMultiplier" Value="0,1"/>
+        <!--GlobalMoveSpeedPlus don't alter if you dont know what you are doing-->
+        <Param Name="GlobalMoveSpeedPlus" Value="0.12"/>
+        <!--ConstantMoveSpeed Event Value[0]: 1=event_on | 0=event_off Value[1]: constant ex 1-->
+        <Param Name="ConstantMoveSpeed" Value="1"/>
+        <Param Name="ConstantMoveSpeedValue" Value="1"/>
+        <!--MonsterHP Value[0]: default 100 percent-->
+        <Param Name="MonsterMaxLifePercent" Value="100" />
+        <!--DiamondDrop Value[0]: switch | Value[1]: type 0=allmap 1=selectivemap 2=selectivemobs | value[2]: droprate 0-10000 | value[3]: selectivefilter ex. 1$2545$ | value[4]: itemID 63083 | value[5: count]-->
+       <!-- <Param Name="DiamondDrop" Value="1,0,100000,190$290$390$490$590$690$791$890$990$1090$2090$3090$4090$5090$6090$7090$8090,50150,2"/>-->
+        <!--CustomItemDrop param = mapid,:mobid,:rate:count:itemcode|/    example -1:701006,701106,701206,701306,701406:1:1:1000605,1,0,0,0,0,235|1010605,1,0,0,0,0,235|1020605,1,0,0,0,0,235|1030605,1,0,0,0,0,235|1040605,1,0,0,0,0,235|1050605,1,0,0,0,0,235/-1:701506:1:1:1000606,1,0,0,0,0,235|1010606,1,0,0,0,0,235|1020606,1,0,0,0,0,235|1030606,1,0,0,0,0,235|1040606,1,0,0,0,0,235|1050606,1,0,0,0,0,235/-1:108,109,110,208,209,210,306,307,308,412,413,414,507,508,509,606,607,608,705,706,707,807,808,809,906,907,908,1007,1008,1009,2006,2007,2008,3007,3008,4010,4011,4012,5009,5010,5011,6009,6010,6011,7007,7008,7009,8007,8008:1:1:50050,1,0,0,0,0,0|/-1:190,290,390,490,590,690,791,890,990,1090,2090,3090,4090,5090,6090,7090,8090:1:2:50051,1,0,0,0,0,0|/ -->
+        <Param Name="CustomItemDrop" Value="" />
+        <!-- MaxSubAttackInjurePercent value[0]: maximum allowable absorb dmg ex. 0.75-->
+        <Param Name="MaxSubAttackInjurePercent" Value="0.75"/>
+        <!-- SameSexMarry value[0]: 0/1 -->
+        <Param Name="SameSexMarry" Value="1" />
+        <!-- DisableExcellentOptionIndex value[0]: separated by , 
+        [00] - Excelent Change +2%
+        [01] - Attack power: + Character level / 20
+        [02] - Attack power: + Character level / 20
+        [03] - Increased attack power: +2%
+        [04] - Increased attack power: +2%
+        [05] - Damage Bonus: +2%
+        [06] - Hit Value: +2%
+        [07] - Ignore Defense Proportion: +2%
+        [08] - Max HP Bonus: +2%
+        [09] - Defense: + Character level / 20
+        [10] - DMG Reduction: +2%
+        [11] - Damage Reflect: +2%
+        [12] - Dodge Value: +2%
+        [13] - Defense: +2%
+        [14] - Ignore Defense Probability: 3%
+        [15] - HP Full Recovery Probability: +5%
+        [16] - MP Full Recovery Probability: +5%
+        [17] - Lucky Change: +5%
+        [18] - Excellent change: +5%
+        [19] - Hit Value: +5%
+        [20] - Max HP Bunus: +5%
+        [21] - Damage Bonus: +5%
+        [22] - DMG Reduction: +5%
+        [23] - Fatal Change: +5%
+        [24] - Attact power: +5%
+        [25] - Dodge Value: +5%
+        [26] - Ignore Defense Probability: +5%
+        [27] - Defense: +5%
+        [28] - Damage Reflect: +5%
+        [29] - Resist Lucky change: +5%
+        [30] - Resist Excellent chance: +5% -->
+         <Param Name="DisableExcellentOptionIndex" Value="15," />
+        
+        <!-- LimitExcellentOptionIndexMaxValue value="index:maxval," ex. 15:75, -->
+        <Param Name="LimitExcellentOptionIndexMaxValue" Value="10:75,22:75" />
+        
+        <!-- server ids of roland -->
+        <Param Name="RolandWarServerIDs" Value="1,2,3,4,5,6,7,8,9" />
+        
+        <!-- ZytheGiftCodeEnable put 1 will enable zythe custom giftcode -->
+      <!--   <Param Name="ZytheGiftCodeEnable" Value="1" />-->
+
+        <!-- RechargeGiveBoundDiamond put 1 will give players bound diamonds in recharge -->
+        <Param Name="RechargeGiveBoundDiamond" Value="0" />
+    </Params>
+</Config>
+
+

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GoodsObtain GoodsID="2000" CoinID="-1" Name="Jewel of Chaos" BaoDianID="407,500,406,403" />
+  <GoodsObtain GoodsID="2001" CoinID="-1" Name="Jewel of Bless" BaoDianID="407,300,406,403" />
+  <GoodsObtain GoodsID="2002" CoinID="-1" Name="Jewel of Soul" BaoDianID="407,500,406,403" />
+  <GoodsObtain GoodsID="2003" CoinID="-1" Name="Jewel of Life" BaoDianID="602,500,406,403" />
+  <GoodsObtain GoodsID="2004" CoinID="-1" Name="Jewel of Creation" BaoDianID="403" />
+  <GoodsObtain GoodsID="2005" CoinID="-1" Name="Jewel of Guardian" BaoDianID="407" />
+  <GoodsObtain GoodsID="2016" CoinID="-1" Name="Condor Feather" BaoDianID="602,504,406" />
+  <GoodsObtain GoodsID="2017" CoinID="-1" Name="Condor Flame" BaoDianID="602,504,406" />
+  <GoodsObtain GoodsID="2018" CoinID="-1" Name="Roch Feather" BaoDianID="606" />
+  <GoodsObtain GoodsID="2030" CoinID="-1" Name="Seed Jewel" BaoDianID="403,406" />
+  <GoodsObtain GoodsID="2031" CoinID="-1" Name="Jewel of Transcendence" BaoDianID="602" />
+  <GoodsObtain GoodsID="2032" CoinID="-1" Name="Guardian Holy Water" BaoDianID="100" />
+  <GoodsObtain GoodsID="2033" CoinID="-1" Name="Sapphire" BaoDianID="614,615,616" />
+  <GoodsObtain GoodsID="2034" CoinID="-1" Name="Amethyst" BaoDianID="614,615,616" />
+  <GoodsObtain GoodsID="2060" CoinID="-1" Name="Earth Stone" BaoDianID="403" />
+  <GoodsObtain GoodsID="2061" CoinID="-1" Name="Storm Stone" BaoDianID="403" />
+  <GoodsObtain GoodsID="2062" CoinID="-1" Name="Lava Stone" BaoDianID="403" />
+  <GoodsObtain GoodsID="2063" CoinID="-1" Name="Wave Stone" BaoDianID="403" />
+  <GoodsObtain GoodsID="2070" CoinID="-1" Name="Piece of Ancient Helm" BaoDianID="620" />
+  <GoodsObtain GoodsID="2071" CoinID="-1" Name="Piece of Ancient Gloves" BaoDianID="620" />
+  <GoodsObtain GoodsID="2072" CoinID="-1" Name="Piece of Ancient Pants" BaoDianID="620" />
+  <GoodsObtain GoodsID="2073" CoinID="-1" Name="Piece of Ancient Boots" BaoDianID="620" />
+  <GoodsObtain GoodsID="2074" CoinID="-1" Name="Piece of Ancient Ring" BaoDianID="620" />
+  <GoodsObtain GoodsID="2075" CoinID="-1" Name="Piece of Ancient Necklace" BaoDianID="620" />
+  <GoodsObtain GoodsID="2076" CoinID="-1" Name="Piece of Primordial Helm" BaoDianID="613" />
+  <GoodsObtain GoodsID="2077" CoinID="-1" Name="Piece of Primordial Gloves" BaoDianID="613" />
+  <GoodsObtain GoodsID="2078" CoinID="-1" Name="Piece of Primordial Pants" BaoDianID="613" />
+  <GoodsObtain GoodsID="2079" CoinID="-1" Name="Piece of Primordial Boots" BaoDianID="613" />
+  <GoodsObtain GoodsID="2080" CoinID="-1" Name="Piece of Primordial Ring" BaoDianID="613" />
+  <GoodsObtain GoodsID="2081" CoinID="-1" Name="Piece of Primordial Necklace" BaoDianID="613" />
+  <GoodsObtain GoodsID="2082" CoinID="-1" Name="Piece of Immemorial Helm" BaoDianID="613" />
+  <GoodsObtain GoodsID="2083" CoinID="-1" Name="Piece of Immemorial Gloves" BaoDianID="613" />
+  <GoodsObtain GoodsID="2084" CoinID="-1" Name="Piece of Immemorial Pants" BaoDianID="613" />
+  <GoodsObtain GoodsID="2085" CoinID="-1" Name="Piece of Immemorial Pants" BaoDianID="613" />
+  <GoodsObtain GoodsID="2086" CoinID="-1" Name="Piece of Immemorial Ring" BaoDianID="613" />
+  <GoodsObtain GoodsID="2087" CoinID="-1" Name="Piece of Immemorial Necklace" BaoDianID="613" />
+  <GoodsObtain GoodsID="2088" CoinID="-1" Name="Piece of Mythological Helm" BaoDianID="613" />
+  <GoodsObtain GoodsID="2089" CoinID="-1" Name="Piece of Mythological Gloves" BaoDianID="613" />
+  <GoodsObtain GoodsID="2090" CoinID="-1" Name="Piece of Mythological Pants" BaoDianID="613" />
+  <GoodsObtain GoodsID="2091" CoinID="-1" Name="Piece of Mythological Boots" BaoDianID="613" />
+  <GoodsObtain GoodsID="2092" CoinID="-1" Name="Piece of Mythological Ring" BaoDianID="613" />
+  <GoodsObtain GoodsID="2093" CoinID="-1" Name="Piece of Mythological Necklace" BaoDianID="613" />
+  <GoodsObtain GoodsID="2094" CoinID="-1" Name="Piece of Perpetual Helm" BaoDianID="613" />
+  <GoodsObtain GoodsID="2095" CoinID="-1" Name="Piece of Perpetual Helm" BaoDianID="613" />
+  <GoodsObtain GoodsID="2096" CoinID="-1" Name="Piece of Perpetual Pants" BaoDianID="613" />
+  <GoodsObtain GoodsID="2097" CoinID="-1" Name="Piece of Perpetual Boots" BaoDianID="613" />
+  <GoodsObtain GoodsID="2098" CoinID="-1" Name="Piece of Perpetual Ring" BaoDianID="613" />
+  <GoodsObtain GoodsID="2099" CoinID="-1" Name="Piece of Perpetual Necklace" BaoDianID="613" />
+  <GoodsObtain GoodsID="2100" CoinID="-1" Name="Magic Book" BaoDianID="607" />
+  <GoodsObtain GoodsID="2101" CoinID="-1" Name="Magic Crystal" BaoDianID="607" />
+  <GoodsObtain GoodsID="2102" CoinID="-1" Name="Magic Broom" BaoDianID="607" />
+  <GoodsObtain GoodsID="2103" CoinID="-1" Name="Emblem Light" BaoDianID="623,615,604" />
+  <GoodsObtain GoodsID="2104" CoinID="-1" Name="Emblem Guardian" BaoDianID="623,615,604" />
+  <GoodsObtain GoodsID="2110" CoinID="-1" Name="Ancient Crystal" BaoDianID="616,100,620" />
+  <GoodsObtain GoodsID="2111" CoinID="-1" Name="Immemorial Crystal" BaoDianID="616,100,620" />
+  <GoodsObtain GoodsID="2112" CoinID="-1" Name="Mythological Crystal" BaoDianID="616,100,620" />
+  <GoodsObtain GoodsID="2113" CoinID="-1" Name="Perpetual Crystal" BaoDianID="616,100,620" />
+  <GoodsObtain GoodsID="2130" CoinID="-1" Name="Blessing of Truth" BaoDianID="626" />
+  <GoodsObtain GoodsID="2140" CoinID="-1" Name="กรุณาไปยังร้านค้ากองกำลังสุดแกร่งรับการแลกเปลี่ยน" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2141" CoinID="-1" Name="กรุณาไปยังร้านค้ากองกำลังสุดแกร่งรับการแลกเปลี่ยน" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2200" CoinID="-1" Name="กรุณาไปยังร้านค้ากองกำลังGreeneryCityรับการแลกเปลี่ยน" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2201" CoinID="-1" Name="กรุณาไปยังร้านค้ากองกำลังGreeneryCityรับการแลกเปลี่ยน" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2202" CoinID="-1" Name="กรุณาไปยังร้านค้ากองกำลังGreeneryCityรับการแลกเปลี่ยน" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2203" CoinID="-1" Name="ผลิตกิจกรรมกองกำลัง" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2300" CoinID="-1" Name="กรุณาไปยังร้านค้ากองกำลังHighlandCityรับการแลกเปลี่ยน" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2301" CoinID="-1" Name="กรุณาไปยังร้านค้ากองกำลังสุดแกร่งรับการแลกเปลี่ยน" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="5000" CoinID="-1" Name="Common Random Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5001" CoinID="-1" Name="Superior Random Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5002" CoinID="-1" Name="Lesser Random Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5100" CoinID="-1" Name="Random Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5101" CoinID="-1" Name="Superior STR Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5102" CoinID="-1" Name="Superior AGI Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5103" CoinID="-1" Name="Superior ENG Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5104" CoinID="-1" Name="Superior STA Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5105" CoinID="-1" Name="STR Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5106" CoinID="-1" Name="AGI Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5107" CoinID="-1" Name="ENG Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="5108" CoinID="-1" Name="STA Fruit" BaoDianID="203" />
+  <GoodsObtain GoodsID="6000" CoinID="-1" Name="Devil Square Ticket" BaoDianID="602,622" />
+  <GoodsObtain GoodsID="6001" CoinID="-1" Name="Devil Eye" BaoDianID="627" />
+  <GoodsObtain GoodsID="6002" CoinID="-1" Name="Devil Key" BaoDianID="627" />
+  <GoodsObtain GoodsID="6003" CoinID="-1" Name="Cloak of Invisibility" BaoDianID="602,622" />
+  <GoodsObtain GoodsID="6004" CoinID="-1" Name="Archangel’s Book" BaoDianID="627" />
+  <GoodsObtain GoodsID="6005" CoinID="-1" Name="Blood Bone" BaoDianID="627" />
+  <GoodsObtain GoodsID="41400" CoinID="-1" Name="VIP STR Insignia I" BaoDianID="203" />
+  <GoodsObtain GoodsID="41401" CoinID="-1" Name="VIP AGI Insignia I" BaoDianID="203" />
+  <GoodsObtain GoodsID="41402" CoinID="-1" Name="VIP ENG Insignia I" BaoDianID="203" />
+  <GoodsObtain GoodsID="41403" CoinID="-1" Name="VIP STA Insignia I" BaoDianID="203" />
+  <GoodsObtain GoodsID="41404" CoinID="-1" Name="VIP STA Insignia II" BaoDianID="203" />
+  <GoodsObtain GoodsID="64004" CoinID="-1" Name="Aether Dust" BaoDianID="610,604" />
+  <GoodsObtain GoodsID="64005" CoinID="-1" Name="Elemental Stone" BaoDianID="603,604" />
+  <GoodsObtain GoodsID="64019" CoinID="-1" Name="Divine Essence" BaoDianID="617" />
+   <GoodsObtain GoodsID="90000" CoinID="-1" Name="Magic Excellent Box (Rank 1)" BaoDianID="403,500" />
+  <GoodsObtain GoodsID="90001" CoinID="-1" Name="Rare Excellent Box (Rank 1)" BaoDianID="403,500" />
+  <GoodsObtain GoodsID="90002" CoinID="-1" Name="Epic Excellent Box (Rank 1)" BaoDianID="403,500" />
+  <GoodsObtain GoodsID="90003" CoinID="-1" Name="Magic Excellent Box (Rank 2)" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90004" CoinID="-1" Name="Rare Excellent Box (Rank 2)" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90005" CoinID="-1" Name="Epic Excellent Box (Rank 2)" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90006" CoinID="-1" Name="Magic Excellent Box (Rank 3)" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90007" CoinID="-1" Name="Rare Excellent Box (Rank 3)" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90008" CoinID="-1" Name="Epic Excellent Box (Rank 3)" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90009" CoinID="-1" Name="Magic Excellent Box (Rank 4)" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90010" CoinID="-1" Name="Rare Excellent Box (Rank 4)" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90011" CoinID="-1" Name="Epic Excellent Box (Rank 4)" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90012" CoinID="-1" Name="Magic Excellent Box (Rank 5)" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90013" CoinID="-1" Name="Rare Excellent Box (Rank 5)" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90014" CoinID="-1" Name="Epic Excellent Box (Rank 5)" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90015" CoinID="-1" Name="Magic Excellent Box (Rank 6)" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90016" CoinID="-1" Name="Rare Excellent Box (Rank 6)" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90017" CoinID="-1" Name="Epic Excellent Box (Rank 6)" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90018" CoinID="-1" Name="Magic Excellent Box (Rank 7)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90019" CoinID="-1" Name="Rare Excellent Box (Rank 7)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90020" CoinID="-1" Name="Epic Excellent Box (Rank 7)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90021" CoinID="-1" Name="Magic Excellent Box (Rank 8)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90022" CoinID="-1" Name="Rare Excellent Box (Rank 8)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90023" CoinID="-1" Name="Epic Excellent Box (Rank 8)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90024" CoinID="-1" Name="Magic Excellent Box (Rank 9)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90025" CoinID="-1" Name="Rare Excellent Box (Rank 9)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90026" CoinID="-1" Name="Epic Excellent Box (Rank 9)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90027" CoinID="-1" Name="Magic Excellent Box (Rank 10)" BaoDianID="202" />
+  <GoodsObtain GoodsID="90028" CoinID="-1" Name="Rare Excellent Box (Rank 10)" BaoDianID="202" />
+  <GoodsObtain GoodsID="90029" CoinID="-1" Name="Epic Excellent Box (Rank 10)" BaoDianID="202" />
+  <GoodsObtain GoodsID="90050" CoinID="-1" Name="Magic Excellent Box (Random)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90051" CoinID="-1" Name="Rare Excellent Box (Random)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90052" CoinID="-1" Name="Epic Excellent Box (Random)" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="950000" CoinID="-1" Name="Piece of Awaken-Revenge (Helmet)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950001" CoinID="-1" Name="Piece of Awaken-Revenge (Armor)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950002" CoinID="-1" Name="Piece of Awaken-Revenge (Gloves)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950003" CoinID="-1" Name="Piece of Awaken-Revenge (Pants)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950004" CoinID="-1" Name="Piece of Awaken-Revenge (Boots)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950005" CoinID="-1" Name="Piece of Awaken-Life (Helmet)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950006" CoinID="-1" Name="Piece of Awaken-Life (Armor)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950007" CoinID="-1" Name="Piece of Awaken-Life (Gloves)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950008" CoinID="-1" Name="Piece of Awaken-Life (Pants)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950009" CoinID="-1" Name="Piece of Awaken-Life (Boots)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950010" CoinID="-1" Name="Piece of Awaken-Harmony (Helmet)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950011" CoinID="-1" Name="Piece of Awaken-Harmony (Armor)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950012" CoinID="-1" Name="Piece of Awaken-Harmony (Gloves)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950013" CoinID="-1" Name="Piece of Awaken-Harmony (Pants)" BaoDianID="619" />
+  <GoodsObtain GoodsID="950014" CoinID="-1" Name="Piece of Awaken-Harmony (Boots)" BaoDianID="619" />
+  <GoodsObtain GoodsID="951000" CoinID="-1" Name="Piece of Awaken-Blade (Weapon)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951001" CoinID="-1" Name="Piece of Awaken-Blade (Necklace)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951002" CoinID="-1" Name="Piece of Awaken-Blade (Left Ring)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951003" CoinID="-1" Name="Piece of Awaken-Blade (Right Ring)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951004" CoinID="-1" Name="Piece of Awaken-Explosion (Weapon)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951005" CoinID="-1" Name="Piece of Awaken-Explosion (Necklace)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951006" CoinID="-1" Name="Piece of Awaken-Explosion (Left Ring)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951007" CoinID="-1" Name="Piece of Awaken-Explosion (Right Ring)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951008" CoinID="-1" Name="Piece of Awaken-Stinger (Weapon)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951009" CoinID="-1" Name="Piece of Awaken-Stinger (Necklace)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951010" CoinID="-1" Name="Piece of Awaken-Stinger (Left Ring)" BaoDianID="400" />
+  <GoodsObtain GoodsID="951011" CoinID="-1" Name="Piece of Awaken-Stinger (Right Ring)" BaoDianID="400" />
+  <GoodsObtain GoodsID="2037" CoinID="-1" Name="เติมคริสตัล" ObtainSwitch="1" BaoDianID="631" />
+<GoodsObtain GoodsID="-1" CoinID="0" Name="[Zen/Bound Zen]" BaoDianID="602,301,501,300" />
+  <GoodsObtain GoodsID="-2" CoinID="1" Name="[Gem]" BaoDianID="405,101,105" />
+  <GoodsObtain GoodsID="-3" CoinID="2" Name="[Diamond]" BaoDianID="601" />
+  <GoodsObtain GoodsID="-4" CoinID="3" Name="[Condor Feather]" BaoDianID="602,504,406" />
+  <GoodsObtain GoodsID="-5" CoinID="4" Name="[Condor Flame]" BaoDianID="602,504,406" />
+  <GoodsObtain GoodsID="-6" CoinID="5" Name="[Jewel of Blessing]" BaoDianID="407,300,406,403" />
+  <GoodsObtain GoodsID="-7" CoinID="6" Name="[Jewel of Soul]" BaoDianID="407,500,406,403" />
+  <GoodsObtain GoodsID="-8" CoinID="7" Name="[Jewel of Chaos]" BaoDianID="407,500,406,403" />
+  <GoodsObtain GoodsID="-9" CoinID="8" Name="[Jewel of Life]" BaoDianID="500,406,403" />
+  <GoodsObtain GoodsID="-10" CoinID="9" Name="[Jewel of Creation]" BaoDianID="403" />
+  <GoodsObtain GoodsID="-11" CoinID="10" Name="[Jewel of Guardian]" BaoDianID="407" />
+  <GoodsObtain GoodsID="-12" CoinID="11" Name="[Seed Jewel]" BaoDianID="403,406" />
+  <GoodsObtain GoodsID="-14" CoinID="13" Name="[Epic Chest Point]" BaoDianID="400" />
+  <GoodsObtain GoodsID="-15" CoinID="14" Name="" BaoDianID="603,604" />
+  <GoodsObtain GoodsID="-16" CoinID="15" Name="" BaoDianID="610,604" />
+  <GoodsObtain GoodsID="-17" CoinID="16" Name="[Transcendence Point]" BaoDianID="602,500,405" />
+  <GoodsObtain GoodsID="-18" CoinID="17" Name="[Superior Achievement Badge]" BaoDianID="602" />
+  <GoodsObtain GoodsID="-19" CoinID="18" Name="[Jewel of Transcendence]" BaoDianID="602" />
+  <GoodsObtain GoodsID="-20" CoinID="19" Name="[Piece of Ancient Equipment]" BaoDianID="620" />
+  <GoodsObtain GoodsID="-21" CoinID="20" Name="" BaoDianID="606" />
+  <GoodsObtain GoodsID="-22" CoinID="21" Name="[Superior Fame Badge]" BaoDianID="602" />
+  <GoodsObtain GoodsID="-23" CoinID="22" Name="[Guardian Holy Water]" BaoDianID="100" />
+  <GoodsObtain GoodsID="-24" CoinID="23" Name="[Magic Book]" BaoDianID="607" />
+  <GoodsObtain GoodsID="-25" CoinID="24" Name="[Magic Crystal]" BaoDianID="607" />
+  <GoodsObtain GoodsID="-26" CoinID="25" Name="[Magic Broom]" BaoDianID="607" />
+  <GoodsObtain GoodsID="-27" CoinID="26" Name="[Fragment Part]" BaoDianID="609,611" />
+  <GoodsObtain GoodsID="-28" CoinID="27" Name="[Soul Dust]" BaoDianID="611" />
+  <GoodsObtain GoodsID="-29" CoinID="28" Name="[Wolf Dust]" BaoDianID="612" />
+  <GoodsObtain GoodsID="-30" CoinID="29" Name="[Piece of Primordial Equipment]" BaoDianID="613" />
+  <GoodsObtain GoodsID="-31" CoinID="30" Name="[Sapphire]" BaoDianID="614,615,616" />
+  <GoodsObtain GoodsID="-32" CoinID="31" Name="[Amethyst]" BaoDianID="614,615,616" />
+  <GoodsObtain GoodsID="-33" CoinID="32" Name="[Hallow Essence]" BaoDianID="617" />
+  <GoodsObtain GoodsID="-34" CoinID="33" Name="[Emblem Light]" BaoDianID="615,604" />
+  <GoodsObtain GoodsID="-35" CoinID="34" Name="[Emblem Guardian]" BaoDianID="615,604" />
+  <GoodsObtain GoodsID="-36" CoinID="35" Name="[Hall of Rune]" BaoDianID="618" />
+  <GoodsObtain GoodsID="-37" CoinID="36" Name="[Piece of Awaken]" BaoDianID="619" />
+  <GoodsObtain GoodsID="-38" CoinID="37" Name="[Mount]" BaoDianID="629,628" />
+  <GoodsObtain GoodsID="-39" CoinID="38" Name="กรุณาไปยังร้านค้ากองกำลังGreeneryCityรับการแลกเปลี่ยน" ObtainSwitch="1" BaoDianID="" />
+</Config>

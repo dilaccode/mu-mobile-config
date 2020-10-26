@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JiRiLv ID="1" NeedFile="JieRiChongZhiQiangGou.xml" JieRiName="超级直购" JiRiLv="1" JieRiFile="JieRiChongZhiQiangGou.xml" />
+  <JiRiLv ID="9" NeedFile="JieRiDengLu.xml" JieRiName="连续登录" JiRiLv="1" JieRiFile="JieRiDengLu.xml" />
+  <JiRiLv ID="11" NeedFile="JieRiBaoXiang.xml" JieRiName="收集兑换" JiRiLv="1" JieRiFile="JieRiBaoXiang.xml" />
+  <JiRiLv ID="17" NeedFile="JieRiDayChongZhi.xml" JieRiName="每日充值" JiRiLv="1" JieRiFile="JieRiDayChongZhi.xml" />
+  <JiRiLv ID="19" NeedFile="JieRiLeiJi.xml" JieRiName="累计充值" JiRiLv="1" JieRiFile="JieRiLeiJi.xml" />
+  <JiRiLv ID="21" NeedFile="JieRiLeiJiXiaoFei.xml" JieRiName="累计消费" JiRiLv="1" JieRiFile="JieRiLeiJiXiaoFei.xml" />
+  <JiRiLv ID="23" NeedFile="ChongZhiDuiHuan.xml" JieRiName="充值兑换" JiRiLv="1" JieRiFile="ChongZhiDuiHuan.xml" />
+  <JiRiLv ID="25" NeedFile="JieRiLianXu.xml" JieRiName="连续充值" JiRiLv="1" JieRiFile="JieRiLianXu.xml" />
+  <JiRiLv ID="27" NeedFile="JieRiChongZhiKing.xml" JieRiName="充值之王" JiRiLv="1" JieRiFile="JieRiChongZhiKing.xml" />
+  <JiRiLv ID="31" NeedFile="PingTaiChongZhiKing.xml" JieRiName="平台充值王" JiRiLv="1" JieRiFile="PingTaiChongZhiKing.xml" />
+  <JiRiLv ID="35" NeedFile="JieRiBaoXiang.xml" JieRiName="积分兑换" JiRiLv="1" JieRiFile="JieRiBaoXiang.xml" />
+  <JiRiLv ID="37" NeedFile="JieRiZengSong.xml" JieRiName="活动赠送" JiRiLv="1" JieRiFile="JieRiZengSong.xml" />
+  <JiRiLv ID="39" NeedFile="JieRiShouQu.xml" JieRiName="活动收取" JiRiLv="1" JieRiFile="JieRiShouQu.xml" />
+  <JiRiLv ID="41" NeedFile="JieRiZengSongKing.xml" JieRiName="赠送之王" JiRiLv="1" JieRiFile="JieRiZengSongKing.xml" />
+  <JiRiLv ID="55" NeedFile="QiangHuaFanLi.xml" JieRiName="强化返利" JiRiLv="1" JieRiFile="QiangHuaFanLi.xml" />
+  <JiRiLv ID="61" NeedFile="VIPFanLi.xml" JieRiName="VIP返利" JiRiLv="1" JieRiFile="VIPFanLi.xml" />
+  <JiRiLv ID="69" NeedFile="JieRiBOSS.xml" JieRiName="BOSS来袭" JiRiLv="1" JieRiFile="JieRiBOSS.xml" />
+  <JiRiLv ID="71" NeedFile="JieRiDuoBei.xml" JieRiName="双倍来袭" JiRiLv="1" JieRiFile="JieRiDuoBei.xml" />
+  <JiRiLv ID="73" NeedFile="JieRiFuLi.xml" JieRiName="福利来袭" JiRiLv="1" JieRiFile="JieRiFuLi.xml" />
+</Config>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="66" FromDate="2018-12-19 00:00:00" ToDate="2018-12-25 23:59:59" AwardStartDate="2018-12-19 00:00:00" AwardEndDate="2018-12-25 23:59:59" />
+  <GiftList Description="At the time of the event, it will open the prize function in addition to the regular prize！">
+    <!-- 精灵狂欢 -->
+    <JieRiDuoBei ID="1" Name="Elf Carnival" TypeID="1" Depict="Hunt Pet Event" Button="1" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1430" />
+    <!--魂石辅助功能Button控制开启，Function控制功能，格式：功能,货币；功能1额外获得魂石精华、功能2减少消耗、功能3提高成功率、功能4锁定不变色，货币：魔晶、星魂、成就、声望、钻石-->
+    <JieRiDuoBei ID="2" Name="Soul Stone Auxiliary" TypeID="2" Depict="Hunt Soul Stone" Button="1" Function="3,1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1420" />
+    <!-- 祈福狂欢 -->
+    <JieRiDuoBei ID="3" Name="Blessing Carnival" TypeID="3" Depict="x2 Points Uppon Hunting Item in Epic Chest" Button="1" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="400" />
+    <!-- 强化+20开放 -->
+    <JieRiDuoBei ID="4" Name="Upgrade+20" TypeID="4" Depict="You Can Upgrade items to +20" Button="1" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="200" />
+    <!-- 符文狂欢 -->
+    <JieRiDuoBei ID="5" Name="Greetings" TypeID="5" Depict="ตราสุ่มช่วยได้รับรื่นเริง" Button="0" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1501" />
+    <!-- N折培养 -->
+    <!-- <JieRiDuoBei ID="6" Name="N折培养" TypeID="6" Depict="使用钻石培养打折" Button="0" Function="0.3|0.1" AwardStartDate="00:00:00" AwardEndDate="23:59:59" Link="210" />
+-->
+  </GiftList>
+</Config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CoupleDuanWeiType TypeID="1" Name="พบกันครั้งแรก" />
+  <CoupleDuanWeiType TypeID="2" Name="คุ้นเคย" />
+  <CoupleDuanWeiType TypeID="3" Name="รู้จัก" />
+  <CoupleDuanWeiType TypeID="4" Name="ตกหลุมรัก" />
+  <CoupleDuanWeiType TypeID="5" Name="มีความรัก" />
+  <CoupleDuanWeiType TypeID="6" Name="สัญญาณของความรัก" />
+  <CoupleDuanWeiType TypeID="7" Name="อยู่ด้วยกัน" />
+</Config>

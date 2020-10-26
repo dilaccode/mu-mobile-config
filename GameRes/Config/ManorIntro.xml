@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ManorIntro ID="1" Name="1" Intro="{17e43e} You {dac7ae} have been conquered by {ff0000} {0}{dac7ae}." />
+  <ManorIntro ID="2" Name="2" Intro="{ff0000} {0} {dac7ae} wants to conquer {17e43e} you {dac7ae}, stay strong!  " />
+  <ManorIntro ID="3" Name="3" Intro="{17e43e} You {dac7ae} have to clean the toilet. Found {17e43e} {0} {dac7ae}!" />
+  <ManorIntro ID="4" Name="4" Intro="{17e43e} You {dac7ae} have to warm the blanket, found {17e43e} {0} {dac7ae}!" />
+  <ManorIntro ID="5" Name="5" Intro="{17e43e} You {dac7ae} have to pick up the soap. Found {17e43e} {0} {dac7ae}!" />
+  <ManorIntro ID="6" Name="6" Intro="{17e43e} You {dac7ae} have been asked to clean the toilet, the toilet stinks!" />
+  <ManorIntro ID="7" Name="7" Intro="{17e43e} You {dac7ae} have been asked to warm the blanket, found stinky socks!" />
+  <ManorIntro ID="8" Name="8" Intro="{17e43e} You {dac7ae} has been asked to pick up the soap and slipped!" />
+  <ManorIntro ID="9" Name="9" Intro="{17e43e} {0} {dac7ae} wants to rescue {17e43e} you {dac7ae} , but failed." />
+  <ManorIntro ID="10" Name="10" Intro="{17e43e} {0} {dac7ae} rescued {17e43e} you {dac7ae}." />
+  <ManorIntro ID="11" Name="11" Intro="{17e43e} You {dac7ae} have rebelled against {17e43e} your {dac7ae} master!" />
+  <ManorIntro ID="12" Name="12" Intro="{17e43e} Your {dac7ae} master has repressed {17e43e} your {dac7ae} rebel." />
+  <ManorIntro ID="13" Name="13" Intro="{17e43e} You {dac7ae} have not yet conquered {ff0000} {0} {dac7ae}." />
+  <ManorIntro ID="14" Name="14" Intro="{17e43e} You {dac7ae} have successfully conquered {ff0000} {0} {dac7ae}!" />
+  <ManorIntro ID="15" Name="15" Intro="{17e43e} You {dac7ae} sent {17e43e} {0} {dac7ae} to clean up the toilet, he found {17e43e} {1} {dac7ae}!" />
+  <ManorIntro ID="16" Name="16" Intro="{17e43e} You {dac7ae} sent {17e43e} {0} {dac7ae} to warm the blanket, he found {17e43e} {1} {dac7ae}!" />
+  <ManorIntro ID="17" Name="17" Intro="{17e43e} You {dac7ae} sent {17e43e} {0} {dac7ae} to pick up the soap, he found {17e43e} {1} {dac7ae}!" />
+  <ManorIntro ID="18" Name="18" Intro="{17e43e} You {dac7ae} have repressed {ff0000} {0} {dac7ae} is rebel!" />
+  <ManorIntro ID="19" Name="19" Intro="{ff0000} {0} {dac7ae} has rebelled against {17e43e} your {dac7ae} rule!" />
+  <ManorIntro ID="20" Name="20" Intro="{ff0000} {0} {dac7ae} snatch {17e43e} your {dac7ae} slave {ff0000} {1} {dac7ae}, but {17e43e} failed {dac7ae}!" />
+  <ManorIntro ID="21" Name="21" Intro="{ff0000} {0} {dac7ae} snatched {17e43e} your {dac7ae} slave {ff0000} {1} {dac7ae}!" />
+  <ManorIntro ID="22" Name="22" Intro="{17e43e} You {dac7ae} want to rescue {17e43e} {0} {dac7ae}, but failed." />
+  <ManorIntro ID="23" Name="23" Intro="{17e43e} You {dac7ae} rescued {17e43e} {0} {dac7ae}!" />
+  <ManorIntro ID="24" Name="24" Intro="{ff0000} {0} {dac7ae} has rescued {17e43e} your {dac7ae} slave {ff0000} {1} {dac7ae}!" />
+  <ManorIntro ID="25" Name="25" Intro="{ff0000} {0} {dac7ae} {17e43e} your {dac7ae} slave {ff0000} {1} {dac7ae}, but {17e43e} failed {dac7ae}!" />
+</Config>

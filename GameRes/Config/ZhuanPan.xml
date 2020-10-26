@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ZhuanPan ID="1" Name="" GoodsID="1035067,1,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="2" Name="" GoodsID="1033390,1,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="3" Name="" GoodsID="5251,20,1,0,0,0,0" AwardLevel="1" AwardLabel="1" GongGao="0" />
+  <ZhuanPan ID="4" Name="" GoodsID="5271,1,0,0,0,0,0" AwardLevel="1" AwardLabel="0" GongGao="0" />
+  <ZhuanPan ID="5" Name="" GoodsID="5223,1,1,0,0,0,0" AwardLevel="1" AwardLabel="1" GongGao="0" />
+  <ZhuanPan ID="6" Name="" GoodsID="2005,1,0,0,0,0,0" AwardLevel="1" AwardLabel="2" GongGao="0" />
+  <ZhuanPan ID="7" Name="" GoodsID="2103,10,0,0,0,0,0" AwardLevel="1" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="8" Name="" GoodsID="2001,5,0,0,0,0,0" AwardLevel="1" AwardLabel="1" GongGao="0" />
+  <ZhuanPan ID="9" Name="" GoodsID="2002,1,0,0,0,0,0" AwardLevel="1" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="10" Name="" GoodsID="2000,1,1,0,0,0,0" AwardLevel="1" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="11" Name="" GoodsID="2033,5,0,0,0,0,0" AwardLevel="1" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="12" Name="" GoodsID="5171,5,1,0,0,0,0" AwardLevel="1" AwardLabel="0" GongGao="0" />
+  <ZhuanPan ID="13" Name="" GoodsID="5203,10,0,0,0,0,0" AwardLevel="1" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="14" Name="" GoodsID="63130,1,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="0" />
+  <ZhuanPan ID="15" Name="" GoodsID="2034,5,1,0,0,0,0" AwardLevel="1" AwardLabel="0" GongGao="0" />
+  <ZhuanPan ID="16" Name="" GoodsID="7050,20,0,0,0,0,0" AwardLevel="1" AwardLabel="1" GongGao="0" />
+</Config>

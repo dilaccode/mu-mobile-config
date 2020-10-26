@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}魔神秘宝系统说明" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1、{00ff33}魔神之角{dac7ae}、{00ff33}魔神之羽{dac7ae}、{00ff33}魔神之眼{dac7ae}升星消耗的材料不同，分别消耗{ffcc19}【魔神之角】{dac7ae}、{ffcc19}【魔神之羽】{dac7ae}、{ffcc19}【魔神之眼】{dac7ae}，升星材料的消耗数量随星级提升而逐渐增加" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2、{00ff33}魔神之角{dac7ae}、{00ff33}魔神之羽{dac7ae}、{00ff33}魔神之眼{dac7ae}升阶均消耗{ffcc19}【魔神心脏】{dac7ae}，升阶材料的消耗数量随阶位提升而逐渐增加" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3、{00ff33}魔神之角{dac7ae}、{00ff33}魔神之羽{dac7ae}、{00ff33}魔神之眼{dac7ae}的升星、升阶操作会提升角色不同的重生属性" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4、{ffcc19}【魔神之角】{dac7ae}、{ffcc19}【魔神之羽】{dac7ae}、{ffcc19}【魔神之眼】{dac7ae}、{ffcc19}【魔神心脏】{dac7ae}可以在战队天梯荣耀商店进行兑换" Bold="0" />
+</Config>

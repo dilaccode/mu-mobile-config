@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="25" />
+  <GiftList Title="Double" Description="Battlefield rewards and field EXP is doubled for 5 days after the server merge.">
+  <Award ActivitiesIDs="3|4" Override="2" SpecialTimeID="3"/>
+  </GiftList>
+</Config>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ExtPropThreshold ExtPropID1="24" ExtPropName1="ดูดความเสียหาย" ExtPropID2="26" ExtPropName2="เพิ่มความเสียหาย" Min="0" Max="0.9" />
+</Config>

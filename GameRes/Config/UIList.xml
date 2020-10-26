@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <UIList ID="100" Name="กิจกรรม-ดันเจี้ยนประจำวัน-ดันเจี้ยนEXP" />
+  <UIList ID="102" Name="สมาธิ" />
+  <UIList ID="104" Name="ตัวละคร-จัดอันดับ" />
+  <UIList ID="105" Name="กิจกรรม-กิจกรรมประจำวัน-ราชาPK" />
+  <UIList ID="200" Name="ตัวละคร-เตาหลอม-ตีบวก" />
+  <UIList ID="201" Name="ตัวละคร-เตาหลอม-เพิ่ม" />
+  <UIList ID="202" Name="ตัวละคร-เตาหลอม-คลาส" />
+  <UIList ID="203" Name="ตัวละคร-สังเคราะห์-ผลไม้" />
+  <UIList ID="204" Name="สวัสดิการ-ความสำเร็จ" />
+  <UIList ID="205" Name="อารีน่า-ยศ" />
+  <UIList ID="206" Name="พันธมิตร-สร้างพันธมิตร" />
+  <UIList ID="207" Name="อารีน่า" />
+  <UIList ID="208" Name="พันธมิตร-สงครามRoland " />
+  <UIList ID="209" Name="พันธมิตร-เปิดหน้าแดนศักดิ์สิทธิ์" />
+  <UIList ID="210" Name="ตัวละคร-เตาหลอม-ล้างหลอม" />
+  <UIList ID="211" Name="ตัวละคร-สังเคราะห์-ขนนกล็อค" />
+  <UIList ID="212" Name="ดินแดนการต่อสู้" />
+  <UIList ID="213" Name="กิจกรรมข้ามเซิร์ฟ" />
+  <UIList ID="214" Name="Phantom monastery(เพิ่มใหม่)" />
+  <UIList ID="215" Name="Brave battlefield(เพิ่มใหม่)" />
+  <UIList ID="216" Name="สนามรบราชา(เพิ่มใหม่)" />
+  <UIList ID="217" Name="อารีน่าคู่รัก(เพิ่มใหม่)" />
+  <UIList ID="260" Name="ตัวละคร-สังเคราะห์-ตั๋ว" />
+  <UIList ID="290" Name="อัลบั้ม" />
+  <UIList ID="300" Name="กิจกรรม-ดันเจี้ยนเนื้อเรื่อง" />
+  <UIList ID="301" Name="กิจกรรม-กิจกรรมประจำวัน-Scarlet castle" />
+  <UIList ID="302" Name="กิจกรรม-กิจกรรมประจำวัน-Devil Square" />
+  <UIList ID="303" Name="ร้านค้า-ประเภทการใช้" />
+  <UIList ID="304" Name="เรียกคืนอุปกรณ์" />
+  <UIList ID="305" Name="แลกMagic crystal" />
+  <UIList ID="306" Name="เรียกคืนภูต" />
+  <UIList ID="310" Name="ทำอาวุธเทพอีกครั้ง" />
+  <UIList ID="340" Name="รูปปั้นคุ้มกัน" />
+  <UIList ID="341" Name="วิญญาณรวมชุดเทพ" />
+  <UIList ID="350" Name="ตำราเมอร์ลิน" />
+  <UIList ID="360" Name="แข่งขันบันไดสวรรค์" />
+  <UIList ID="370" Name="ร้านค้าเกียรติยศ" />
+  <UIList ID="380" Name="ระบบของศักดิ์สิทธิ์" />
+  <UIList ID="390" Name="ร้านค้าเกียรติยศ" />
+  <UIList ID="400" Name="อวยพร" />
+  <UIList ID="403" Name="กิจกรรม-BOSSโลก" />
+  <UIList ID="404" Name="ตัวละคร-สังเคราะห์-ปีก" />
+  <UIList ID="406" Name="อวยพร-แลกคะแนน" />
+  <UIList ID="407" Name="ดันเจี้ยนกลุ่ม" />
+  <UIList ID="408" Name="Demons tower" />
+  <UIList ID="409" Name="ร้านค้าผลงานรบ" />
+  <UIList ID="601" Name="หน้าต่างเติมเงิน" />
+  <UIList ID="602" Name="ร้านค้า-ประเภทการใช้" />
+  <UIList ID="603" Name="กิจกรรม-ดันเจี้ยนประจำวัน-Gold Dungeon" />
+  <UIList ID="700" Name="เปิดหน้าต่างสกิล" />
+  <UIList ID="701" Name="เปิดหน้าต่างปีก" />
+  <UIList ID="702" Name="เปิดหน้าต่างวิญญาณดาว" />
+  <UIList ID="703" Name="เปิดหน้าต่างกระเป๋า" />
+  <UIList ID="800" Name="เปิดหน้าต่างViP" />
+  <UIList ID="801" Name="เปิดหน้าต่างความสำเร็จ" />
+  <UIList ID="1000" Name="Ancient battlefield" />
+  <UIList ID="1001" Name="สงครามค่าย" />
+  <UIList ID="1002" Name="กิจกรรม-กิจกรรมประจำวัน-วังเทพสวรรค์" />
+  <UIList ID="1004" Name="ภารกิจประจำวัน" />
+  <UIList ID="1100" Name="หน้าต่างเปิดคลาส" />
+  <UIList ID="1200" Name="ภารกิจปราบปราม" />
+  <UIList ID="1300" Name="Crystal dreamland" />
+  <UIList ID="1310" Name="รูปปั้นเคารพ" />
+  <UIList ID="1320" Name="แลกปลี่ยน" />
+  <UIList ID="1330" Name="เลเวลภูต" />
+  <UIList ID="1340" Name="หัวใจแห่งธาตุ" />
+  <UIList ID="1350" Name="ระบบปีก" />
+  <UIList ID="1351" Name="ระบบจิต" />
+  <UIList ID="1352" Name="ระบบวิญญาณ" />
+  <UIList ID="1360" Name="ระบบความสำเร็จ" />
+  <UIList ID="1370" Name="กิจกรรมข้ามเซิร์ฟ" />
+  <UIList ID="1400" Name="ดันเจี้ยนข้ามเซิร์ฟ" />
+  <UIList ID="1410" Name="ป้อมวิญญาณหมาป่า" />
+  <UIList ID="1420" Name="หินวิญญาณ" />
+  <UIList ID="1430" Name="จับภูต" />
+  <UIList ID="1440" Name="ตัวละคร-สังเคราะห์-ชิ้นส่วนอาวุธเทพ" />
+  <UIList ID="1450" Name="พันธมิตร" />
+  <UIList ID="1460" Name="Temple of alliance" />
+  <UIList ID="1470" Name="สกิลภูต" />
+  <UIList ID="1480" Name="ตู้เสื้อผ้า" />
+  <UIList ID="1490" Name="ไพ่ทาโรต์" />
+  <UIList ID="1491" Name="เครื่องประดับ" />
+  <UIList ID="1492" Name="แสดงหน้าต่างสร้างอาชีพนักอัญเชิญ" />
+  <UIList ID="1493" Name="Treasure Secrets" />
+  <UIList ID="1494" Name="แดนหลอมปีศาจ" />
+  <UIList ID="1495" Name="ระบบอาวุธเทพ" />
+  <UIList ID="1496" Name="เพิ่มลิงค์ข้ามเก็บเกี่ยวกองทัพ" />
+  <UIList ID="1497" Name="ลิงค์ป้อมภูต" />
+  <UIList ID="1498" Name="หน้าตราป้องร่าง" />
+  <UIList ID="1499" Name="วิหารเกียรติยศการแข่งขันกลุ่มพันธมิตร" />
+  <UIList ID="1500" Name="ภูตมิราเคิล" />
+  <UIList ID="1501" Name="จับรับยันต์เทพรับรู้" />
+  <UIList ID="1505" Name="แย่งชิงข้ามเซิร์ฟ-รายชื่อ" />
+  <UIList ID="1506" Name="แย่งชิงข้ามเซิร์ฟ-การประมูล" />
+  <UIList ID="1507" Name="หน้าเครื่องประดับพิเศษทั่วไป" />
+  <UIList ID="1508" Name="กติกาทั่วไป" />
+  <UIList ID="1509" Name="ปล้นข้ามเซิร์ฟ-หน้าหลัก" />
+  <UIList ID="1512" Name="ปล้นข้ามเซิร์ฟ-ร้านค้าฟื้นสติ" />
+  <UIList ID="1513" Name="หน้าต่างซื้อจุดเข้าร่วมแย่งชิงข้ามเซิร์ฟ" />
+  <UIList ID="1514" Name="หน้าเลือกกู้คืนอุปกรณ์" />
+  <UIList ID="1515" Name="หน้าสัตว์ขี่-หน้าหลัก" />
+  <UIList ID="1516" Name="หน้าสัตว์ขี่-หน้าอุปกรณ์" />
+  <UIList ID="1517" Name="หน้าสัตว์ขี่-หน้าอัลบั้ม" />
+  <UIList ID="1518" Name="พันธมิตรหน้าหลัก" />
+  <UIList ID="1519" Name="หน้าเพื่อน" />
+  <UIList ID="1520" Name="วาสนาสัตว์ขี่" />
+  <UIList ID="2002" Name="เหรียญความสำเร็จ" />
+  <UIList ID="2003" Name="เหรียญยศ" />
+  <UIList ID="1538" Name="ชุบอุปกรณ์เกิดใหม่" />
+</Config>

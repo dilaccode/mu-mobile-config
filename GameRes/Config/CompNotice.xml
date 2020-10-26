@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CompNotice ID="1" Intro="Guard Finds #1 Latent Force #0" Type="1" Goal="1" CDTime="30" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="2" Intro="#1 is stealing the crystal forces #0" Type="2" Goal="1" CDTime="10" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="3" Intro="#1 killed in the map of the forces themselves #0" Type="3" Goal="5" CDTime="10" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="4" Intro="#1 kill the big leaders #2 everyone hurries to help #0" Type="4" Goal="1" CDTime="20" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="5" Intro="#1 BOSS attack forces this division #0" Type="5" Goal="1" CDTime="10" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="6" Intro="#1 kill the big leaders of enemy forces #2" Type="6" Goal="1" CDTime="20" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="7" Intro="#1 BOSS forces killed #0" Type="7" Goal="1" CDTime="1" Range="1" CompMapOpen="0|1|1" OriginalMapOpen="1|1" />
+</Config>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Star Level="2" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,1" NeedZuanShi="20" NeedJinBi="20000" />
+  <Star Level="3" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,2" NeedZuanShi="40" NeedJinBi="40000" />
+  <Star Level="4" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,3" NeedZuanShi="60" NeedJinBi="60000" />
+  <Star Level="5" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,4" NeedZuanShi="80" NeedJinBi="60000" />
+  <Star Level="6" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,6" NeedZuanShi="120" NeedJinBi="80000" />
+  <Star Level="7" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,10" NeedZuanShi="200" NeedJinBi="80000" />
+  <Star Level="8" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,15" NeedZuanShi="300" NeedJinBi="100000" />
+  <Star Level="9" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,20" NeedZuanShi="400" NeedJinBi="100000" />
+  <Star Level="10" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,20" NeedZuanShi="400" NeedJinBi="100000" />
+  <Star Level="11" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,20" NeedZuanShi="400" NeedJinBi="100000" />
+  <Star Level="12" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,20" NeedZuanShi="400" NeedJinBi="100000" />
+  <Star Level="13" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,50" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="14" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,50" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="15" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,50" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="16" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,60" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="17" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,60" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="18" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,70" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="19" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,70" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="20" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,70" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="21" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,80" NeedZuanShi="800" NeedJinBi="100000" />
+  <Star Level="22" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,80" NeedZuanShi="800" NeedJinBi="100000" />
+  <Star Level="23" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,80" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="24" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,80" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="25" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,80" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="26" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,90" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="27" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,90" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="28" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,90" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="29" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,90" NeedZuanShi="800" NeedJinBi="1000000" />
+  <Star Level="30" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,100" NeedZuanShi="800" NeedJinBi="1000000" />
+</Config>

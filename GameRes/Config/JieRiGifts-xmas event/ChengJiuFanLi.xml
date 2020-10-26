@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="56" FromDate="2018-07-23 00:00:00" ToDate="2018-07-29 23:59:59" AwardStartDate="2018-07-23 00:00:00" AwardEndDate="2018-07-29 23:59:59" />
+  <GiftList Description="ในเวลากิจกรรม เมื่อเลเวลฉายาถึงขั้นที่กำหนดก็รับรางวัลล้ำค่าไปเลย！">
+    <Award ID="1" ChengJiuLevel="7" GoodsOne="50017,10,1,0,0,0,0|5203,5,1,0,0,0,0|5031,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" ChengJiuLevel="8" GoodsOne="50017,15,1,0,0,0,0|5203,6,1,0,0,0,0|5031,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" ChengJiuLevel="9" GoodsOne="50017,20,1,0,0,0,0|5203,8,1,0,0,0,0|5031,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" ChengJiuLevel="10" GoodsOne="50017,25,1,0,0,0,0|5203,10,1,0,0,0,0|5031,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" ChengJiuLevel="11" GoodsOne="50017,30,1,0,0,0,0|5203,12,1,0,0,0,0|5031,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" ChengJiuLevel="12" GoodsOne="50017,35,1,0,0,0,0|5203,14,1,0,0,0,0|5031,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="7" ChengJiuLevel="13" GoodsOne="50017,40,1,0,0,0,0|5203,16,1,0,0,0,0|5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="8" ChengJiuLevel="14" GoodsOne="50017,50,1,0,0,0,0|5203,20,1,0,0,0,0|5031,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

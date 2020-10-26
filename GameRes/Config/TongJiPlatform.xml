@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ChengJiu>
+   <!-- Google  成就 条件-->
+    <Tab TJID="CgkIovLPg70REAIQAQ" ChengJiuID="101"  Description="สำเร็จเพิ่มเพื่อน1คน" 			 ChengJiu="10" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQAg" ChengJiuID="103"  Description="เข้าหรือสร้างพันธมิตรครั้งแรก" ChengJiu="20" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQAw" ChengJiuID="105"  Description="อัพเกรดอุปกรณ์ครั้งแรก"          ChengJiu="30" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQBA" ChengJiuID="106"  Description="อุปกรณ์เพิ่มเติมครั้งแรก" 		 ChengJiu="40" TjType="1" />
+    <Tab TJID="CgkIovLPg70REAIQBQ" ChengJiuID="107"  Description="อุปกรณ์ถ่ายทอดครั้งแรก" 		 ChengJiu="50" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQBg" ChengJiuID="202"  Description="Lvตัวละครถึง60" 			ChengJiu="10" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQBw" ChengJiuID="203"  Description="Lvตัวละครถึง80" 			ChengJiu="20" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQCA" ChengJiuID="300"  Description="Lvจุติตัวละครถึงคลาส1" 			ChengJiu="30" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQCQ" ChengJiuID="301"  Description="Lvจุติตัวละครถึงคลาส2" 			ChengJiu="40" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQCg" ChengJiuID="302"  Description="Lvจุติตัวละครถึงคลาส3" 			ChengJiu="50" TjType="1"    />
+	<Tab TJID="CgkIovLPg70REAIQCw" ChengJiuID="400"  Description="จำนวนวันล็อกอินต่อเนื่องของตัวละครถึง2วัน" 			 ChengJiu="10" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQDA" ChengJiuID="401"  Description="จำนวนวันล็อกอินต่อเนื่องของตัวละครถึง3วัน" ChengJiu="20" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQDQ" ChengJiuID="403"  Description="จำนวนวันล็อกอินต่อเนื่องของตัวละครถึง5วัน"          ChengJiu="30" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQDg" ChengJiuID="405"  Description="จำนวนวันล็อกอินต่อเนื่องของตัวละครถึง7วัน" 		 ChengJiu="40" TjType="1" />
+    <Tab TJID="CgkIovLPg70REAIQDw" ChengJiuID="501"  Description="จำนวนวันล็อกอินต่อเนื่องของตัวละครถึง15วัน" 		 ChengJiu="50" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQEA" ChengJiuID="2102"  Description="สำเร็จภารกิจหลักทั้งหมด『Icewind valley』" 			ChengJiu="10" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQEQ" ChengJiuID="2103"  Description="สำเร็จภารกิจหลักทั้งหมด『Underground city』" 			ChengJiu="20" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQEg" ChengJiuID="2104"  Description="สำเร็จภารกิจหลักทั้งหมด『Lost Tower』" 			ChengJiu="30" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQEw" ChengJiuID="2105"  Description="สำเร็จภารกิจหลักทั้งหมด『Atlantis』" 			ChengJiu="40" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQFA" ChengJiuID="2106"  Description="สำเร็จภารกิจหลักทั้งหมด『Desert of Death』" 			ChengJiu="50" TjType="1"    />
+    <Tab TJID="CgkIovLPg70REAIQFQ" ChengJiuID="2000"  Description="สะสมค่าผลงานรบส่วนตัวถึง50แต้ม" 			 ChengJiu="10" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQFg" ChengJiuID="2001"  Description="สะสมค่าผลงานรบส่วนตัวถึง300แต้ม" ChengJiu="20" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQFw" ChengJiuID="2002"  Description="สะสมค่าผลงานรบส่วนตัวถึง1000แต้ม"          ChengJiu="30" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQGA" ChengJiuID="2003"  Description="สะสมค่าผลงานรบส่วนตัวถึง3000แต้ม" 		 ChengJiu="40" TjType="1" />
+    <Tab TJID="CgkIovLPg70REAIQGQ" ChengJiuID="2004"  Description="สะสมค่าผลงานรบส่วนตัวถึง5000แต้ม" 		 ChengJiu="50" TjType="1"  />
+    <Tab TJID="CgkIovLPg70REAIQGg" ChengJiuID="2051"  Description="เลเวลยศตัวละครถึงสิบตรี" 			ChengJiu="10" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQHA" ChengJiuID="2055"  Description="เลเวลยศตัวละครถึงร้อยโท" 			ChengJiu="20" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQHQ" ChengJiuID="2057"  Description="เลเวลยศตัวละครถึงพลโท" 			ChengJiu="30" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQHg" ChengJiuID="2058"  Description="เลเวลยศตัวละครถึงผู้บัญชาการ" 			ChengJiu="40" TjType="1"   />
+    <Tab TJID="CgkIovLPg70REAIQHw" ChengJiuID="2061"  Description="เลเวลยศตัวละครถึงจอมพล" 			ChengJiu="50" TjType="1"    />
+	
+	 <!-- appflyer  广告 -->
+	<Tab TJID="" ChengJiuID="200"  Description="level20" 				ChengJiu="50" TjType="2"  />
+	<Tab TJID="" ChengJiuID="201"  Description="level40" 			ChengJiu="0" TjType="2"   />
+        <Tab TJID="" ChengJiuID="203"  Description="level80" 			ChengJiu="0" TjType="2"    />
+	
+	 <!-- party  广告 -->
+	<Tab TJID="" ChengJiuID="200" Description="level20" 				ChengJiu="50" TjType="3"  />
+	
+	
+  </ChengJiu>
+</Config>

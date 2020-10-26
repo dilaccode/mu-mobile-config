@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="72" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="ในเวลากิจกรรม ในแต่ละวันเมื่อถึงเวลาที่กำหนดทั้งเซิฟเวอร์จะได้รับอั่นเปาเพชรผูกมัด">
+    <!--  ID不能重复 ！！！ -->
+    <RedPacketPeople ID="1" Day="1" Time="12:00" RedPacketSize="30000" Interval="50,100" DurationTime="28800" />
+    <RedPacketPeople ID="2" Day="1" Time="20:00" RedPacketSize="30000" Interval="50,100" DurationTime="14400" />
+    <RedPacketPeople ID="3" Day="2" Time="12:00" RedPacketSize="30000" Interval="50,100" DurationTime="21600" />
+    <RedPacketPeople ID="4" Day="2" Time="18:00" RedPacketSize="30000" Interval="50,100" DurationTime="7200" />
+    <RedPacketPeople ID="5" Day="2" Time="20:00" RedPacketSize="30000" Interval="50,100" DurationTime="7200" />
+    <RedPacketPeople ID="6" Day="3" Time="0:00" RedPacketSize="60000" Interval="50,200" DurationTime="36000" />
+    <RedPacketPeople ID="7" Day="3" Time="10:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="8" Day="3" Time="14:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="9" Day="3" Time="18:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+    <RedPacketPeople ID="10" Day="3" Time="21:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+    <RedPacketPeople ID="11" Day="4" Time="0:00" RedPacketSize="60000" Interval="50,200" DurationTime="36000" />
+    <RedPacketPeople ID="12" Day="4" Time="10:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="13" Day="4" Time="14:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="14" Day="4" Time="18:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+    <RedPacketPeople ID="15" Day="4" Time="21:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+    <RedPacketPeople ID="16" Day="5" Time="0:00" RedPacketSize="60000" Interval="50,200" DurationTime="36000" />
+    <RedPacketPeople ID="17" Day="5" Time="10:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="18" Day="5" Time="14:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="19" Day="5" Time="18:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+    <RedPacketPeople ID="20" Day="5" Time="21:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+    <RedPacketPeople ID="21" Day="6" Time="0:00" RedPacketSize="60000" Interval="50,200" DurationTime="36000" />
+    <RedPacketPeople ID="22" Day="6" Time="10:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="23" Day="6" Time="14:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="24" Day="6" Time="18:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+    <RedPacketPeople ID="25" Day="6" Time="21:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+    <RedPacketPeople ID="26" Day="7" Time="0:00" RedPacketSize="60000" Interval="50,200" DurationTime="36000" />
+    <RedPacketPeople ID="27" Day="7" Time="10:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="28" Day="7" Time="14:00" RedPacketSize="60000" Interval="50,200" DurationTime="14400" />
+    <RedPacketPeople ID="29" Day="7" Time="18:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+    <RedPacketPeople ID="30" Day="7" Time="21:00" RedPacketSize="60000" Interval="50,200" DurationTime="10800" />
+  </GiftList>
+</Config>

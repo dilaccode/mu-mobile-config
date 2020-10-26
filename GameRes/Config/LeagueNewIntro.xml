@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Event rule" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae} 1, Every Monday and Tuesday {17e43e}20:30-21:00{dac7ae}, each season total 8 rounds" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae} 2, Registration is required for Potential Rookie League, registration will end 30 minutes before the round start, for every season, {17e43e} you should register for only once {dac7ae} , able to register during the start or halfway of the season" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae} 3, There is a {17e43e} random battle matching {dac7ae} for Potential Rookie League, the two alliances with almost similar points will have a higher chance to be matched together" Bold="0" />
+  <HelpIntro ID="5" Intro="{fac60d} Ranking rule" Bold="1" />
+  <HelpIntro ID="6" Intro="{dac7ae} 1, For every round, based on the victory or defeat and the battlefield condition,  {17e43e} ranking points will be given out" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae} 2, Based on the {17e43e} ranking points {dac7ae} to decide the ranking" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae} 3, The Top 8 players from the first season’s Potential Rookie League will all be {17e43e} eligible to join the Super Golden League on the next season" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae} 4, The champion and runner up for the other season will be {17e43e} eligible for the Super Golden League on the next season" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae} 5, Able to receive {17e43e} season reward when it ends" Bold="0" />
+</Config>

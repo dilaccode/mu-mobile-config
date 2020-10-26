@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<ChengJiu>
+		<Tab ID="1" Name="Sparkling appearance" />
+		<Tab ID="2" Name="The road to success " />
+		<Tab ID="3" Name="Login achievement" />
+		<Tab ID="4" Name="Wealth accumulation" />
+		<Tab ID="5" Name="fight a bloody war " />
+		<Tab ID="6" Name="Furnace forging " />
+		<Tab ID="7" Name="Supremacy of the Regal " />
+		<Tab ID="8" Name="Main task" />
+	</ChengJiu>
+</config>

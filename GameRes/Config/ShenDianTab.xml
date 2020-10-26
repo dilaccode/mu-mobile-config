@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShenDianTab>
+  <ShenDian Type="1" Name="ปกป้องกล้าหาญ" />
+  <ShenDian Type="2" Name="ปกป้องมิตรภาพ" />
+  <ShenDian Type="3" Name="ปกป้องความรัก" />
+  <ShenDian Type="4" Name="ปกป้องความรู้" /> 
+  <ShenDian Type="5" Name="ปกป้องซื่อสัตย์" />
+  <ShenDian Type="6" Name="ปกป้องความจริง" />
+  <ShenDian Type="7" Name="ปกป้องความหวัง" />
+  <ShenDian Type="8" Name="ปกป้องความสว่าง" /> 
+</ShenDianTab>

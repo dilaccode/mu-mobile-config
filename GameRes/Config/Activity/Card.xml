@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Card Day="1" BandZuanShiAward="500" GoodsOne="2001,10,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="2" BandZuanShiAward="500" GoodsOne="2030,10,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="3" BandZuanShiAward="500" GoodsOne="2017,10,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="4" BandZuanShiAward="500" GoodsOne="5110,8,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="5" BandZuanShiAward="500" GoodsOne="1033420,1,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="6" BandZuanShiAward="500" GoodsOne="2019,10,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="7" BandZuanShiAward="500" GoodsOne="2001,15,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="8" BandZuanShiAward="500" GoodsOne="2030,15,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="9" BandZuanShiAward="500" GoodsOne="2017,15,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="10" BandZuanShiAward="300" GoodsOne="5110,8,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="11" BandZuanShiAward="300" GoodsOne="5120,6,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="12" BandZuanShiAward="300" GoodsOne="2019,2,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="13" BandZuanShiAward="300" GoodsOne="2001,15,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="14" BandZuanShiAward="300" GoodsOne="2030,15,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="15" BandZuanShiAward="300" GoodsOne="1033330,1,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="16" BandZuanShiAward="300" GoodsOne="5110,8,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="17" BandZuanShiAward="300" GoodsOne="5120,6,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="18" BandZuanShiAward="300" GoodsOne="2019,2,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="19" BandZuanShiAward="500" GoodsOne="2002,15,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="20" BandZuanShiAward="500" GoodsOne="5050,20,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="21" BandZuanShiAward="500" GoodsOne="50161,1,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="22" BandZuanShiAward="550" GoodsOne="5041,2,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="23" BandZuanShiAward="550" GoodsOne="5088,20,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="24" BandZuanShiAward="550" GoodsOne="7004,5,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="25" BandZuanShiAward="600" GoodsOne="2002,8,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="26" BandZuanShiAward="650" GoodsOne="5050,20,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="27" BandZuanShiAward="700" GoodsOne="50161,1,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="28" BandZuanShiAward="750" GoodsOne="7004,10,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="29" BandZuanShiAward="800" GoodsOne="1035063,1,1,0,0,0,0" GoodsTwo="" />
+  <Card Day="30" BandZuanShiAward="1000" GoodsOne="1033270,1,1,0,0,0,0" GoodsTwo="" />
+</Config>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d} Pantheon occupy rule" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Basic status of pantheon is {17e43e}unoccupied{dac7ae}, any side enter the pantheion and {17e43e} occupy the pantheon immediately" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. When 2 sides character in the pantheon, pantheon status will be remain" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. When pantheon remain unoccupied character only, pantheion status {17e43e}will change to that side{dac7ae} immediately" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. When no character in the pantheon, pantheion status {17e43e}will change to {dac7ae} unoccupied status immediately" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. There is not teleport portal to left the pantheon" Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d}Lightning rule" Bold="1" />
+  <HelpIntro ID="8" Intro="{dac7ae}1.  Every 5 second in the pantheon, all characters in the map will receive {ff0000} 1 time damage" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}2. Longer the stay time in pantheon, higher the lightning damage taken{ff0000} in pantheon" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}3. Occupied the pantheon and field of gods flag can get {17e43e}the BUFF of lower the damage taken from lightning" Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}4. Occupied pantheon and field of gods flag can get {17e43e} battlefield point" Bold="0" />
+  <HelpIntro ID="12" Intro="{fac60d} Victory rule" Bold="1" />
+  <HelpIntro ID="13" Intro="{dac7ae}1. When event ended, occupied pantheon side {17e43e}victory" Bold="0" />
+  <HelpIntro ID="14" Intro="{dac7ae}2. When nobody occupied the pantheon, the highest battlefield point side {17e43e}victory" Bold="0" />
+  <HelpIntro ID="15" Intro="{dac7ae}3. Victory side will be base on {17e43e}Kill{dac7ae},{17e43e}occupied pantheon{dac7ae},{17e43e}occupied flags{dac7ae}, to comprehensive assessment {17e43e}MVP" Bold="0" />
+</Config>

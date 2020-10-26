@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Config>
+	<LegionTasks ID="1" Title="King of PK" Describtion="In the activities of the king of PK, survive until the last can be given the nickname. This character’s name is very strong fighting power." BuffID="39" IconCode="SpecialTitle_01.png"/>
+	<LegionTasks ID="2" Title="King of the gods" Describtion="All 32 screenshots are strong. Finally settled the strongest king out. This nickname represents the strength of the peak of the world." BuffID="111" IconCode="SpecialTitle_02.png"/>
+	<LegionTasks ID="3" Title="Holy city" Describtion="To fight the Holy Alliance leader of Lv.10 is a myth of the Holy Land." BuffID="10013" IconCode="SpecialTitle_03.png"/>
+	<LegionTasks ID="4" Title="Sacred highland" Describtion="The sacred elders are one group helping people seek the sacred power of the sacred lands." BuffID="103" IconCode="SpecialTitle_04.png"/>
+	<LegionTasks ID="5" Title="Roland Township" Describtion="The test has been a wave of darkness. Allied leaders won the battle in the town of Roland in the end. This will be the nickname of honor like this." BuffID="10012" IconCode="SpecialTitle_05.png"/>
+	<LegionTasks ID="6" Title="Roland elite" Describtion="They have worked together in the Battle of Roland City to finally win." BuffID="10011" IconCode="SpecialTitle_06.png"/>
+	<LegionTasks ID="7" Title="The boundary of the underground palace." Describtion="Has led the conquering army to the battlefield of Akalin West." BuffID="10010" IconCode="SpecialTitle_07.png"/>
+	<LegionTasks ID="8" Title="Underground" Describtion="The person with this nickname premonition is superior to anyone else at the Akalin underground palace." BuffID="10009" IconCode="SpecialTitle_08.png"/>
+	<LegionTasks ID="9" Title="The border of the desert" Describtion="Has led the conqueror army to the battlefield of Akalin East." BuffID="10008" IconCode="SpecialTitle_09.png"/>
+	<LegionTasks ID="10" Title="Desert" Describtion="Those who have this nickname are better than anyone else in the Akalin Desert." BuffID="10007" IconCode="SpecialTitle_10.png"/>
+	<LegionTasks ID="11" Title="Masters of Gold" Describtion="Preceded by a partner who snatched the King of the Super Gold Championship League. The Emperor stands on the top of the League of Champions League." BuffID="10001" IconCode="SpecialTitle_11.png"/>
+	<LegionTasks ID="12" Title="Gold Class" Describtion="Joint efforts Overcome all obstacles. The honor of the alliance will be the culmination of the courage!" BuffID="10002" IconCode="SpecialTitle_12.png"/>
+	<LegionTasks ID="13" Title="New Star Alliance Leader" Describtion="Led by the alliance, the championship is strong, the competition of new stars. The people who are chosen next generation are eager to fight!" BuffID="10003" IconCode="SpecialTitle_13.png"/>
+	<LegionTasks ID="14" Title="New star" Describtion="Fight bravely, do not be afraid. All fighters are blossoming for the future of the allies!" BuffID="10004" IconCode="SpecialTitle_14.png"/>
+	<LegionTasks ID="15" Title="Savage" Describtion="Weakness, win before losing, cut off, top people only, to have a beautiful view!" BuffID="10020" IconCode="SpecialTitle_15.png"/>
+	<LegionTasks ID="16" Title="Brutal aristocrat" Describtion="Weakness, win before losing, cut off, top people only, to have a beautiful view!" BuffID="10022" IconCode="SpecialTitle_16.png"/>
+	<LegionTasks ID="17" Title="Plunder" Describtion="Dangerous, full-fledged challenge, vicious pitches are fierce!" BuffID="10023" IconCode="SpecialTitle_17.png"/>
+	<LegionTasks ID="18" Title="Daredevil" Describtion="The strongest demon once again is just a hunt for the brave warrior." BuffID="9000" IconCode="SpecialTitle_18.png"/>
+	<LegionTasks ID="19" Title="Daredevil" Describtion="The strongest demon once again is just a hunt for the brave warrior." BuffID="9001" IconCode="SpecialTitle_19.png"/>
+	<LegionTasks ID="20" Title="Daredevil" Describtion="The strongest demon once again is just a hunt for the brave warrior." BuffID="9002" IconCode="SpecialTitle_20.png"/>
+	<LegionTasks ID="21" Title="Boundary Cults Group" Describtion="The rulers of the holy gods, the power of the gods, will lead to the highest point of success!" BuffID="9003" IconCode="SpecialTitle_21.png"/>
+	<LegionTasks ID="22" Title="Field Marshal" Describtion="Field Marshal of the Sacred Congregation, long-lasting Divine Power, bless you, admire your great success!" BuffID="9004" IconCode="SpecialTitle_22.png"/>
+	<LegionTasks ID="23" Title="County Commander, Soldier Groups" Describtion="Commander of the Sacred Congregation, Longtime Divine Power bless you, admire your great success!" BuffID="9005" IconCode="SpecialTitle_23.png"/>
+	<LegionTasks ID="24" Title="Boundary Alliance" Describtion="The ruler of an independent alliance, the king who directs the faith of freedom, must take the alliance to the highest point!" BuffID="9006" IconCode="SpecialTitle_24.png"/>
+	<LegionTasks ID="25" Title="Field Marshal" Describtion="Marshal of the Independent Alliance, the belief of freedom, uncompromising, your path must be said!" BuffID="9007" IconCode="SpecialTitle_25.png"/>
+	<LegionTasks ID="26" Title="Commander, Military District Alliance" Describtion="Commander of the Independent Alliance, Unshakeable Freedom of Trust, Your Path Must Be Spoken!" BuffID="9008" IconCode="SpecialTitle_26.png"/>
+	<LegionTasks ID="27" Title="The Boundary Association" Describtion="Tigers of the Association of Dreams, the price that protects the mysterious dream, must help lead to success!" BuffID="9009" IconCode="SpecialTitle_27.png"/>
+	<LegionTasks ID="28" Title="Marshal’s Association" Describtion="Marshal of the Association of Dreams, sword of dreams, your shadow in the dream of people forever!" BuffID="9010" IconCode="SpecialTitle_28.png"/>
+	<LegionTasks ID="29" Title="Commander County Military Association" Describtion="Commander of the Dream Weaver Association, the sword of dreams, your shadow is in people’s dreams forever!" BuffID="9011" IconCode="SpecialTitle_29.png"/>
+</Config>

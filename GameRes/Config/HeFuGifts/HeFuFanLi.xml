@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="23" />
+  <GiftList Title="Cashback" Description="Offers bonus to players who purchase Diamonds for 5 days after the server merge, and the top 4 users will get a large bonus.">
+  <Award Level="1" FanLi="0.2" MinYuanBao="100000"/>
+  <Award Level="2" FanLi="0.1" MinYuanBao="50000"/>
+  <Award Level="3" FanLi="0.08" MinYuanBao="30000"/>
+  <Award Level="4" FanLi="0.05" MinYuanBao="10000"/>
+  <Award Level="" FanLi="0.03" MinYuanBao=""/>
+  </GiftList>
+</Config>

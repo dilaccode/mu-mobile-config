@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="16" FromDate="2018-11-18 00:00:00" ToDate="2018-11-25 23:59:59" AwardStartDate="2018-11-08 00:00:00" AwardEndDate="2018-11-09 00:00:00" />
+  <GiftList Description="Receive huge rewards for being the top purchaser during the event period.">
+    <Award ID="1" GoodsOne="2100010,1,1,0,0,0,0|63157,2,1,0,0,0,0|201708023,1,1,0,0,0,0|201035008,1,1,0,0,0,0|210702055,1,1,0,0,0,0" GoodsTwo="1005093,1,1,0,0,1,235|1015093,1,1,0,0,1,235|1025593,1,1,0,0,1,235" GoodsThr="" EffectiveTime="" MinYuanBao="20000" />
+    <Award ID="2" GoodsOne="2100030,1,1,0,0,0,0|63157,1,1,0,0,0,0|201708023,1,1,0,0,0,0|1035075,1,1,0,0,0,0|210702074,1,1,0,0,0,0" GoodsTwo="1005093,1,1,0,0,0,235|1015093,1,1,0,0,0,235|1025593,1,1,0,0,0,235" GoodsThr="" EffectiveTime="" MinYuanBao="15000" />
+    <Award ID="3" GoodsOne="1051000,1,1,0,0,0,0|63157,1,1,0,0,0,0|201708016,1,1,0,0,0,0|1035015,1,1,0,0,0,0|210702062,1,1,0,0,0,0" GoodsTwo="1005092,1,1,0,0,1,235|1015092,1,1,0,0,1,235|1025592,1,1,0,0,1,235" GoodsThr="" EffectiveTime="" MinYuanBao="10000" />
+    <Award ID="4" GoodsOne="5352,10,1,0,0,0,0|5271,30,1,0,0,0,0|63156,1,1,0,0,0,0|63086,15,1,0,0,0,0|63100,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="5000" />
+    <Award ID="5" GoodsOne="5352,10,1,0,0,0,0|5271,30,1,0,0,0,0|63156,1,1,0,0,0,0|63086,15,1,0,0,0,0|63100,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="5000" />
+    <Award ID="6" GoodsOne="63021,10,1,0,0,0,0|63089,1,1,0,0,0,0|5122,70,1,0,0,0,0|63086,10,1,0,0,0,0|63100,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="2000" />
+    <Award ID="7" GoodsOne="63021,10,1,0,0,0,0|63089,1,1,0,0,0,0|5122,70,1,0,0,0,0|63086,10,1,0,0,0,0|63100,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="1000" />
+    <Award ID="8" GoodsOne="63021,10,1,0,0,0,0|63089,1,1,0,0,0,0|5122,70,1,0,0,0,0|63086,10,1,0,0,0,0|63100,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="500" />
+    <Award ID="9" GoodsOne="63021,10,1,0,0,0,0|63089,1,1,0,0,0,0|5122,70,1,0,0,0,0|63086,10,1,0,0,0,0|63100,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="500" />
+    <Award ID="10" GoodsOne="63021,10,1,0,0,0,0|63089,1,1,0,0,0,0|5122,70,1,0,0,0,0|63086,10,1,0,0,0,0|63100,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="500" />
+  </GiftList>
+</Config>

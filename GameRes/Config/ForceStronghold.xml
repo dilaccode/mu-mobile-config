@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ForceStronghold ID="1" MapCode="86000" QiZhiID="9810000,9810001,9810002" Name="Whitestonธรรมดา" QiZuoID="89000" QiZuoSite="4060|11470" Point="10" Rate="0.1" />
+  <ForceStronghold ID="2" MapCode="86000" QiZhiID="9810000,9810001,9810002" Name="Whitestonที่ราบ" QiZuoID="89001" QiZuoSite="13290|9650" Point="10" Rate="0.1" />
+  <ForceStronghold ID="3" MapCode="86000" QiZhiID="9810000,9810001,9810002" Name="Whitestonทุนดรา" QiZuoID="89002" QiZuoSite="7320|2090" Point="10" Rate="0.1" />
+  <ForceStronghold ID="4" MapCode="86000" QiZhiID="9810003,9810004,9810005" Name="Whitestonหนองน้ำ" QiZuoID="89003" QiZuoSite="5300|6090" Point="20" Rate="0.15" />
+  <ForceStronghold ID="5" MapCode="86000" QiZhiID="9810003,9810004,9810005" Name="Whitestonที่ราบสูง" QiZuoID="89004" QiZuoSite="7700|11560" Point="20" Rate="0.15" />
+  <ForceStronghold ID="6" MapCode="86000" QiZhiID="9810003,9810004,9810005" Name="Whitestonภูเขา" QiZuoID="89005" QiZuoSite="11750|6460" Point="20" Rate="0.15" />
+  <ForceStronghold ID="7" MapCode="86000" QiZhiID="9810006,9810007,9810008" Name="Whitestonทะเลทราย" QiZuoID="89006" QiZuoSite="7810|7740" Point="30" Rate="0.25" />
+  <ForceStronghold ID="8" MapCode="86001" QiZhiID="9810009,9810010,9810011" Name="DarkFireธรรมดา" QiZuoID="89010" QiZuoSite="4060|11470" Point="10" Rate="0.1" />
+  <ForceStronghold ID="9" MapCode="86001" QiZhiID="9810009,9810010,9810011" Name="DarkFireที่ราบ" QiZuoID="89011" QiZuoSite="13290|9650" Point="10" Rate="0.1" />
+  <ForceStronghold ID="10" MapCode="86001" QiZhiID="9810009,9810010,9810011" Name="DarkFireทุนดรา" QiZuoID="89012" QiZuoSite="7320|2090" Point="10" Rate="0.1" />
+  <ForceStronghold ID="11" MapCode="86001" QiZhiID="9810012,9810013,9810014" Name="DarkFireหนองน้ำ" QiZuoID="89013" QiZuoSite="5300|6090" Point="20" Rate="0.15" />
+  <ForceStronghold ID="12" MapCode="86001" QiZhiID="9810012,9810013,9810014" Name="DarkFireที่ราบสูง" QiZuoID="89014" QiZuoSite="7700|11560" Point="20" Rate="0.15" />
+  <ForceStronghold ID="13" MapCode="86001" QiZhiID="9810012,9810013,9810014" Name="DarkFireภูเขา" QiZuoID="89015" QiZuoSite="11750|6460" Point="20" Rate="0.15" />
+  <ForceStronghold ID="14" MapCode="86001" QiZhiID="9810015,9810016,9810017" Name="DarkFireทะเลทราย" QiZuoID="89016" QiZuoSite="7810|7740" Point="30" Rate="0.25" />
+  <ForceStronghold ID="15" MapCode="86002" QiZhiID="9810018,9810019,9810020" Name="Frostธรรมดา" QiZuoID="89020" QiZuoSite="4060|11470" Point="10" Rate="0.1" />
+  <ForceStronghold ID="16" MapCode="86002" QiZhiID="9810018,9810019,9810020" Name="Frostที่ราบ" QiZuoID="89021" QiZuoSite="13290|9650" Point="10" Rate="0.1" />
+  <ForceStronghold ID="17" MapCode="86002" QiZhiID="9810018,9810019,9810020" Name="Frostทุนดรา" QiZuoID="89022" QiZuoSite="7320|2090" Point="10" Rate="0.1" />
+  <ForceStronghold ID="18" MapCode="86002" QiZhiID="9810021,9810022,9810023" Name="Frostหนองน้ำ" QiZuoID="89023" QiZuoSite="5300|6090" Point="20" Rate="0.15" />
+  <ForceStronghold ID="19" MapCode="86002" QiZhiID="9810021,9810022,9810023" Name="Frostที่ราบสูง" QiZuoID="89024" QiZuoSite="7700|11560" Point="20" Rate="0.15" />
+  <ForceStronghold ID="20" MapCode="86002" QiZhiID="9810021,9810022,9810023" Name="Frostภูเขา" QiZuoID="89025" QiZuoSite="11750|6460" Point="20" Rate="0.15" />
+  <ForceStronghold ID="21" MapCode="86002" QiZhiID="9810024,9810025,9810026" Name="Frostทะเลทราย" QiZuoID="89026" QiZuoSite="7810|7740" Point="30" Rate="0.25" />
+  <ForceStronghold ID="22" MapCode="86003" QiZhiID="9810027,9810028,9810029" Name="Highlandธรรมดา" QiZuoID="89030" QiZuoSite="4060|11470" Point="10" Rate="0.1" />
+  <ForceStronghold ID="23" MapCode="86003" QiZhiID="9810027,9810028,9810029" Name="Highlandที่ราบ" QiZuoID="89031" QiZuoSite="13290|9650" Point="10" Rate="0.1" />
+  <ForceStronghold ID="24" MapCode="86003" QiZhiID="9810027,9810028,9810029" Name="Highlandทุนดรา" QiZuoID="89032" QiZuoSite="7320|2090" Point="10" Rate="0.1" />
+  <ForceStronghold ID="25" MapCode="86003" QiZhiID="9810030,9810031,9810032" Name="Highlandหนองน้ำ" QiZuoID="89033" QiZuoSite="5300|6090" Point="20" Rate="0.15" />
+  <ForceStronghold ID="26" MapCode="86003" QiZhiID="9810030,9810031,9810032" Name="Highlandที่ราบสูง" QiZuoID="89034" QiZuoSite="7700|11560" Point="20" Rate="0.15" />
+  <ForceStronghold ID="27" MapCode="86003" QiZhiID="9810030,9810031,9810032" Name="Highlandภูเขา" QiZuoID="89035" QiZuoSite="11750|6460" Point="20" Rate="0.15" />
+  <ForceStronghold ID="28" MapCode="86003" QiZhiID="9810033,9810034,9810035" Name="Highlandทะเลทราย" QiZuoID="89036" QiZuoSite="7810|7740" Point="30" Rate="0.25" />
+  <ForceStronghold ID="29" MapCode="86004" QiZhiID="9810036,9810037,9810038" Name="Greeneryธรรมดา" QiZuoID="89040" QiZuoSite="4060|11470" Point="10" Rate="0.1" />
+  <ForceStronghold ID="30" MapCode="86004" QiZhiID="9810036,9810037,9810038" Name="Greeneryที่ราบ" QiZuoID="89041" QiZuoSite="13290|9650" Point="10" Rate="0.1" />
+  <ForceStronghold ID="31" MapCode="86004" QiZhiID="9810036,9810037,9810038" Name="Greeneryทุนดรา" QiZuoID="89042" QiZuoSite="7320|2090" Point="10" Rate="0.1" />
+  <ForceStronghold ID="32" MapCode="86004" QiZhiID="9810039,9810040,9810041" Name="Greeneryหนองน้ำ" QiZuoID="89043" QiZuoSite="5300|6090" Point="20" Rate="0.15" />
+  <ForceStronghold ID="33" MapCode="86004" QiZhiID="9810039,9810040,9810041" Name="Greeneryที่ราบสูง" QiZuoID="89044" QiZuoSite="7700|11560" Point="20" Rate="0.15" />
+  <ForceStronghold ID="34" MapCode="86004" QiZhiID="9810039,9810040,9810041" Name="Greeneryภูเขา" QiZuoID="89045" QiZuoSite="11750|6460" Point="20" Rate="0.15" />
+  <ForceStronghold ID="35" MapCode="86004" QiZhiID="9810042,9810043,9810044" Name="Greeneryทะเลทราย" QiZuoID="89046" QiZuoSite="7810|7740" Point="30" Rate="0.25" />
+</Config>

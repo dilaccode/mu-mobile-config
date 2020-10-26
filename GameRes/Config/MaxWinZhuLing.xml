@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ZhuLing SuitID="1" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="2" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="3" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="4" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="5" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="6" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="7" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="8" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="9" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="10" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="11" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="12" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="13" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="14" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="15" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="16" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="17" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="18" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="19" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="20" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="21" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="22" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="23" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="24" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="25" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="26" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="27" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="28" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="29" PlainZhuLing="400" SeniorZhuLing="50" />
+  <ZhuLing SuitID="30" PlainZhuLing="400" SeniorZhuLing="50" />
+</Config>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Xiangou>
+  <!-- 1 -->
+  <Goods Group="2001" Random="0" ID="400000" GoodsID="14001029" OrigPrice="2000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2001" Random="0" ID="400010" GoodsID="14001032" OrigPrice="1000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2001" Random="0" ID="400020" GoodsID="14001025" OrigPrice="1800" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2001" Random="0" ID="400030" GoodsID="14001021" OrigPrice="1000" Price="200" SinglePurchase="10" FullPurchase="200" DaysTime="1" />
+  <!-- 2 -->
+  <Goods Group="2002" Random="0" ID="400040" GoodsID="14001029" OrigPrice="2000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2002" Random="0" ID="400050" GoodsID="14001032" OrigPrice="1000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2002" Random="0" ID="400060" GoodsID="14001025" OrigPrice="1800" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2002" Random="0" ID="400070" GoodsID="14001021" OrigPrice="1000" Price="200" SinglePurchase="10" FullPurchase="200" DaysTime="1" />
+  <!-- 3 -->
+  <Goods Group="2003" Random="0" ID="400080" GoodsID="14001029" OrigPrice="2000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2003" Random="0" ID="400090" GoodsID="14001032" OrigPrice="1000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2003" Random="0" ID="400100" GoodsID="14001025" OrigPrice="1800" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2003" Random="0" ID="400110" GoodsID="14001021" OrigPrice="1000" Price="200" SinglePurchase="10" FullPurchase="200" DaysTime="1" />
+  <!-- 4 -->
+  <Goods Group="2004" Random="0" ID="400120" GoodsID="14001029" OrigPrice="2000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2004" Random="0" ID="400130" GoodsID="14001032" OrigPrice="1000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2004" Random="0" ID="400140" GoodsID="14001025" OrigPrice="1800" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2004" Random="0" ID="400150" GoodsID="14001021" OrigPrice="1000" Price="200" SinglePurchase="10" FullPurchase="200" DaysTime="1" />
+  <!-- 5 -->
+  <Goods Group="2005" Random="0" ID="400160" GoodsID="14001029" OrigPrice="2000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2005" Random="0" ID="400170" GoodsID="14001032" OrigPrice="1000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2005" Random="0" ID="400180" GoodsID="14001025" OrigPrice="1800" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2005" Random="0" ID="400190" GoodsID="14001021" OrigPrice="1000" Price="200" SinglePurchase="10" FullPurchase="200" DaysTime="1" />
+  <!-- 6 -->
+  <Goods Group="2006" Random="0" ID="400200" GoodsID="14001029" OrigPrice="2000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2006" Random="0" ID="400210" GoodsID="14001032" OrigPrice="1000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2006" Random="0" ID="400220" GoodsID="14001025" OrigPrice="1800" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2006" Random="0" ID="400230" GoodsID="14001021" OrigPrice="1000" Price="200" SinglePurchase="10" FullPurchase="200" DaysTime="1" />
+  <!-- 7 -->
+  <Goods Group="2007" Random="0" ID="400240" GoodsID="14001029" OrigPrice="2000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2007" Random="0" ID="400250" GoodsID="14001032" OrigPrice="1000" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2007" Random="0" ID="400260" GoodsID="14001025" OrigPrice="1800" Price="500" SinglePurchase="5" FullPurchase="100" DaysTime="1" />
+  <Goods Group="2007" Random="0" ID="400270" GoodsID="14001021" OrigPrice="1000" Price="200" SinglePurchase="10" FullPurchase="200" DaysTime="1" />
+</Xiangou>

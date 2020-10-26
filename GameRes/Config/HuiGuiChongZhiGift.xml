@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuiGuiChongZhiGift ID="1" HuoDongLevel="1" MinYuanBao="1000" GoodsID1="5380,5,1,0,0,0,0|5352,20,1,0,0,0,0|5371,2,1,0,0,0,0|63142,2,1,0,0,0,0|14001057,2,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="2" HuoDongLevel="1" MinYuanBao="3000" GoodsID1="5360,1,1,0,0,0,0|5352,40,1,0,0,0,0|5371,5,1,0,0,0,0|13003015,5,1,0,0,0,0|1034082,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="3" HuoDongLevel="1" MinYuanBao="5000" GoodsID1="5360,1,1,0,0,0,0|2140,150,1,0,0,0,0|13003017,5,1,0,0,0,0|63141,1,1,0,0,0,0|14001048,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="4" HuoDongLevel="1" MinYuanBao="9000" GoodsID1="5360,2,1,0,0,0,0|2140,200,1,0,0,0,0|13003017,15,1,0,0,0,0|63141,2,1,0,0,0,0|14001048,2,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="5" HuoDongLevel="1" MinYuanBao="15000" GoodsID1="5360,3,1,0,0,0,0|2140,300,1,0,0,0,0|2106,3,1,0,0,0,0|13003015,10,1,0,0,0,0|1034083,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="6" HuoDongLevel="1" MinYuanBao="20000" GoodsID1="5360,4,1,0,0,0,0|2140,650,1,0,0,0,0|2106,3,1,0,0,0,0|13003017,20,1,0,0,0,0|970001,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="7" HuoDongLevel="1" MinYuanBao="25000" GoodsID1="13003016,10,1,0,0,0,0|2140,800,1,0,0,0,0|2106,4,1,0,0,0,0|13003015,20,1,0,0,0,0|970003,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="8" HuoDongLevel="1" MinYuanBao="30000" GoodsID1="2141,200,1,0,0,0,0|2140,1050,1,0,0,0,0|2106,5,1,0,0,0,0|13003017,40,1,0,0,0,0|970011,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="9" HuoDongLevel="1" MinYuanBao="40000" GoodsID1="2141,300,1,0,0,0,0|2140,1250,1,0,0,0,0|2106,5,1,0,0,0,0|970002,1,1,0,0,0,0|1035048,2,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="10" HuoDongLevel="1" MinYuanBao="80000" GoodsID1="970011,2,1,0,0,0,0|970002,2,1,0,0,0,0|14001061,1,1,0,0,0,0|1035016,4,1,0,0,0,0|1035048,2,1,0,0,0,0" GoodsID2="" />
+  
+  <HuiGuiChongZhiGift ID="11" HuoDongLevel="2" MinYuanBao="1000" GoodsID1="5380,5,1,0,0,0,0|5352,30,1,0,0,0,0|5371,2,1,0,0,0,0|63142,2,1,0,0,0,0|14001057,2,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="12" HuoDongLevel="2" MinYuanBao="3000" GoodsID1="5360,1,1,0,0,0,0|5352,50,1,0,0,0,0|5371,5,1,0,0,0,0|13003015,5,1,0,0,0,0|1034082,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="13" HuoDongLevel="2" MinYuanBao="5000" GoodsID1="5360,1,1,0,0,0,0|2140,150,1,0,0,0,0|13003017,8,1,0,0,0,0|63141,1,1,0,0,0,0|14001048,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="14" HuoDongLevel="2" MinYuanBao="9000" GoodsID1="5360,2,1,0,0,0,0|2140,200,1,0,0,0,0|13003017,20,1,0,0,0,0|63141,2,1,0,0,0,0|14001048,2,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="15" HuoDongLevel="2" MinYuanBao="15000" GoodsID1="5360,3,1,0,0,0,0|2140,300,1,0,0,0,0|2106,3,1,0,0,0,0|13003015,15,1,0,0,0,0|1034083,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="16" HuoDongLevel="2" MinYuanBao="20000" GoodsID1="5360,4,1,0,0,0,0|2140,650,1,0,0,0,0|2106,3,1,0,0,0,0|13003017,25,1,0,0,0,0|970001,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="17" HuoDongLevel="2" MinYuanBao="25000" GoodsID1="13003016,10,1,0,0,0,0|2140,800,1,0,0,0,0|2106,4,1,0,0,0,0|13003015,25,1,0,0,0,0|970003,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="18" HuoDongLevel="2" MinYuanBao="30000" GoodsID1="2141,200,1,0,0,0,0|2140,1050,1,0,0,0,0|2106,5,1,0,0,0,0|13003017,50,1,0,0,0,0|970011,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="19" HuoDongLevel="2" MinYuanBao="40000" GoodsID1="2141,300,1,0,0,0,0|2140,1250,1,0,0,0,0|2106,5,1,0,0,0,0|970002,1,1,0,0,0,0|1035048,3,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="20" HuoDongLevel="2" MinYuanBao="80000" GoodsID1="970011,2,1,0,0,0,0|970002,2,1,0,0,0,0|14001061,1,1,0,0,0,0|1035016,4,1,0,0,0,0|1035048,2,1,0,0,0,0" GoodsID2="" />
+  
+  <HuiGuiChongZhiGift ID="21" HuoDongLevel="3" MinYuanBao="1000" GoodsID1="5380,5,1,0,0,0,0|5352,30,1,0,0,0,0|5371,2,1,0,0,0,0|63142,2,1,0,0,0,0|14001057,2,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="22" HuoDongLevel="3" MinYuanBao="3000" GoodsID1="5360,1,1,0,0,0,0|5352,50,1,0,0,0,0|5371,5,1,0,0,0,0|13003015,5,1,0,0,0,0|1034082,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="23" HuoDongLevel="3" MinYuanBao="5000" GoodsID1="5360,1,1,0,0,0,0|2140,150,1,0,0,0,0|13003017,8,1,0,0,0,0|63141,1,1,0,0,0,0|14001048,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="24" HuoDongLevel="3" MinYuanBao="9000" GoodsID1="5360,2,1,0,0,0,0|2140,200,1,0,0,0,0|13003017,20,1,0,0,0,0|63141,2,1,0,0,0,0|14001048,2,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="25" HuoDongLevel="3" MinYuanBao="15000" GoodsID1="5360,3,1,0,0,0,0|2140,300,1,0,0,0,0|2106,3,1,0,0,0,0|13003015,15,1,0,0,0,0|1034083,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="26" HuoDongLevel="3" MinYuanBao="20000" GoodsID1="5360,4,1,0,0,0,0|2140,650,1,0,0,0,0|2106,3,1,0,0,0,0|13003017,25,1,0,0,0,0|970001,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="27" HuoDongLevel="3" MinYuanBao="25000" GoodsID1="13003016,10,1,0,0,0,0|2140,800,1,0,0,0,0|2106,4,1,0,0,0,0|13003015,25,1,0,0,0,0|970003,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="28" HuoDongLevel="3" MinYuanBao="30000" GoodsID1="2141,200,1,0,0,0,0|2140,1050,1,0,0,0,0|2106,5,1,0,0,0,0|13003017,50,1,0,0,0,0|970011,1,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="29" HuoDongLevel="3" MinYuanBao="40000" GoodsID1="2141,300,1,0,0,0,0|2140,1250,1,0,0,0,0|2106,5,1,0,0,0,0|970002,1,1,0,0,0,0|1035048,3,1,0,0,0,0" GoodsID2="" />
+  <HuiGuiChongZhiGift ID="30" HuoDongLevel="3" MinYuanBao="80000" GoodsID1="970011,2,1,0,0,0,0|970002,2,1,0,0,0,0|14001061,1,1,0,0,0,0|1035016,4,1,0,0,0,0|1035048,2,1,0,0,0,0" GoodsID2="" />
+</Config>

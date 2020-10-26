@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Explain the new born BOSS" Bold="1" />
+  <HelpIntro ID="2" Intro="{fac60d}Refresh mechanism" Bold="1" />
+  <HelpIntro ID="3" Intro="{dac7ae}1. There are 5 new born BOSS, each new born BOSS{17e43e} there are different weaknesses{-}, the press{17e43e} refresh by circular order." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}2. The new born BOSS{17e43e} daily refreshes at 12: 15.19: 15 pm {-} (Refresh at the same time, 5 lines)" Bold="0" />
+  <HelpIntro ID="5" Intro="{fac60d}Killer prizes" Bold="1" />
+  <HelpIntro ID="6" Intro="{dac7ae}1. After BOSS is killed, awarded according to damage rank generated for BOSS{17e43e}{-}" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}2. Refresh BOSS again, will not be rewarded{ff0000} wash{-}, note the award on time (separate awards note each line)" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}3. Some time does not damage the BOSS, then save the damage will be{ff0000} wash" Bold="0" />
+</Config>

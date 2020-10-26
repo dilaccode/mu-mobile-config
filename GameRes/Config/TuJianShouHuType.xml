@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <DiaoXiang ID="100" Type="100" Name="วิญญาณBrave" GoodsID="601001" />
+  <DiaoXiang ID="200" Type="200" Name="วิญญาณImmortal footprint" GoodsID="601002" />
+  <DiaoXiang ID="300" Type="300" Name="วิญญาณคริสตัล" GoodsID="601003" />
+  <DiaoXiang ID="400" Type="400" Name="วิญญาณความตาย" GoodsID="601004" />
+  <DiaoXiang ID="500" Type="500" Name="วิญญาณหอคอยเทพ" GoodsID="601005" />
+  <DiaoXiang ID="600" Type="600" Name="วิญญาณมหาสมุทร" GoodsID="601006" />
+  <DiaoXiang ID="700" Type="700" Name="วิญญาณทะเลทราย" GoodsID="601007" />
+  <DiaoXiang ID="800" Type="800" Name="วิญญาณสายหมอก" GoodsID="601008" />
+  <DiaoXiang ID="900" Type="900" Name="วิญญาณแห่งป่า" GoodsID="601009" />
+  <DiaoXiang ID="1000" Type="1000" Name="วิญญาณเศษซาก" GoodsID="601010" />
+  <DiaoXiang ID="1100" Type="1100" Name="วิญญาณร่องรอย" GoodsID="601011" />
+  <DiaoXiang ID="1200" Type="1200" Name="วิญญาณน้ำแข็ง" GoodsID="601012" />
+  <DiaoXiang ID="1300" Type="1300" Name="วิญญาณความสงบ" GoodsID="601013" />
+  <DiaoXiang ID="1400" Type="1400" Name="วิญญาณคาร์" GoodsID="601014" />
+  <DiaoXiang ID="1500" Type="1500" Name="ภูตเวทย์มายา" GoodsID="601015" />
+  <DiaoXiang ID="1600" Type="1600" Name="วิญญาณแห่งป่าตะวันตก" GoodsID="601016" />
+  <DiaoXiang ID="1700" Type="1700" Name="ภูตวังตะวันออก" GoodsID="601017" />
+  <DiaoXiang ID="1800" Type="1800" Name="วิญญาณวัดชั่วร้าย" GoodsID="601018" />
+  <DiaoXiang ID="1900" Type="1900" Name="วิญญาณถ้ำ" GoodsID="601019" />
+  <!--以下8.0再开-->
+  <!--	
+  <DiaoXiang ID="2000" Type="2000" Name="วิญญาณแห่งลึกลับ" GoodsID="601020" />
+  -->
+</Config>

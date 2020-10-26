@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ZiYuanZhaoHui>
+  <ZhaoHui ID="1" Name="Daily mission" Image="kezuoitem_1" />
+  <ZhaoHui ID="2" Name="Storyline" Image="kezuoitem_1" />
+  <ZhaoHui ID="3" Name="Exp Dungeon" Image="kezuoitem_1" />
+  <ZhaoHui ID="4" Name="Gold Dungeon" Image="kezuoitem_1" />
+  <ZhaoHui ID="5" Name="Devil Square" Image="kezuoitem_1" />
+  <ZhaoHui ID="6" Name="Scarlet castle" Image="kezuoitem_1" />
+  <ZhaoHui ID="7" Name="Angel palace" Image="kezuoitem_1" />
+  <ZhaoHui ID="8" Name="Demons Tower" Image="kezuoitem_1" />
+  <ZhaoHui ID="9" Name="Ancient battlefield" Image="kezuoitem_1" />
+  <ZhaoHui ID="10" Name="War camp" Image="kezuoitem_1" />
+  <ZhaoHui ID="11" Name="King of PK" Image="kezuoitem_1" />
+  <ZhaoHui ID="12" Name="Kalima Temple" Image="kezuoitem_1" />
+  <ZhaoHui ID="13" Name="Arena" Image="kezuoitem_1" />
+  <ZhaoHui ID="14" Name="Statue of Honor" Image="kezuoitem_1" />
+  <ZhaoHui ID="15" Name="Suppression" Image="kezuoitem_1" />
+  <ZhaoHui ID="16" Name="Crystal dreamland" Image="kezuoitem_1" />
+  <ZhaoHui ID="17" Name="Rowland Circle" Image="kezuoitem_1" />
+  <ZhaoHui ID="18" Name="Devil struck" Image="kezuoitem_1" />
+  <ZhaoHui ID="19" Name="Phantom monastery" Image="kezuoitem_1" />
+</ZiYuanZhaoHui>

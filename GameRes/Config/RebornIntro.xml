@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Describe the emerging system{-}" Bold="1" />
+  <HelpIntro ID="2" Intro="{fac60d}Lv.Reborn" Bold="1" />
+  <HelpIntro ID="3" Intro="{dac7ae}1. The characters reach the new conditions and after the promotion, get{17e43e} New born{-}" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}2. Where in the new map kill monster, emerging recovery device will be {17e43e}Exp.Reborn{-}, cumulative{17e43e} Exp.Reborn{-} will increase Lv, Reborn, every day will get the highest Exp" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}3. Lv. Maximum Rebirth, After the maximum level is reached, After Level Lv. Rebirth will increase, Level 1Lv.60, Stage 2Lv.140, Stage 3Lv.240." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}4. Where in the new map display Lv. Reborn, where in the original map shows Lv" Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d}New born" Bold="1" />
+  <HelpIntro ID="8" Intro="{dac7ae}1. All new features are divided into 5 lines:{ffcc19} Sacred{-},{b266ff} dark shadow{-},{17e43e} nature{-},{ff0000} chaotic{-},{3681f3} nightmare{-}" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}2. After the new character Turns all new emerging features, in the emerging map, the resulting new properties.{17e43e} Many times{-}, but the original map will return to normal" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}3. In the new character map, all monsters, on average, will be affected." Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}4. In the emerging map, each monster has an average of {17e43e}weakness{-}, If the emerging properties focus on the weakness of the monster, then can create{ff0000} special explosive damage {-}" Bold="0" />
+  <HelpIntro ID="12" Intro="{fac60d}New birth" Bold="1" />
+  <HelpIntro ID="13" Intro="{dac7ae}1. A new map is{17e43e} Cross-platform map{-}" Bold="0" />
+  <HelpIntro ID="14" Intro="{dac7ae}2. PK mode: line 1, line 2 is{17e43e} peaceful mode{-}；The line at 3,4,5 will be at the switch{ff0000} partner mode{-} and{17e43e} peaceful mode{-}{-}" Bold="0" />
+  <HelpIntro ID="15" Intro="{fac60d}Combinator" Bold="1" />
+  <HelpIntro ID="16" Intro="{dac7ae}1. In the new map kill monsters combos will be counted." Bold="0" />
+  <HelpIntro ID="17" Intro="{dac7ae}2. For some time not killing the monster, it will not count on interrupting broken combo, killing will continue to accumulate the number of consecutive combos." Bold="0" />
+  <HelpIntro ID="18" Intro="{dac7ae}3. Number of combos to the given number will be affected. Exp {17e43e}{-}" Bold="0" />
+</Config>

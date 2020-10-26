@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="12" FromDate="2018-11-18 00:00:00" ToDate="2018-11-25 00:00:00" AwardStartDate="2018-11-18 00:00:00" AwardEndDate="2018-11-25 00:00:00" />
+  <GiftList Description="Receive extra rewards for purchasing daily.">
+    <Award ID="1" MinYuanBao="150" GoodsOne="2016,70,1,0,0,0,0|2017,35,1,0,0,0,0|2019,1,1,0,0,0,0|5203,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" MinYuanBao="500" GoodsOne="2016,100,1,0,0,0,0|2017,50,1,0,0,0,0|2019,2,1,0,0,0,0|5203,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" MinYuanBao="1000" GoodsOne="2016,150,1,0,0,0,0|2017,75,1,0,0,0,0|2019,3,1,0,0,0,0|5313,5,1,0,0,0,0|5203,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" MinYuanBao="2000" GoodsOne="2016,300,1,0,0,0,0|2017,150,1,0,0,0,0|63086,5,1,0,0,0,0|5313,10,1,0,0,0,0|5171,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" MinYuanBao="3000" GoodsOne="2103,100,1,0,0,0,0|2104,50,1,0,0,0,0|63086,5,1,0,0,0,0|5313,20,1,0,0,0,0|5171,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" MinYuanBao="5000" GoodsOne="2103,150,1,0,0,0,0|2104,75,1,0,0,0,0|63086,5,1,0,0,0,0|5313,30,1,0,0,0,0|63143,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

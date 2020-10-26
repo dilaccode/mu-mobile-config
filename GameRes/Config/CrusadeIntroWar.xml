@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Battlefield Rules" Bold="1" />
+  <HelpIntro ID="2" Intro="1. Each week, each character gets {17e43e}30{-} participation attempts, after ending the Battlefield,. Resurrection will consume the participation attempts. Without enough participation attempts, you cannot enter the Battlefield." Bold="0" />
+  <HelpIntro ID="3" Intro="2. Every week, each server gets fixed resources. If the resources are not plundered, they will accumulate to the next week. There is a limit to the accumulation of resources." Bold="0" />
+  <HelpIntro ID="4" Intro="3. Resources will be refreshed on the map in the form of crystals, dividing into large ones. and small ones. Based on the total resources,. the large ones and small ones have {17e43e}limited number." Bold="0" />
+  <HelpIntro ID="5" Intro="4. In the Battlefield, the War Alliances of the same server share the flag, and {ff0000} cannot attack each other." Bold="0" />
+  <HelpIntro ID="6" Intro="5. When all the resources are plundered or the event ends, the battle is over." Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d}Battle Rewards" Bold="1" />
+  <HelpIntro ID="8" Intro="1. In the Battlefield, {17e43e}kill{-},. {17e43e}Resource Plunder{-} can earn you the Battlefield Points. While {17e43e}Kill Streak{-},. and {17e43e}End of Kill Streak{-} can earn you the Battlefield Points." Bold="0" />
+  <HelpIntro ID="9" Intro="2. As the attacker, based on the War Alliance’s {17e43e}total amount of plundered resources {\} and {17e43e} your individual Battlefield Points{-},  you earn your rewards at the end of the battle." Bold="0" />
+  <HelpIntro ID="10" Intro="3. As the defender, based on the server’s {17e43e} remaining resources {\}, and {17e43e} your individual Battlefield Points{-},  you earn your rewards at the end of the battle." Bold="0" />
+</Config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TenAward>
+  <Award TaskID="11134" ID="1" DbKey="0" BeginDate="2016-10-25 00:00:00" EndDate="2017-4-30 23:59:59" Level="0,1" DayMaxNum="1" OnlyNum="0" Name="【全民奇迹】签到第1天" AwardGoods="50160,2,1,0,0,0,0|2001,20,1,0,0,0,0" MailTitle="【全民奇迹】签到第1天" MailContent="恭喜你，获得【全民奇迹】签到第1天礼包" />
+  <Award TaskID="11135" ID="2" DbKey="0" BeginDate="2016-10-25 00:00:00" EndDate="2017-4-30 23:59:59" Level="0,1" DayMaxNum="1" OnlyNum="0" Name="【全民奇迹】签到第2天" AwardGoods="50160,2,1,0,0,0,0|2003,40,1,0,0,0,0" MailTitle="【全民奇迹】签到第2天" MailContent="恭喜你，获得【全民奇迹】签到第2天礼包" />
+  <Award TaskID="11136" ID="3" DbKey="0" BeginDate="2016-10-25 00:00:00" EndDate="2017-4-30 23:59:59" Level="0,1" DayMaxNum="1" OnlyNum="0" Name="【全民奇迹】签到第3天" AwardGoods="50160,2,1,0,0,0,0|2002,10,1,0,0,0,0" MailTitle="【全民奇迹】签到第3天" MailContent="恭喜你，获得【全民奇迹】签到第3天礼包" />
+  <Award TaskID="11137" ID="4" DbKey="0" BeginDate="2016-10-25 00:00:00" EndDate="2017-4-30 23:59:59" Level="0,1" DayMaxNum="1" OnlyNum="0" Name="【全民奇迹】签到第4天" AwardGoods="50160,2,1,0,0,0,0|5120,20,1,0,0,0,0" MailTitle="【全民奇迹】签到第4天" MailContent="恭喜你，获得【全民奇迹】签到第4天礼包" />
+  <Award TaskID="11138" ID="5" DbKey="0" BeginDate="2016-10-25 00:00:00" EndDate="2017-4-30 23:59:59" Level="0,1" DayMaxNum="1" OnlyNum="0" Name="【全民奇迹】签到第5天" AwardGoods="50160,2,1,0,0,0,0|2001,20,1,0,0,0,0|2003,40,1,0,0,0,0" MailTitle="【全民奇迹】签到第5天" MailContent="恭喜你，获得【全民奇迹】签到第5天礼包" />
+  <Award TaskID="11139" ID="6" DbKey="0" BeginDate="2016-10-25 00:00:00" EndDate="2017-4-30 23:59:59" Level="0,1" DayMaxNum="1" OnlyNum="0" Name="【全民奇迹】签到第6天" AwardGoods="50160,2,1,0,0,0,0|2002,10,1,0,0,0,0|5120,20,1,0,0,0,0" MailTitle="【全民奇迹】签到第6天" MailContent="恭喜你，获得【全民奇迹】签到第6天礼包" />
+  <Award TaskID="11140" ID="7" DbKey="0" BeginDate="2016-10-25 00:00:00" EndDate="2017-4-30 23:59:59" Level="0,1" DayMaxNum="1" OnlyNum="0" Name="【全民奇迹】签到第7天" AwardGoods="50160,3,1,0,0,0,0|2001,20,1,0,0,0,0|2003,40,1,0,0,0,0|2002,10,1,0,0,0,0|5120,20,1,0,0,0,0" MailTitle="【全民奇迹】签到第7天" MailContent="恭喜你，获得【全民奇迹】签到第7天礼包" />
+</TenAward>

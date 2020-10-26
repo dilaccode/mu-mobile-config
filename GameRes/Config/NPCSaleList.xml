@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SaleList>
+    <Sale ID="1" SaleType="8" Description="ร้านค้าอาวุธ-Gold" Items="" />
+    <Sale ID="2" SaleType="8" Description="ร้านค้าเครื่องป้องกัน-Gold" Items="" />
+    <Sale ID="3" SaleType="8" Description="ร้านขายยา-Gold" Items="1011,0,0,0,0|1012,0,0,0,0|1013,0,0,0,0|1111,0,0,0,0" />
+    <Sale ID="4" SaleType="13" Description="ร้านค้าคะแนน" Items="" />
+    <Sale ID="11" SaleType="1" Description="ร้านค้าอาวุธ-Goldผูกติด" Items="" />
+    <Sale ID="21" SaleType="1" Description="ร้านค้าเครื่องป้องกัน-Goldผูกติด" Items="" />
+    <Sale ID="31" SaleType="1" Description="ร้านขายยา-Goldผูกติด" Items="1011,0,0,0,0|1012,0,0,0,0|1013,0,0,0,0|1111,0,0,0,0" />
+  </SaleList>
+</Config>

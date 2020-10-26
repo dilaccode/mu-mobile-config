@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TaoZhuang ID="1100" Name="พลังของมูซ่า" GoodsID="1000111,1000011,1000211,1000311,1000411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Attack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1200" Name="ปัญญาของเมเฟีย" GoodsID="1010111,1010011,1010211,1010311,1010411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Mattack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1300" Name="ความว่องไวของเอสดา" GoodsID="1020111,1020011,1020211,1020311,1020411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Attack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1400" Name="พลังของเควิน" GoodsID="1030011,1030111,1030211,1030311,1030411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Attack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1500" Name="ปัญญาของเควิน" GoodsID="1040011,1040111,1040211,1040311,1040411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Mattack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1600" Name="ปัญญาของCaron" GoodsID="1050011,1050111,1050211,1050311,1050411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Mattack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="2100" Name="ความรักของไลยา" GoodsID="1000611,1000511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2200" Name="ความรักของไลยา" GoodsID="1010611,1010511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2300" Name="ความรักของไลยา" GoodsID="1020611,1020511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2400" Name="ความรักของไลยา" GoodsID="1030611,1030511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2500" Name="ความรักของไลยา" GoodsID="1040611,1040511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2600" Name="ความรักของไลยา" GoodsID="1050611,1050511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="1101" Name="วิญญาณแห่งนักรบ" GoodsID="1000112,1000012,1000212,1000312,1000412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Attack,7200-9000" />
+  <TaoZhuang ID="1201" Name="ผู้ปกป้องแห่งราตรี" GoodsID="1010112,1010012,1010212,1010312,1010412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Mattack,7200-9000" />
+  <TaoZhuang ID="1301" Name="แองเจลาแห่งฝัน" GoodsID="1020112,1020012,1020212,1020312,1020412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Attack,7200-9000" />
+  <TaoZhuang ID="1401" Name="พลังแห่งแพทซี่" GoodsID="1030012,1030112,1030212,1030312,1030412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Attack,7200-9000" />
+  <TaoZhuang ID="1501" Name="เวทย์แห่งแพทซี่" GoodsID="1040012,1040112,1040212,1040312,1040412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Mattack,7200-9000" />
+  <TaoZhuang ID="1601" Name="ความฝันของAnna" GoodsID="1050012,1050112,1050212,1050312,1050412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Mattack,7200-9000" />
+  <TaoZhuang ID="2101" Name="ผู้อุทิศแห่งเทพ" GoodsID="1000612,1000512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2201" Name="ผู้อุทิศแห่งเทพ" GoodsID="1010612,1010512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2301" Name="ผู้อุทิศแห่งเทพ" GoodsID="1020612,1020512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2401" Name="ผู้อุทิศแห่งเทพ" GoodsID="1030612,1030512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2501" Name="ผู้อุทิศแห่งเทพ" GoodsID="1040612,1040512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2601" Name="ผู้อุทิศแห่งเทพ" GoodsID="1050612,1050512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="1102" Name="โต้กลับของซีซาร์" GoodsID="1000113,1000013,1000213,1000313,1000413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Attack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1202" Name="เพลิงแห่งโฮเวิร์ด" GoodsID="1010113,1010013,1010213,1010313,1010413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Mattack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1302" Name="การปกป้องของชิโน" GoodsID="1020113,1020013,1020213,1020313,1020413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Attack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1402" Name="ป่าของอาแบล" GoodsID="1030013,1030113,1030213,1030313,1030413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Attack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1502" Name="ปัญญาของอาโรน" GoodsID="1040013,1040113,1040213,1040313,1040413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Mattack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1602" Name="อัญเชิญของโมนา" GoodsID="1050013,1050113,1050213,1050313,1050413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Mattack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="2102" Name="อวยพรของภูต" GoodsID="1000613,1000513" Multi="1" TaoZhuangProps="2,LifeSteal,270|2,MaxLifeV,24000|3,AddAttack,6000" />
+  <TaoZhuang ID="2202" Name="อวยพรของภูต" GoodsID="1010613,1010513" Multi="1" TaoZhuangProps="2,LifeSteal,270|2,MaxLifeV,24000|3,AddAttack,6000" />
+  <TaoZhuang ID="2302" Name="อวยพรของภูต" GoodsID="1020613,1020513" Multi="1" TaoZhuangProps="2,LifeSteal,270|2,MaxLifeV,24000|3,AddAttack,6000" />
+  <TaoZhuang ID="2402" Name="อวยพรของภูต" GoodsID="1030613,1030513" Multi="1" TaoZhuangProps="2,LifeSteal,270|2,MaxLifeV,24000|3,AddAttack,6000" />
+  <TaoZhuang ID="2502" Name="อวยพรของภูต" GoodsID="1040613,1040513" Multi="1" TaoZhuangProps="2,LifeSteal,270|2,MaxLifeV,24000|3,AddAttack,6000" />
+  <TaoZhuang ID="2602" Name="อวยพรของภูต" GoodsID="1050613,1050513" Multi="1" TaoZhuangProps="2,LifeSteal,270|2,MaxLifeV,24000|3,AddAttack,6000" />
+  <TaoZhuang ID="3300" Name="ผู้พิทักษ์แห่งการทำลาย" GoodsID="980007,980107,980207" Multi="0" TaoZhuangProps="2,MaxLifeV,30000|2,Defense,12000-15000|2,Mdefense,12000-15000|3,AddAttack,13500|3,MaxLifePercent,0.08" />
+  <TaoZhuang ID="3400" Name="ความเสียหายแห่งการทำลาย" GoodsID="980307,980407,980507" Multi="0" TaoZhuangProps="2,AddAttack,13500|2,MaxLifeV,30000|3,ElementInjurePercent,0.04|3,AddAttackInjurePercent,0.04" />
+  <TaoZhuang ID="3500" Name="ผู้พิทักษ์แห่งสวรรค์พิโรธ" GoodsID="980008,980108,980208" Multi="0" TaoZhuangProps="2,MaxLifeV,36000|2,Defense,14400-18000|2,Mdefense,14400-18000|3,AddAttack,16200|3,MaxLifePercent,0.08" />
+  <TaoZhuang ID="3600" Name="ความเสียหายแห่งสวรรค์พิโรธ" GoodsID="980308,980408,980508" Multi="0" TaoZhuangProps="2,AddAttack,16200|2,MaxLifeV,36000|3,ElementInjurePercent,0.04|3,AddAttackInjurePercent,0.04" />
+
+  <TaoZhuang ID="141102" Name="嗜血的杀戮" GoodsID="1000114,1000014,1000214,1000314,1000414" Multi="0" TaoZhuangProps="2,Mdefense,12000-15000|3,Attack,12000-15000|4,MaxLifeV,30000|5,Defense,12000-15000" />
+<TaoZhuang ID="141202" Name="圣光的裁决" GoodsID="1010114,1010014,1010214,1010314,1010414" Multi="0" TaoZhuangProps="2,Mdefense,12000-15000|3,Mattack,12000-15000|4,MaxLifeV,30000|5,Defense,12000-15000" />
+<TaoZhuang ID="141302" Name="闪耀的晚霞" GoodsID="1020114,1020014,1020214,1020314,1020414" Multi="0" TaoZhuangProps="2,Mdefense,12000-15000|3,Attack,12000-15000|4,MaxLifeV,30000|5,Defense,12000-15000" />
+<TaoZhuang ID="141402" Name="秘境的光芒" GoodsID="1030014,1030114,1030214,1030314,1030414" Multi="0" TaoZhuangProps="2,Mdefense,12000-15000|3,Attack,12000-15000|4,MaxLifeV,30000|5,Defense,12000-15000" />
+<TaoZhuang ID="141502" Name="秘境的黑暗" GoodsID="1040014,1040114,1040214,1040314,1040414" Multi="0" TaoZhuangProps="2,Mdefense,12000-15000|3,Mattack,12000-15000|4,MaxLifeV,30000|5,Defense,12000-15000" />
+<TaoZhuang ID="141602" Name="法则的召唤" GoodsID="1050014,1050114,1050214,1050314,1050414" Multi="0" TaoZhuangProps="2,Mdefense,12000-15000|3,Mattack,12000-15000|4,MaxLifeV,30000|5,Defense,12000-15000" />
+<!--14阶饰品属性-->
+<TaoZhuang ID="142102" Name="失落的文明" GoodsID="1000614,1000514" Multi="1" TaoZhuangProps="2,LifeSteal,540|2,MaxLifeV,30000|3,AddAttack,7500" />
+<TaoZhuang ID="142202" Name="失落的文明" GoodsID="1010614,1010514" Multi="1" TaoZhuangProps="2,LifeSteal,540|2,MaxLifeV,30000|3,AddAttack,7500" />
+<TaoZhuang ID="142302" Name="失落的文明" GoodsID="1020614,1020514" Multi="1" TaoZhuangProps="2,LifeSteal,540|2,MaxLifeV,30000|3,AddAttack,7500" />
+<TaoZhuang ID="142402" Name="失落的文明" GoodsID="1030614,1030514" Multi="1" TaoZhuangProps="2,LifeSteal,540|2,MaxLifeV,30000|3,AddAttack,7500" />
+<TaoZhuang ID="142502" Name="失落的文明" GoodsID="1040614,1040514" Multi="1" TaoZhuangProps="2,LifeSteal,540|2,MaxLifeV,30000|3,AddAttack,7500" />
+<TaoZhuang ID="142602" Name="失落的文明" GoodsID="1050614,1050514" Multi="1" TaoZhuangProps="2,LifeSteal,540|2,MaxLifeV,30000|3,AddAttack,7500" />
+
+<!--15阶套装属性-->
+<TaoZhuang ID="151102" Name="战鬼的怒吼" GoodsID="1000115,1000015,1000215,1000315,1000415" Multi="0" TaoZhuangProps="2,Mdefense,14400-18000|3,Attack,14400-18000|4,MaxLifeV,36000|5,Defense,14400-18000" />
+<TaoZhuang ID="151202" Name="魔魂的梦魇" GoodsID="1010115,1010015,1010215,1010315,1010415" Multi="0" TaoZhuangProps="2,Mdefense,14400-18000|3,Mattack,14400-18000|4,MaxLifeV,36000|5,Defense,14400-18000" />
+<TaoZhuang ID="151302" Name="刺骨的天霜" GoodsID="1020115,1020015,1020215,1020315,1020415" Multi="0" TaoZhuangProps="2,Mdefense,14400-18000|3,Attack,14400-18000|4,MaxLifeV,36000|5,Defense,14400-18000" />
+<TaoZhuang ID="151402" Name="夜幕的叹息" GoodsID="1030015,1030115,1030215,1030315,1030415" Multi="0" TaoZhuangProps="2,Mdefense,14400-18000|3,Attack,14400-18000|4,MaxLifeV,36000|5,Defense,14400-18000" />
+<TaoZhuang ID="151502" Name="夜幕的唏嘘" GoodsID="1040015,1040115,1040215,1040315,1040415" Multi="0" TaoZhuangProps="2,Mdefense,14400-18000|3,Mattack,14400-18000|4,MaxLifeV,36000|5,Defense,14400-18000" />
+<TaoZhuang ID="151602" Name="冥火的燃烧" GoodsID="1050015,1050115,1050215,1050315,1050415" Multi="0" TaoZhuangProps="2,Mdefense,14400-18000|3,Mattack,14400-18000|4,MaxLifeV,36000|5,Defense,14400-18000" />
+<!--15阶饰品属性-->
+<TaoZhuang ID="152102" Name="混沌的裂缝" GoodsID="1000615,1000515" Multi="1" TaoZhuangProps="2,LifeSteal,1080|2,MaxLifeV,36000|3,AddAttack,9000" />
+<TaoZhuang ID="152202" Name="混沌的裂缝" GoodsID="1010615,1010515" Multi="1" TaoZhuangProps="2,LifeSteal,1080|2,MaxLifeV,36000|3,AddAttack,9000" />
+<TaoZhuang ID="152302" Name="混沌的裂缝" GoodsID="1020615,1020515" Multi="1" TaoZhuangProps="2,LifeSteal,1080|2,MaxLifeV,36000|3,AddAttack,9000" />
+<TaoZhuang ID="152402" Name="混沌的裂缝" GoodsID="1030615,1030515" Multi="1" TaoZhuangProps="2,LifeSteal,1080|2,MaxLifeV,36000|3,AddAttack,9000" />
+<TaoZhuang ID="152502" Name="混沌的裂缝" GoodsID="1040615,1040515" Multi="1" TaoZhuangProps="2,LifeSteal,1080|2,MaxLifeV,36000|3,AddAttack,9000" />
+<TaoZhuang ID="152602" Name="混沌的裂缝" GoodsID="1050615,1050515" Multi="1" TaoZhuangProps="2,LifeSteal,1080|2,MaxLifeV,36000|3,AddAttack,9000" />
+
+<!--16阶套装属性-->
+<TaoZhuang ID="161102" Name="战鬼的怒吼" GoodsID="1000116,1000016,1000216,1000316,1000416" Multi="0" TaoZhuangProps="2,Mdefense,15400-19000|3,Attack,15400-19000|4,MaxLifeV,40000|5,Defense,15400-19000" />
+<TaoZhuang ID="161202" Name="魔魂的梦魇" GoodsID="1010116,1010016,1010216,1010316,1010416" Multi="0" TaoZhuangProps="2,Mdefense,15400-19000|3,Mattack,15400-19000|4,MaxLifeV,40000|5,Defense,15400-19000" />
+<TaoZhuang ID="161302" Name="刺骨的天霜" GoodsID="1020116,1020016,1020216,1020316,1020416" Multi="0" TaoZhuangProps="2,Mdefense,15400-19000|3,Attack,15400-19000|4,MaxLifeV,40000|5,Defense,15400-19000" />
+<TaoZhuang ID="161402" Name="夜幕的叹息" GoodsID="1030016,1030116,1030216,1030316,1030416" Multi="0" TaoZhuangProps="2,Mdefense,15400-19000|3,Attack,15400-19000|4,MaxLifeV,40000|5,Defense,15400-19000" />
+<TaoZhuang ID="161502" Name="夜幕的唏嘘" GoodsID="1040016,1040116,1040216,1040316,1040416" Multi="0" TaoZhuangProps="2,Mdefense,15400-19000|3,Mattack,15400-19000|4,MaxLifeV,40000|5,Defense,15400-19000" />
+<TaoZhuang ID="151602" Name="冥火的燃烧" GoodsID="1050016,1050116,1050216,1050316,1050416" Multi="0" TaoZhuangProps="2,Mdefense,15400-19000|3,Mattack,15400-19000|4,MaxLifeV,40000|5,Defense,15400-19000" />
+<!--16阶饰品属性-->
+<TaoZhuang ID="162102" Name="混沌的裂缝" GoodsID="1000616,1000516" Multi="1" TaoZhuangProps="2,LifeSteal,2080|2,MaxLifeV,40000|3,AddAttack,10000" />
+<TaoZhuang ID="162202" Name="混沌的裂缝" GoodsID="1010616,1010516" Multi="1" TaoZhuangProps="2,LifeSteal,2080|2,MaxLifeV,40000|3,AddAttack,10000" />
+<TaoZhuang ID="162302" Name="混沌的裂缝" GoodsID="1020616,1020516" Multi="1" TaoZhuangProps="2,LifeSteal,2080|2,MaxLifeV,40000|3,AddAttack,10000" />
+<TaoZhuang ID="162402" Name="混沌的裂缝" GoodsID="1030616,1030516" Multi="1" TaoZhuangProps="2,LifeSteal,2080|2,MaxLifeV,40000|3,AddAttack,10000" />
+<TaoZhuang ID="162502" Name="混沌的裂缝" GoodsID="1040616,1040516" Multi="1" TaoZhuangProps="2,LifeSteal,2080|2,MaxLifeV,40000|3,AddAttack,10000" />
+<TaoZhuang ID="162602" Name="混沌的裂缝" GoodsID="1050616,1050516" Multi="1" TaoZhuangProps="2,LifeSteal,2080|2,MaxLifeV,40000|3,AddAttack,10000" />
+<!--17阶套装属性-->
+<TaoZhuang ID="171102" Name="战鬼的怒吼" GoodsID="1000117,1100017,1000217,1000317,1000417" Multi="0" TaoZhuangProps="2,Mdefense,16400-20000|3,Attack,16400-20000|4,MaxLifeV,41000|5,Defense,16400-20000" />
+<TaoZhuang ID="171202" Name="魔魂的梦魇" GoodsID="1010117,1010017,1010217,1010317,1010417" Multi="0" TaoZhuangProps="2,Mdefense,16400-20000|3,Mattack,16400-20000|4,MaxLifeV,41000|5,Defense,16400-20000" />
+<TaoZhuang ID="171302" Name="刺骨的天霜" GoodsID="1020117,1020017,1020217,1020317,1020417" Multi="0" TaoZhuangProps="2,Mdefense,16400-20000|3,Attack,16400-20000|4,MaxLifeV,41000|5,Defense,16400-20000" />
+<TaoZhuang ID="171402" Name="夜幕的叹息" GoodsID="1030017,1030117,1030217,1030317,1030417" Multi="0" TaoZhuangProps="2,Mdefense,16400-20000|3,Attack,16400-20000|4,MaxLifeV,41000|5,Defense,16400-20000" />
+<TaoZhuang ID="171502" Name="夜幕的唏嘘" GoodsID="1040017,1040117,1040217,1040317,1040417" Multi="0" TaoZhuangProps="2,Mdefense,16400-20000|3,Mattack,16400-20000|4,MaxLifeV,41000|5,Defense,16400-20000" />
+<TaoZhuang ID="171602" Name="冥火的燃烧" GoodsID="1050017,1050117,1050217,1050317,1050417" Multi="0" TaoZhuangProps="2,Mdefense,16400-20000|3,Mattack,16400-20000|4,MaxLifeV,41000|5,Defense,16400-20000" />
+<!--17阶饰品属性-->
+<TaoZhuang ID="172102" Name="混沌的裂缝" GoodsID="1000617,1000517" Multi="1" TaoZhuangProps="2,LifeSteal,3080|2,MaxLifeV,41000|3,AddAttack,11000" />
+<TaoZhuang ID="172202" Name="混沌的裂缝" GoodsID="1010617,1010517" Multi="1" TaoZhuangProps="2,LifeSteal,3080|2,MaxLifeV,41000|3,AddAttack,11000" />
+<TaoZhuang ID="172302" Name="混沌的裂缝" GoodsID="1020617,1020517" Multi="1" TaoZhuangProps="2,LifeSteal,3080|2,MaxLifeV,41000|3,AddAttack,11000" />
+<TaoZhuang ID="172402" Name="混沌的裂缝" GoodsID="1030617,1030517" Multi="1" TaoZhuangProps="2,LifeSteal,3080|2,MaxLifeV,41000|3,AddAttack,11000" />
+<TaoZhuang ID="172502" Name="混沌的裂缝" GoodsID="1040617,1040517" Multi="1" TaoZhuangProps="2,LifeSteal,3080|2,MaxLifeV,41000|3,AddAttack,11000" />
+  </Config>

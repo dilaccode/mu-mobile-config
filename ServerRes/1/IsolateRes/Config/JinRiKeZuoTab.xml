@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeiRiBiZuoTab>
+  <MeiRiBiZuo ID="1" Name="EXP" />
+  <MeiRiBiZuo ID="2" Name="Bound Zen" />
+  <MeiRiBiZuo ID="3" Name="Gem" />
+  <MeiRiBiZuo ID="4" Name="Equipment  " />
+  <MeiRiBiZuo ID="5" Name="Jewel" />
+  <MeiRiBiZuo ID="6" Name="Condor" />
+  <MeiRiBiZuo ID="7" Name="Achievement" />
+  <MeiRiBiZuo ID="8" Name="Fame" />
+  <MeiRiBiZuo ID="9" Name="Bound Diamond" />
+  <MeiRiBiZuo ID="10" Name="Aether Dust" />
+</MeiRiBiZuoTab>

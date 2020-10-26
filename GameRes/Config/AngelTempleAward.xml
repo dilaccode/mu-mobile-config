@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Award ID="1" MinPaiMing="1" MaxPaiMing="1" Goods="2018,7,1,0,0,0,0|2020,10,1,0,0,0,0" ShengWang="5000" Gold="1000000" />
+  <Award ID="2" MinPaiMing="2" MaxPaiMing="2" Goods="2018,6,1,0,0,0,0|2020,8,1,0,0,0,0" ShengWang="3000" Gold="600000" />
+  <Award ID="3" MinPaiMing="3" MaxPaiMing="3" Goods="2018,5,1,0,0,0,0|2020,6,1,0,0,0,0" ShengWang="2500" Gold="500000" />
+  <Award ID="4" MinPaiMing="4" MaxPaiMing="4" Goods="2018,4,1,0,0,0,0|2020,6,1,0,0,0,0" ShengWang="2000" Gold="400000" />
+  <Award ID="5" MinPaiMing="5" MaxPaiMing="5" Goods="2018,3,1,0,0,0,0|2020,5,1,0,0,0,0" ShengWang="1500" Gold="300000" />
+  <Award ID="6" MinPaiMing="6" MaxPaiMing="6" Goods="2018,2,1,0,0,0,0|2020,5,1,0,0,0,0" ShengWang="1000" Gold="200000" />
+  <Award ID="7" MinPaiMing="7" MaxPaiMing="7" Goods="2018,2,1,0,0,0,0|2020,4,1,0,0,0,0" ShengWang="1000" Gold="200000" />
+  <Award ID="8" MinPaiMing="8" MaxPaiMing="8" Goods="2018,2,1,0,0,0,0|2020,4,1,0,0,0,0" ShengWang="1000" Gold="200000" />
+  <Award ID="9" MinPaiMing="9" MaxPaiMing="9" Goods="2018,2,1,0,0,0,0|2020,3,1,0,0,0,0" ShengWang="1000" Gold="200000" />
+  <Award ID="10" MinPaiMing="10" MaxPaiMing="10" Goods="2018,2,1,0,0,0,0|2020,2,1,0,0,0,0" ShengWang="1000" Gold="200000" />
+  <Award ID="11" MinPaiMing="11" MaxPaiMing="100000" Goods="2018,1,1,0,0,0,0|2020,1,1,0,0,0,0" ShengWang="200" Gold="40000" />
+</Config>

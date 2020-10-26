@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Types>
+		<Type ID="101" Title="Items" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+		<Type ID="201" Title="Fruit" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+		<Type ID="301" Title="Spirit items" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+		<Type ID="401" Title="Artifacts Debris" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+		<!-- <Type ID="501" Title="Wings Upgrade" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />-->
+  </Types>
+</config>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="59" FromDate="2019-08-10 00:00:00"  ToDate="2019-08-17 23:59:59" AwardStartDate="2019-08-10  00:00:00" AwardEndDate="2019-08-17 23:59:59" />
+  <GiftList Description="En el momento del evento ¡Una vez que te hayas protegido, serás recompensado con premios!
+                         segui descubriendo el mundo Ragnarok!!!">
+    <Award ID="1" HuShenFuLevel="6" GoodsOne="5203,30,1,0,0,0,0|5050,30,1,0,0,0,0|50165,5,1,0,0,0,0|5313,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" HuShenFuLevel="7" GoodsOne="5203,40,1,0,0,0,0|5050,40,1,0,0,0,0|50165,10,1,0,0,0,0|5313,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" HuShenFuLevel="8" GoodsOne="5203,50,1,0,0,0,0|5050,50,1,0,0,0,0|50165,15,1,0,0,0,0|5313,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" HuShenFuLevel="9" GoodsOne="5203,60,1,0,0,0,0|5050,60,1,0,0,0,0|50165,20,1,0,0,0,0|5313,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" HuShenFuLevel="10" GoodsOne="5203,70,1,0,0,0,0|5050,70,1,0,0,0,0|50165,25,1,0,0,0,0|5313,15,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" HuShenFuLevel="11" GoodsOne="5203,80,1,0,0,0,0|5050,80,1,0,0,0,0|50165,30,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="7" HuShenFuLevel="12" GoodsOne="5203,90,1,0,0,0,0|5050,90,1,0,0,0,0|50165,35,1,0,0,0,0|5313,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+   </GiftList>
+</Config>

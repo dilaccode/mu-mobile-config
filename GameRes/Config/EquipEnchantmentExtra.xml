@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EquipEnchantmentExtra ID="1" Name="อัตราโจมตีดีเลิศ" Condition="1,2" Type="FatalAttack" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="2" Name="อัตราโจมตีดีเลิศ" Condition="3,4" Type="FatalAttack" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="3" Name="อัตราเพิ่มHPสูงสุด" Condition="15,6" Type="MaxLifePercent" Parameter="0.02,0.6|0.04,0.38|0.06,0.02" />
+  <EquipEnchantmentExtra ID="4" Name="เพิ่มความเสียหาย" Condition="7,8" Type="AddAttackInjurePercent" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="5" Name="เพิ่มความเสียหาย" Condition="9,10" Type="AddAttackInjurePercent" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="6" Name="ต้านทานโจมตี2เท่า" Condition="11,12" Type="DeDoubleAttack" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="7" Name="อัตราร้อยละฟื้นฟูแม่นยำ" Condition="13,14" Type="LifeStealPercent" Parameter="0.02,0.6|0.04,0.38|0.06,0.02" />
+  <EquipEnchantmentExtra ID="8" Name="อัตราโจมตีเดธ" Condition="15,16" Type="DoubleAttack" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+</Config>

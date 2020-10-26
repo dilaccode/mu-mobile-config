@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <BuChang ID="1" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="16" MaxLevel="100" AwardExp="" MoJing="0" Goods="50164,1,1,0,0,0,0|50306,1,1,0,0,0,0|63021,1,1,0,0,0,0|14001002,2,1,0,0,0,0" />
+</Config>

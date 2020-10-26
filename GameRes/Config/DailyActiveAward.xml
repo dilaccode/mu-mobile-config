@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <DailyActiveAward>
+    <Award ID="1" NeedhuoYue="20" GoodsID="50020,5,1,0,0,0,0|2005,1,1,0,0,0,0" />
+    <Award ID="2" NeedhuoYue="60" GoodsID="50020,10,1,0,0,0,0|2005,2,1,0,0,0,0" />
+    <Award ID="3" NeedhuoYue="100" GoodsID="50020,15,1,0,0,0,0|2005,3,1,0,0,0,0" />
+    <Award ID="4" NeedhuoYue="150" GoodsID="50020,20,1,0,0,0,0|2005,5,1,0,0,0,0" />
+    <Award ID="5" NeedhuoYue="200" GoodsID="50020,25,1,0,0,0,0|50164,1,1,0,0,0,0" />
+  </DailyActiveAward>
+</Config>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="71" FromDate="2017-08-01 00:00:00" ToDate="2017-12-01 23:59:59" AwardStartDate="2017-08-01 00:00:00" AwardEndDate="2017-12-01 23:59:59" />
+  <GiftList Description="ตอบแทนการเติมเงินจำกัดเวลา ดูรายละเอียดได้ในหน้านี้">
+    <Award />
+  </GiftList>
+</Config>

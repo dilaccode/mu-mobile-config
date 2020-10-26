@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Describe the device renewal" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. The minimum reborn device can pass{17e43e} new generation device{dac7ae} promote advanced devices{17e43e} plating{dac7ae},{17e43e} melting point{dac7ae},{17e43e} nirvana{dac7ae}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. When promoted, in addition to the need to have a minimum rebirth device, also used{17e43e} plating{dac7ae},{17e43e} melting point{dac7ae},{17e43e} nirvana{dac7ae}." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Promoted{17e43e} success rate{dac7ae}, will be achieved{17e43e}{dac7ae} 1-step new generation device, failure can not{17e43e} damage{dac7ae} original equipment." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. Gem embedded on the original device{17e43e}{dac7ae} the latter can inherit a step on the device to be advanced" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. Post-graduation, whether the original equipment{17e43e} tied{dac7ae}, no matter{17e43e} successful{dac7ae}, the device is built purely{17e43e} tether feature{dac7ae}." Bold="0" />
+</Config>
