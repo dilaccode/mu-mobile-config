@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Config>
 	<Mall>
-		<Tab ID="100000" Name="Limited Items" />
-		<Tab ID="100" Name="Daily" />
-		<Tab ID="200" Name="Consumption" />
-		<Tab ID="10000" Name="Bound Diamond" />
+		<Tab ID="100000" Name="Discount"/>
+		<Tab ID="100" Name="Diamond"/>
+		<Tab ID="200" Name="Use"/>
+		<Tab ID="10000" Name="Lock Diamond"/>
 	</Mall>
 </Config>
