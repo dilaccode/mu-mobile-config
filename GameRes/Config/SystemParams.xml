@@ -72,7 +72,7 @@
     <!--MU装备转生所需消耗魔晶,必须为11项-->
     <Param Name="EquipZhuanShengNeedMoJing" Value="0,100,200,300,400,500,600,700,800,900,1000" />
     <!--MU装备转生成功概率,必须为11项-->
-    <Param Name="EquipZhuanShengRate" Value="0,80,75,70,65,55,45,45,45,50,50" />
+    <Param Name="EquipZhuanShengRate" Value="0,100,100,100,100,100,100,100,100,100,100" />
     <!--MU装备转生提升攻击力上下限加成,必须为11项-->
     <Param Name="EquipZhuanShengAddAttackRates" Value="0,0.2,0.4,0.6,0.8,1,1.2,1.5,1.8,2.3,3" />
     <!--MU装备转生提升防御力上下限加成,必须为11项-->
@@ -82,7 +82,7 @@
     <!--MU装备转生剥离消耗钻石,必须为11项，从第一个0转装备开始,依此类推-->
     <Param Name="EquipZhuanShengBoLiZhuanShi" Value="0,2,6,18,54,162,486,972,1944,3888,7776" />
     <!--MU装备转生剥离概率,必须为11项，从第一个0转装备开始,依此类推-->
-    <Param Name="EquipZhuanShengBoLiRates" Value="0,80,75,70,65,55,45,45,45,50,50" />
+    <Param Name="EquipZhuanShengBoLiRates" Value="0,100,100,100,100,100,100,100,100,100,100" />
     <!--MU装备还魂消耗,道具ID,金币消耗-->
     <Param Name="EquipHuanHun" Value="80001,100000" />
     <!--MU装备器之魂有效时间,单位分钟-->
